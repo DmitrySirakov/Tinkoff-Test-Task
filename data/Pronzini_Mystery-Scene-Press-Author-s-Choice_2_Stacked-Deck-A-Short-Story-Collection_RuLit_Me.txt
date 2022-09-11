@@ -1,0 +1,964 @@
+
+   Bill Pronzini
+   Stacked Deck: A Short Story Collection
+   Issue 2, November, 1991. Copyright© 1991 by Pulphouse Publishing, Box 1227, Eugene, OR 97440.
+   “...But First, a Few Words from the Author” copyright © 1991 by Bill Pronzini.
+   “Stacked Deck” copyright © 1987 by Bill Pronzini. First published inNew Black Mask #8.
+   “Night Freight” copyright © 1967 by Renown Publications, Inc. Revised version copyright © 1991 by Bill Pronzini. First published inMike Shayne Mystery Magazine.
+   “Here Comes Santa Claus” copyright © 1989 by Bill Pronzini. First published in Mistletoe Mysteries.
+   “I Didn’t Do It” copyright © 1990 by Bill Pronzini. First published in New Crimes 2.
+   “Connoisseur” copyright © 1980 by Bill Pronzini. First published in Who Done It?
+   “Out behind the Shed” copyright © 1991 by Bill Pronzini. First published in Final Shadows.
+   “Vanishing Act” copyright © 1975 by H.S.D. Publications, Inc. First published inAlfred Hitchcock’s Mystery Magazine.
+   ...But First, A Few Words from the Author
+   Topic for debate: Should a fiction writer specialize in one type of story, or should he diversify as much as possible?
+   In today’s limited marketplace, many writers feel specialization is the way to go. Concentrate on one particular category, such as crime fiction; perhaps go a step further and concentrate on a particular sub-genre, such as the series detective story. By doing this, proponents claim, the writer avoids thepitfail of spreading himself too thin; and hones his craft in effect by repetition — writing the same sort of thing over and over until he perfects it.
+   I don’t happen to agree with this literary philosophy. There is too much danger, it seems to me, of stagnation; of familiarity breeding burnout or complacency; of the fine edge of one’s abilities being unconsciously dulled rather than sharpened. The challenge of writing — and, one hopes, writing well — something new and different on a regular basis is what helps keep my interest keen and what allows me to stretch and grow. Over the past quarter-century I’ve written mainstream, detective, suspense, adventure, horror, fantasy, Western, men’s magazine, erotic, and science fiction stories — most types of each, from the satirical to the deadly serious. Not always successfully, God knows, but always with enthusiasm and without failing to learn something about my craft. Even in my series fiction — the “Nameless Detective” has now appeared in nearly twenty novels and more than thirty short stories — I try to make each book and each story in some way distinct from the others, to the point of taking a major departural risk now and then (vide: Shackles).
+   The present collection is an example in miniature of my philosophy of fiction writing (or“fiction racketeering,” as Jack Woodford used to call it). Each of the seven selections is quite different from the others in both style and content, though each in essence is a crime story.
+   “Stacked Deck,” for openers, is solidly in theBlack Mask school (and was, in fact, first published in theNew Black Mask, a short-lived revival of that fine old pulp magazine). It is one of the few stories of this type that I’ve done, despite the critics and labelers who persist in calling the “Nameless Detective” series “hardboiled.” (The “Nameless” series is actually humanist crime fiction — or, as another labeler once termed it, “confessional crime fiction.”) The true hardboiled story was born inthe Depression Thirties and died in the post-war Forties; everything since that has been labeled hardboiled is either a pallid imitation, or an homage perpetuated by a fictioneer such as me who loves the real thing, or some other kind of criminous tale (usually one featuring a private detective as protagonist) that has been misrepresented so it will fit into a convenient niche.
+   “Night Freight,” which originally appeared inMike Shayne Mystery Magazine in early 1967, was my second published story. (The first,“You Don’t Know What It’s Like,” a shameless Hemingway pastiche, appeared inShell Scott Mystery Magazine a few months earlier.) Flawed though it is,“Night Freight” is a reasonably effective sample of the psychological crime story, the sort that has a nasty little stinger in its tail.
+   “Here Comes Santa Claus” is a “Nameless” yam, the only one I’ve included here. It was commissioned for Mistletoe Mysteries, an anthology edited by Charlotte MacLeod of, according to its publishers, “new mystery stories centered around a Yuletide theme, written by some of the best practitioners of the cozy mystery working today.” See what I mean about misrepresentative labeling? I chose it because it is both an atypical “Nameless” and a humorous crime story. (Well,I think it’s funny, anyway. Ho, ho, ho...)
+   “I Didn’t Do It,” from Maxim Jakubowski’s New Crimes 2, is several things despite its brevity: a monologue story, told entirely in the singular voice of the narrator; a slice-of-life character study; an exercise in dark irony; a commentary on present-day attitudes and mores. And if that sounds as though I’m portraying myself as aliterateurwho sets out to write multi-level set pieces, let me hasten to add that I began the thing with only a vague notion of where it was going and didn’t realize what I had until I finished it. So much for genius. I’ll settle for blind luck.
+   “Connoisseur” started life in a puzzle book, though it isn’t and was never intended to be a puzzle story. Puzzled? The explanation is simple: It was written for an anthology called Who Done It? edited by Alice Laurence and Isaac Asimov, in which the authors’ names were presented in code andthe reader was challenged to literally decipher who done what. For this reason, contributors were urged to create a story that was markedly different from their usual output, so that readers couldn’t make easy guesses based on style and content. “Connoisseur,” therefore, is unlike anything I did before or have done since — an old-fashioned biter-bit story featuring a lot of esoteric information about fine wines. (Amazing, isn’t it, how knowledgeable on a given subject us scribblers can seem to be after a little diligent research?)
+   “Out Behind the Shed” is a pure horror story — not the bloody slasher variety so prevalent today, though it does contain a measure of violence, but the ambiguous kind calculated, after the fashion of William Fryer Harvey’s “August Heat,” to make you think as well as shudder. Charles Grant included it in the last of his fine series of Shadows anthologies.
+   “Vanishing Act,” written in collaboration with Michael Kurland, is another kind of detective tale — an impossible-crime story, one of my favorite subgenres, about a baffling murder and disappearance during a stage magic show. The sleuth is a magician named Christopher Steele, who was created as a series detective but who appeared in just one other Kurland/Pronzini impossible-crime novelette, “Quicker than the Eye”; both stories were first published inAlfred Hitchcock’s Mystery Magazine in the mid-Seventies. I can’t remember exactly why we didn’t write more Steele adventures. Certainly we both enjoyed concocting the two, in particular because the Magic Cellar, the setting of the stories, was an actual San Francisco night club which catered to local writers and in which Michael and I spent many pleasant evenings. (One of the characters in “Vanishing Act,” Cedric Clute, is a real person who did in fact own the real Magic Cellar.) The Cellar no longer exists; it and Earthquake McGoon’s, a jazz club that shared the same premises, were rendered extinct in the late Seventies when the building was tom down to make way for a damn parking garage.
+   Have I succeeded in my aim to not only write seven different varieties of crime story, but to write each of them well? You’re the final judge of that. If you give thumbs-up to at least four of the selections, I’ll be happy. And relieved. Fiction writers, unlike multi-millionaire baseball players, have to maintain an above — .500 batting average to stay in the major leagues.
+
+   — Bill Pronzini
+   Sonoma, California
+   April 1991
+   Stacked Deck
+   1
+   From where he stood in the shadow of a split-bole Douglas fir, Deighan had a clear view of the cabin down below. Big harvest moon tonight, and only a few streaky clouds scudding past now and then to dim its hard yellow shine. The hard yellow glistened off the surface of Lake Tahoe beyond, softened into a long silverish stripe out toward the middle. The rest of the water shone like polished black metal. All of it was empty as far as he could see, except for the red-and-green running lights of a boat well away to the south, pointed toward the neon shimmer that marked the South Shore gambling casinos.
+   The cabin was big, made of cut pine logs and redwood shakes. It had a railed redwood deck that overlooked the lake, mostly invisible from where Deighan was. A flat concrete pier jutted out into the moonstruck water, a pair of short wooden floats making a T at its outer end. The boat tied up there was a thirty-foot Chris-Craft with sleeping accommodations for four. Nothing but the finer things for the Shooter.
+   Deighan watched the cabin. He’d been watching it for three hours now, from this same vantage point. His legs bothered him a little, standing around like this, and his eyes hurt from squinting. Time was, he’d had the night vision of an owl. Not anymore. What he had now, that he hadn’t had when he was younger, was patience. He’d learned that in the last three years, along with a lot of other things — patience most of all.
+   On all sides the cabin was dark, but that was because they’d put the blackout curtains up. The six of them had been inside for better than two hours now, the same five-man nucleus as on every Thursday night except during the winter months, plus the one newcomer. The Shooter went to Hawaii when it started to snow. Or Florida or the Bahamas — someplace warm. Mannlicher and Brandt stayed home in the winter. Deighan didn’t know what the others did, and he didn’t care.
+   A match flared in the darkness between the carport, where the Shooter’s Caddy Eldorado was slotted, and the parking area back among the trees. That was the lookout — Mannlicher’s boy. Some lookout: he smoked a cigarette every five minutes, like clockwork, so you always knew where he was. Deighan watched him smoke this one. When he was done, he threw the butt away in a shower of sparks, and then seemed to remember that he was surrounded by dry timber and went after it and stamped it out with his shoe.Some lookout.
+   Deighan held his watch up close to his eyes, pushed the little button that lighted its dial. Ten-nineteen. Just about time. The lookout was moving again, down toward the lake. Pretty soon he would walk out on the pier and smoke another cigarette and admire the view for a few minutes. He apparently did that at least twice every Thursday night— that had been his pattern on each of the last two — and he hadn’t gone through the ritual yet tonight. He was bored, that was the thing. He’d been at his job a long time and it was always the same; there wasn’t anything for him to do except walk around and smoke cigarettes and look at three hundred square miles of lake. Nothing ever happened. In three years nothing had ever happened.
+   Tonight something was going to happen.
+   Deighan took the gun out of the clamshell holster at his belt. It was a Smith& Wesson .38, light-weight, compact— a good piece, one of the best he’d ever owned. He held it in his hand, watching as the lookout performed as if on cue — walked to the pier, stopped, then moved out along its flat surface. When the guy had gone halfway, Deighan came out of the shadows and went down the slope at an angle across the driveway, to the rear of the cabin. His shoes made little sliding sounds on the needled ground, but they weren’t sounds that carried.
+   He’d been over this ground three times before, dry runs the last two Thursday nights and once during the day when nobody was around; he knew just where and how to go. The lookout was lighting up again, his back to the cabin, when Deighan reached the rear wall. He eased along it to the spare-bedroomwindow. The sash went up easily, noiselessly. He could hear them then, in the rec room — voices, ice against glass, the click and rattle of the chips. He got the ski mask from his jacket pocket, slipped it over his head, snugged it down. Then he climbed through the window, put his penlight on just long enough to orient himself, went straight across to the door that led into the rec room.
+   It didn’t make a sound, either, when he opened it. He went in with the revolver extended, elbow locked. Sturgess saw him first. He said, “Jesus Christ!” and his body went as stiff as if he were suffering a stroke. The others turned in their chairs, gawking. The Shooter started up out of his.
+   Deighan said, fast and hard,“Sit still if you don’t want to die. Hands on the table where I can see them — all of you. Do it!”
+   They weren’t stupid; they did what they were told. Deighan watched them through a thin haze of tobacco smoke. Six men around the hexagonal poker table, hands flat on its green baize, heads lifted or twisted to stare at him. He knew five of them. Mannlicher, the fat owner of the Nevornia Club; he had Familyties, even though he was a Prussian, because he’d once done some favors for an east-coastcapo. Brandt, Mannlicher’s cousin and private enforcer, who doubled as the Nevornia’s floor boss. Bellah, the quasi-legitimate real-estate developer and high roller. Sturgess, the bankroll behind the Jackpot Lounge up at North Shore. And the Shooter — hired muscle, hired gun, part-time coke runner, whose real name was Dennis D’Allesandro. The sixth man was the pigeon they’d lured in for this particular game, a lean guy in his fifties with Texas oil money written all over him and his fancy clothes — Donley or Donavan, something like that.
+   Mannlicher was the bank tonight; the table behind his chair was covered with stacks of dead presidents— fifties and hundreds, mostly. Deighan took out the folded-up flour sack, tossed it on top of the poker chips that littered the baize in front of Mannlicher. “All right. Fill it.”
+   The fat man didn’t move. He was no pushover; he was hard, tough, mean. And he didn’t like being ripped off. Veins bulged in his neck, throbbed in his temples. The violence in him was close to the surface now, held thinly in check.
+   “You know who we are?” he said. “Who I am?”
+   “Fill it.”
+   “You dumb bastard. You’ll never live to spend it.”
+   “Fill the sack.Now.”
+   Deighan’s eyes, more than his gun, made up Mannlicher’s mind for him. He picked up the sack, pushed around in his chair, began to savagely feed in the stacks of bills.
+   “The rest of you,” Deighan said, “put your wallets, watches, jewelry on the table. Everything of value. Hurry it up.”
+   The Texan said,“Listen heah—” and Deighan pointed the .38 at his head and said, “One more word, you’re a dead man.” The Texan made an effort to stare him down, but it was just to save face; after two or three seconds he lowered his gaze and began stripping the rings off his fingers.
+   The rest of them didn’t make any fuss. Bellah was sweating; he kept swiping it out of his eyes, his hands moving in little jerks and twitches. Brandt’s eyes were like dull knives, cutting away at Deighan’s masked face. D’Allesandro showed no emotion of any kind. That was his trademark; he was your original iceman. They might have called him that, maybe, if he’d been like one of those old-timers who used an ice pick or a blade. As it was, with his preferences, the Shooter was the right name for him.
+   Mannlicher had the sack full now. The platinum ring on his left hand, with its circle of fat diamonds, made little gleams and glints in the shine from the low-hanging droplight. The idea of losing that bothered him even more than losing his money; he kept running the fingers of his other hand over the stones.
+   “The ring,” Deighan said to him. “Take it off.”
+   “Go to hell.”
+   “Take it off or I’ll put a third eye in the middle of your forehead. Your choice.”
+   Mannlicher hesitated, tried to stare him down, didn’t have any better luck at it than the Texan. There was a tense moment; then, because he didn’t want to die over a piece of jewelry, he yanked the ring off, slammed it down hard in the middle of the table.
+   Deighan said,“Put it in the sack. The wallets and the rest of the stuff too.”
+   This time Mannlicher didn’t hesitate. He did as he’d been told.
+   “All right,” Deighan said. “Now get up and go over by the bar. Lie down on the floor on your belly.”
+   Mannlicher got up slowly, his jaw set and his teeth clenched as if to keep the violence from spewing out like vomit. He lay down on the floor. Deighan gestured at Brandt, said,“You next. Then the rest of you, one at a time.”
+   When they were all on the floor he moved to the table, caught up the sack.“Stay where you are for ten minutes,” he told them. “You move before that, or call to the guy outside, I’ll blow the place up. I got a grenade in my pocket, the fragmentation kind. Anybody doubt it?”
+   None of them said anything.
+   Deighan backed up into the spare bedroom, leaving the door open so he could watch them all the way to the window. He put his head out, saw no sign of the lookout. Still down by the lake somewhere. The whole thing had taken just a few minutes.
+   He swung out through the window, hurried away in the shadows— but in the opposite direction from the driveway and the road above. On the far side of the cabin there was a path that angled through the pine forest to the north; he found it, followed it at a trot. Enough moonlight penetrated through the branches overhead to let him see where he was going.
+   He was almost to the lakefront when the commotion started back there: voices, angry and pulsing in the night, Mannlicher’s the loudest of them. They hadn’t waited the full ten minutes, but then he hadn’t expected them to. It didn’t matter. The Shooter’s cabin was invisible from here, cut off by a wooded finger of land a hundred yards wide. And they wouldn’t be looking for him along the water, anyway. They’d be up on the road, combing that area; they’d figure automatically that his transportation was a car.
+   The hard yellow-and-black gleam of the lake was just ahead, the rushes and fems where he’d tied up the rented Beachcraft inboard. He moved across the sandy strip of beach, waded out to his calves, dropped the loaded flour sack into the boat, then eased the craft free of the rushes before he lifted himself over the gunwale. The engine caught with a quiet rumble the first time he turned the key.
+   They were still making noise back at the cabin, blundering around like fools, as he eased away into the night.
+   2
+   The motel was called the Whispering Pines. It was back off Highway 28 below Crystal Bay, a good half mile from the lake, tucked up in a grove of pines and Douglas fir. Deighan’s cabin was the farthest from the office, detached from its nearest neighbor by thirty feet of open ground.
+   Inside he sat in darkness except for flickering light from the television. The set was an old one; the picture was riddled with snow and kept jumping every few seconds. But he didn’t care; he wasn’t watching it. Or listening to it: he had the sound turned off. It was on only because he didn’t like waiting in the dark.
+   It had been after midnight when he came in— too late to make the ritual call to Fran, even though he’d felt a compulsion to do so. She went to bed at eleven-thirty; she didn’t like the phone to ring after that. How could he blame her? When he was home and she was away at Sheila’s or her sister’s, he never wanted it to ring that late either.
+   It was one-ten now. He was tired, but not too tired. The evening was still in his blood, warming him, like liquor or drugs that hadn’t quite worn off yet. Mannlicher’s face... that was an image he’d never forget. The Shooter’s, too, and Brandt’s, but especially Mannlicher’s.
+   Outside, a car’s headlamps made a sweep of light across the curtained window as it swung in through the motel courtyard. When it stopped nearby and the lights went out, Deighan thought: It’s about time.
+   Footsteps made faint crunching sounds on gravel. Soft knock on the door. Soft voice following:“Prince? You in there?”
+   “Door’s open.”
+   A wedge of moonlight widened across the floor, not quite reaching to where Deighan sat in the lone chair with the .38 in his hand. The man who stood silhouetted in the opening made a perfect target— just a damned airhead, any way you looked at him.
+   “Prince?”
+   “I’m over here. Come on in, shut the door.”
+   “Why don’t you turn on a light?”
+   “There’s a switch by the door.”
+   The man entered, shut the door. There was a click and the ceiling globe came on. Deighan stayed where he was, but reached over with his left hand to turn off the TV.
+   Bellah stood blinking at him, running his palms along the sides of his expensive cashmere jacket. He said nervously,“For God’s sake, put the gun away. What’s the idea?”
+   “I’m the cautious type.”
+   “Well, put it away. I don’t like it.”
+   Deighan got to his feet, slid the revolver into his belt holster.“How’d it go?”
+   “Hairy, damned hairy. Mannlicher was like a madman.” Bellah took a handkerchief out of his pocket, wiped his forehead. His angular face was pale, shiny-damp. “I didn’t think he’d take it this hard. Christ.”
+   That’s the trouble with people like you, Deighan thought. You never think. He pinched a cigarette out of his shirt pocket, lit it with the Zippo Fran had given him fifteen years ago. Fifteen years, and it still worked. Like their marriage, even with all the trouble. How long was it now? Twenty-two years in May? Twenty-three?
+   Bellah said,“He started screaming at D’Allesandro. I thought he was going to choke him.”
+   “Who? Mannlicher?”
+   “Yeah. About the window in the spare bedroom.”
+   “What’d D’Allesandro say?”
+   “He said he always keeps it locked, you must have jimmied it some way that didn’t leave any traces. Mannlicher didn’t believe him. He thinks D’Allesandro forgot to lock it.”
+   “Nobody got the idea it was an inside job?”
+   “No.”
+   “Okay then. Relax, Mr. Bellah. You’re in the clear.”
+   Bellah wiped his face again.“Where’s the money?”
+   “Other side of the bed. On the floor.”
+   “You count it?”
+   “No. I figured you’d want to do that.”
+   Bellah went over there, picked up the flour sack, emptied it on the bed. His eyes were bright and hot as he looked at all the loose green. Then he frowned, gnawed at his lower lip, and poked at Mannlicher’s diamond ring. “What’d you take this for? Mannlicher is more pissed about the ring than anything else. He said his mother gave it to him. It’s worth ten thousand.”
+   “That’s why I took it,” Deighan said. “Fifteen percent of the cash isn’t a hell of a lot.”
+   Bellah stiffened.“I set it all up, didn’t I? Why shouldn’t I get the lion’s share?”
+   “I’m not arguing, Mr. Bellah. We agreed on a price; okay, that’s the way it is. I’m only saying I got a right to a little something extra.”
+   “All right, all right.” Bellah was looking at the money again. “Must be at least two hundred thousand,” he said. “That Texan, Donley, brought fifty grand alone.”
+   “Plenty in his wallet too, then.”
+   “Yeah.”
+   Deighan smoked and watched Bellah count the loose bills and what was in the wallets and billfolds. There was an expression on the developer’s face like a man has when he’s fondling a naked woman. Greed, pure and simple. Greed was what drove Lawrence Bellah; money was his best friend, his lover, his god. He didn’t have enough ready cash to buy the lakefront property down near Emerald Bay — property he stood to make three to four million on, with a string of condos — and he couldn’t raise it fast enough any legitimate way; so he’d arranged to get it by knocking over his own weekly poker game, even if it meant crossing some hard people. He had balls, you had to give him that. He was stupid as hell, and one of these days he was liable to end up in pieces at the bottom of the lake, but he did have balls.
+   He was also lucky, at least for the time being, because the man he’d picked to do his strong-arm work was Bob Prince. He had no idea the name was a phony, no idea the whole package on Bob Prince was the result of three years of careful manipulation. All he knew was that Prince had a reputation as dependable, easy to work with, not too smart or money-hungry, andthat he was willing to do any kind of muscle work. Bellah didn’t have an inkling of what he’d really done by hiring Bob Prince. If he kept on being lucky, he never would.
+   Bellah was sweating by the time he finished adding up the take.“Two hundred and thirty-three thousand and change,” he said. “More than we figured on.”
+   “My cut’s thirty-five thousand,” Deighan said.
+   “You divide fast.” Bellah counted out two stacks, hundreds and fifties, to one side of the flowered bedspread. Then he said, “Count it? Or do you trust me?”
+   Deighan grinned. He rubbed out his cigarette, went to the bed, and took his time shuffling through the stacks.“On the nose,” he said when he was done.
+   Bellah stuffed the rest of the cash back into the flour sack, leaving the watches and jewelry where they lay. He was still nervous, still sweating; he wasn’t going to sleep much tonight, Deighan thought.
+   “That’s it, then,” Bellah said. “You going back to Chicago tomorrow?”
+   “Not right away. Thought I’d do a little gambling first.”
+   “Around here? Christ, Prince...”
+   “No. Reno, maybe. I might even go down to Vegas.”
+   “Just get away from Tahoe.”
+   “Sure,” Deighan said. “First thing in the morning.”
+   Bellah went to the door. He paused there to tuck the flour sack under his jacket; it made him look as if he had a tumor on his left side.“Don’t do anything with that jewelry in Nevada. Wait until you get back to Chicago.”
+   “Whatever you say, Mr. Bellah.”
+   “Maybe I’ll need you again sometime,” Bellah said. “You’ll hear from me if I do.”
+   “Any time. Any old time.”
+   When Bellah was gone, Deighan put five thousand dollars into his suitcase and the other thirty thousand into a knapsack he’d bought two days before at a South Shore sporting goods store. Mannlicher’s diamond ring went into the knapsack, too, along with the better pieces among the rest of the jewelry. The watches and the other stuff were no good to him; he bundled those up in a hand towel from the bathroom, stuffedthe bundle into the pocket of his down jacket. Then he had one more cigarette, set his portable alarm clock for six a.m., double-locked the door, and went to bed on the left side, with the revolver under the pillow near his right hand.
+   3
+   In the dawn light the lake was like smoky blue glass, empty except for a few optimistic fishermen anchored close to the eastern shoreline. The morning was cold, autumn-crisp, but there was no wind. The sun was just beginning to rise, painting the sky and its scattered cloudstreaks in pinks and golds. There was old snow on the upper reaches of Mount Tallac, on some of the other Sierra peaks that ringed the lake.
+   Deighan took the Beachcraft out half a mile before he dropped the bundle of watches and worthless jewelry overboard. Then he cut off at a long diagonal to the north that brought him to within a few hundred yards of the Shooter’s cabin. He had his fishing gear out by then, fiddling with the glass rod and tackle — just another angler looking for rainbow, Mackinaw, and cutthroat trout.
+   There wasn’t anybody out and around at the Shooter’s place. Deighan glided past at two knots, angled into shore a couple of hundred yards beyond, where there were rushes and some heavy brush and trees overhanging the water. From there he had a pretty good view of the cabin, its front entrance, the Shooter’s Caddy parked inside the carport.
+   It was eight o’clock, and the sun was all the way up, when he switched off the engine and tied up at the bole of the collapsed pine. It was a few minutes past nine-thirty when D’Allesandro came out and walked around to the Caddy. He was alone. No chippies from the casino this morning, not after what had gonedown last night. He might be going to the store for cigarettes, groceries, or to a café somewhere for breakfast. He might be going to see somebody, do some business. The important thing was, how long would he be gone?
+   Deighan watched him back his Caddy out of the carport, drive it away and out of sight on the road above. He stayed where he was, fishing, waiting. At the end of an hour, when the Shooter still hadn’t come back, he started the boat’s engine and took his time maneuvering around the wooded finger of land to the north and then into the cove where he’d anchored last night. He nosed the boat into the reeds and ferns, swung overboard, and pushed it farther in, out of sight. Then he caught up the knapsack and set off through the woods to the Shooter’s cabin.
+   He made a slow half circle of the place, keeping to the trees. The carport was still empty. Nothing moved anywhere within the range of his vision. Finally he made his way down to the rear wall, around it and along the side until he reached the front door. He didn’t like standing out here for even a little while because there was no cover; but this door was the only one into the house, except for sliding doors on the terrace and a porch on the other side, and you couldn’t jimmy sliding doors easily and without leaving marks. The same was true of windows. The Shooter would have made sure they were all secure anyway.
+   Deighan had one pocket of the knapsack open, the pick gun in his hand, when he reached the door. He’d got the pick gun from a housebreaker named Caldwell, an old-timer who was retired now; he’d also got some other tools and lessons in how to use them on the various kinds of locks. The lock on the Shooter’s door was a flush-mounted, five-pin cylinder lock, with a steel lip on the door frameto protect the bolt and strike plate. That meant it was a lock you couldn’t loid with a piece of plastic or a shim. It also meant that with a pick gun you could probably have it open in a couple of minutes.
+   Bending, squinting, he slid the gun into the lock. Set it, working the little knob on top to adjust the spring tension. Then he pulled the trigger— and all the pins bounced free at once and the door opened under his hand.
+   He slipped inside, nudged the door shut behind him, put the pick gun away inside the knapsack, and drew on a pair of thin plastic gloves. The place smelled of stale tobacco smoke and stale liquor. They hadn’t been doing all that much drinking last night; maybe the Shooter had nibbled a few too many after the rest of them finally left. He didn’t like losing money and valuables any more than Mannlicher did.
+   Deighan went through the front room. Somebody’d decorated the place for D’Allesandro: leather furniture, deer and antelope heads on the walls, Indian rugs on the floors, tasteful paintings. Cocaine deals had paid for part of it; contract work, including two hits on greedy Oakland and San Francisco drug dealers, had paid for the rest. But the Shooter was still small-time. He wasn’t bright enough to be anything else. Cards and dice and whores-in-training were all he really cared about.
+   The front room was no good; Deighan prowled quickly through the other rooms. D’Allesandro wasn’t the kind to have an office or a den, but there was a big old-fashioned rolltop desk in a room with a TV set and one of those big movie-type screens. None of the desk drawers were locked. Deighan pulled out the biggest one, saw that it was loaded with Danish porn magazines, took the magazines out and set them on the floor. He opened the knapsack and transferred the thirty thousand dollars into the back of the drawer. He put Mannlicher’s ring in there, too, along with the other rings and a couple of gold chains the Texan had been wearing. Then he stuffed the porn magazines in at the front and pushed the drawer shut.
+   On his way back to the front room he rolled the knapsack tight around the pick gun and stuffed them into his jacket pocket. He opened the door, stepped out. He’d just finished resetting the lock when he heard the car approaching on the road above.
+   He froze for a second, looking up there. He couldn’t see the car because of a screen of trees; but then he heard its automatic transmission gear down as it slowed for the turn into the Shooter’s driveway. He pulled the door shut and ran toward the lake, the only direction he could go. Fifty feet away the log-railed terrace began, raised up offthe sloping ground on redwood pillars. Deighan caught one of the railings, hauled himself up and half rolled through the gap between them. The sound of the oncoming car was loud in his ears as he landed, off balance, on the deck.
+   He went to one knee, came up again. The only way to tell if he’d been seen was to stop and look, but that was a fool’s move. Instead he ran across the deck, climbed through the railing on the other side, dropped down, and tried to keep from making noise as he plunged into the woods. He stopped moving after thirty yards, where fems and a deadfall formed a thick concealing wall. From behind it, with the .38 in his hand, he watched the house and the deck, catching his breath, waiting.
+   Nobody came up or out on the deck. Nobody showed himself anywhere. The car’s engine had been shut off sometime during his flight; it was quiet now, except for birds and the faint hum of a powerboat out on the lake.
+   Deighan waited ten minutes. When there was still nothing to see or hear, he transcribed a slow curl through the trees to where he could see the front of the cabin. The Shooter’s Caddy was back inside the carport, no sign of haste in the way it had been neatly slotted. The cabin door was shut. The whole area seemed deserted.
+   But he waited another ten minutes before he was satisfied. Even then, he didn’t holster his weapon until he’d made his way around to the cove where the Beachcraft was hidden. And he didn’t relax until he was well out on the lake, headed back toward Crystal Bay.
+   4
+   The Nevornia was one of South Shore’s older clubs, but it had undergone some recent modernizing. Outside, it had been given a glass and gaudy-neon face-lift. Inside, they’d used more glass, some cut crystal, and a wine-red decor that included carpeting, upholstery, and gaming tables.
+   When Deighan walked in a few minutes before two, the banks of slots and the blackjack tables were getting moderately heavy play. That was because it was Friday; some of the small-time gamblers liked to get a jump on the weekend crowds. The craps and roulette layouts were quiet. The high rollers were like vampires: they couldn’t stand the daylight, so they only came out after dark.
+   Deighan bought a roll of quarters at one of the change booths. There were a couple of dozen rows of slots in the main casino— flashy new ones, mostly, with a few of the old scrolled nickel-plated jobs mixed in for the sake of nostalgia. He stopped at one of the old quarter machines, fed in three dollars’ worth. Lemons and oranges. He couldn’t even line up two cherries for a three-coin drop. He smiled crookedly to himself, went away from the slots and into the long concourse that connected the main casino with the new, smaller addition at the rear.
+   There were telephone booths along one side of the concourse. Deighan shut himself inside one of them, put a quarter in the slot, pushed 0 and then the digits of his home number in San Francisco. When the operator came on he said it was a collect call; that was to save himself the trouble of having to feed in a handful of quarters. He let the circuit make exactly five burrs in his ear before he hung up. If Fran was home, she’d know now that he was all right. If she wasn’t home, then she’d know it later when he made another five-ring call. He always tried to call at least twice a day, at different times, because sometimes she went out shopping or to a movie or to visit with Sheila and the kids.
+   It’d be easier if she just answered the phone, talked to him, but she never did when he was away. Never. Sheila or anybody else wanted to get hold of her, they had to call one of the neighbors or come over in person. She didn’t want anything to do with him when he was away, didn’t want to know what he was doing or even when he’d be back. “Suppose I picked up the phone and it wasn’t you?” she’d said. “Suppose it was somebody telling me you were dead? I couldn’t stand that.” That part of it didn’t make sense to him. If he were dead, somebody’d come by and tell it to her face; dead was dead, and what difference did it make how she got the news? But he didn’t argue with her. He didn’t like to argue with her, and it didn’t cost him anything to do it her way.
+   He slotted the quarter again and called the Shooter’s number. Four rings, five, and D’Allesandro’s voice said, “Yeah?”
+   “Mr. Carson?”
+   “Who?”
+   “Isn’t this Paul Carson?”
+   “No. You got the wrong number.”
+   “Oh, sorry,” Deighan said, and rang off.
+   Another quarter in the slot. This time the number he punched out was the Nevomia’s business line. A woman’s voice answered, crisp and professional. He said, “Mr. Mannlicher. Tell him it’s urgent.”
+   “Whom shall I say is calling?”
+   “Never mind that. Just tell him it’s about what happened last night.”
+   “Sir, I’m afraid I can’t—”
+   “Tell him last night’s poker game, damn it. He’ll talk to me.”
+   There was a click and some canned music began to play in his ear. He lit a cigarette. He was on his fourth drag when the canned music quit and the fat man’s voice said, “Frank Mannlicher. Who’s this?”
+   “No names. Is it all right to talk on this line?”
+   “Go ahead, talk.”
+   “I’m the guy who hit your game last night.”
+   Silence for four or five seconds. Then Mannlicher said,“Is that so?” in a flat, wary voice.
+   “Ski mask, Smith& Wesson .38, grenade in my jacket pocket. The take was better than two hundred thousand. I got your ring— platinum with a circle of diamonds.”
+   Another pause, shorter this time.“So why call me today?”
+   “How’d you like to get it all back — the money and the ring?”
+   “How?”
+   “Go pick it up. I’ll tell you where.”
+   “Yeah? Why should you do me a favor?”
+   “I didn’t know who you were last night. I wasn’t told. If I had been, I wouldn’t of gone through with it. I don’t mess with people like you, people with your connections.”
+   “Somebody hired you, that it?”
+   “That’s it.”
+   “Who?”
+   “D’Allesandro.”
+   “What?”
+   “The Shooter. D’Allesandro.”
+   “...Bullshit.”
+   “You don’t have to believe me. But I’m telling you — he’s the one. He didn’t tell me who’d be at the game, and now he’s trying to screw me on the money. He says there was less than a hundred and fifty thousand in the sack; I know better.”
+   “So now you want to screw him.”
+   “That’s right. Besides, I don’t like the idea of you pushing to find out who I am, maybe sending somebody to pay me a visit someday. I figure if I give you the Shooter, you’ll lose interest in me.”
+   More silence.“Why’d he do it?” Mannlicher said in a different voice — harder, with the edge of violence it had held last night. “Hit the game like that?”
+   “He needs some big money, fast. He’s into some kind of scam back east; he wouldn’t say what it is.”
+   “Where’s the money and the rest of the stuff?”
+   “At his cabin. We had a drop arranged in the woods; I put the sack there last night, he picked it up this morning when nobody was around. The money’s in his desk — the big rolltop. Your ring, too. That’s where it was an hour ago, anyhow, when I walked out.”
+   Mannlicher said,“In his desk,” as if he were biting the words off something bitter.
+   “Go out there, see for yourself.”
+   “If you’re telling this straight, you got nothing to worry about from me. Maybe I’ll fix you up with a reward or something. Where can I get in touch?”
+   “You can’t,” Deighan said. “I’m long gone as soon as I hang up this phone.”
+   “I’ll make it five thousand. Just tell me where you—”
+   Deighan broke the connection.
+   His cigarette had burned down to the filter; he dropped it on the floor, put his shoe on it before he left the booth. On his way out of the casino he paused long enough to push another quarter into the same slot machine he’d played before. More lemons and oranges. This time he didn’t smile as he moved away.
+   5
+   Narrow and twisty, hemmed in by trees, Old Lake Road branched off Highway 50 on the Nevada side and took two miles to get all the way to the lake. But it wasn’t a dead-end; another road picked it up at the lakefront and looped back out to the highway. There were several nice homes hidden away in the area — it was called Pine Acres — with plenty of space between them. The Shooter’s cabin was a mile and a half from the highway, off an even narrower lane called Little Cove Road. The only other cabin within five hundred yards was a summer place that the owners had already closed up for the year.
+   Deighan drove past the intersection with Little Cove, went two-tenths of a mile, parked on the turnout at that point. There wasn’t anybody else around when he got out, nothing to see except trees and little winks of blue that marked the nearness of the lake. If anybody came along they wouldn’t pay any attention to the car. For one thing, it was a ’75 Ford Galaxy with nothing distinctive about it except the antenna forthe GTE mobile phone. It was his — he’d driven it up from San Francisco — but the papers on it said it belonged to Bob Prince. For another thing, Old Lake Road was only a hundred yards or so from the water here, and there was a path through the trees to a strip of rocky beach. Local kids usedit in the summer; he’d found that out from Bellah. Kids might have decided to stop here on a sunny autumn day as well. No reason for anybody to think otherwise.
+   He found the path, went along it a short way to where it crossed a little creek, dry now and so narrow it was nothing more than a natural drainage ditch. He followed the creek to the north, on a course he’d taken three days ago. It led him to a shelflike overhang topped by two chunks of granite outcrop that leaned against each other like a pair of old drunks. Below the shelf, the land fell away sharply to the Shooter’s driveway some sixty yards distant. Off to the right, where the incline wasn’t so steep and the trees grew in a pack, was the split-bole Douglas fir where he’d stood waiting last night. The trees were fewer and more widely spaced apart between here and the cabin, so that from behind the two outcrops you had a good look at the Shooter’s property, Little Cove Road, the concrete pier, and the lake shimmering under the late-afternoon sun.
+   The Caddy Eldorado was still slotted inside the carport. It was the only car in sight. Deighan knelt behind where the outcrops came together to form a notch, rubbed tension out of his neck and shoulders while he waited.
+   He didn’t have to wait long. Less than ten minutes had passed when the car appeared on Little Cove Road, slowed, turned down the Shooter’s driveway. It wasn’t Mannlicher’s fancy limo; it was a two-year-old Chrysler — Brandt’s, maybe. Brandt was driving it: Deighan had a clear view of him through the side window as the Chrysler pulled up and stopped near the cabin’s front door. He could also see that the lone passenger was Mannlicher.
+   Brandt got out, opened the passenger door for the fat man, and the two of them went to the cabin. It took D’Allesandro ten seconds to answer Brandt’s knock. There was some talk, not much; then Mannlicher and Brandt went in, and the door shut behind them.
+   All right, Deighan thought. He’d stacked the deck as well as he could; pretty soon he’d know how the hand — and the game — played out.
+   Nothing happened for maybe five minutes. Then he thought he heard some muffled sounds down there, loud voices that went on for a while, something that might have been a bang, but the distance was too great for him to be sure that he wasn’t imagining them. Another four or five minutes went by. And then the door opened and Brandt came out alone, looked around, called something back inside that Deighan didn’t understand. If there was an answer, it wasn’t audible. Brandt shut the door, hurried down to the lake, went out onto thepier. The Chris-Craft was still tied up there. Brandt climbed on board, disappeared for thirty seconds or so, reappeared carrying a square of something gray and heavy. Tarpaulin, Deighan saw when Brandt came back up the driveway. Big piece of it — big enough for a shroud.
+   The Shooter’s hand had been folded. That left three of them still in the game.
+   When Brandt had gone back inside with the tarp, Deighan stood and half ran along the creek and through the trees to where he’d left the Ford. Old Lake Road was deserted. He yanked open the passenger door, leaned in, caught up the mobile phone, and punched out the emergency number for the county sheriff’s office. An efficient-sounding male voice answered.
+   “Something’s going on Little Cove Road,” Deighan said, making himself sound excited. “That’s in Pine Acres, you know? It’s the cabin at the end, down on the lake. I heard shots — people shooting at each other down there. It sounds like a war.”
+   “What’s the address?”
+   “I don’t know the address, it’s the cabin right on the lake. Peopleshooting at each other. You better get right out there.”
+   “Your name, sir?”
+   “I don’t want to get involved. Just hurry, will you?”
+   Deighan put the receiver down, shut the car door, ran back along the path and along the creek to the shelf. Mannlicher and Brandt were still inside the cabin. He went to one knee again behind the outcrops, drew the .38, held it on his thigh.
+   It was another two minutes before the door opened down there. Brandt came out, looked around as he had before, went back inside— and then he and Mannlicher both appeared, one at each end of a big, tarp-wrapped bundle. They started to carry it down the driveway toward the lake. Going to put it on the boat, Deighan thought, take it out now or later on, when it’s dark. Lake Tahoe was sixteen hundred feet deep in the middle. The bundle wouldn’t have been the first somebody* d dumped out there.
+   He let them get clear of the Chrysler, partway down the drive, before he poked the gun into the notch, sighted, and fired twice. The shots went where he’d intended them to, wide by ten feet and into the roadbed so they kicked up gravel. Mannlicher and Brandt froze for an instant, confused. Deighan fired a third round, putting the slug closer this time, and that one panicked them: they let go of the bundle and began scrambling.
+   There was no cover anywhere close by; they both ran for the Chrysler. Brandt had a gun in his hand when he reached it, and he dropped down behind the rear deck, trying to locate Deighan’s position. Mannlicher kept on scrambling around to the passenger door, pulled it open, pushed himself across the seat inside.
+   Deighan blew out the Chrysler’s near front tire. Sighted, and blew out the rear tire. Brandt threw an answering shot his way, but it wasn’t even close. The Chrysler was tilting in Deighan’s direction as the tires flattened. Mannlicher pushed himself out of the car, tried to make a run for the cabin door with his arms flailing, his fat jiggling. Deighan put a bullet into the wall beside the door. Mannlicher reversed himself, fell in his frantic haste, crawled back behind the Chrysler.
+   Reloading the .38, Deighan could hear the sound of cars coming up fast on Little Cove Road. No sirens, but revolving lights made faint blood-red flashes through the trees.
+   From behind the Chrysler Brandt fired again, wildly. Beyond him, on the driveway, one comer of the tarp-wrapped bundle had come loose and was flapping in the wind off the lake.
+   A county sheriff’s cruiser, its roof light slashing the air, made the turn off Little Cove onto the driveway. Another one was right behind it. In his panic, Brandt straightened up when he saw them and fired once, blindly, at the first in line.
+   Deighan was on his feet by then, hurrying away from the outcrops, holstering his weapon. Behind him he heard brakes squeal, another shot, voices yelling, two more shots. All the sounds faded as he neared the turnout and the Ford. By the time he pulled out onto the deserted road, there was nothing to hear but the sound of his engine, the screeching of a jay somewhere nearby.
+   Brandt had thrown in his hand by now; so had Mannlicher.
+   This pot belonged to him.
+   6
+   Fran was in the back yard, weeding her garden, when he got home late the following afternoon. He called to her from the doorway, and she glanced around and then got up, unsmiling, and came over to him. She was wearing jeans and one of his old shirts and a pair of gardening gloves, and her hair was tied in a long ponytail. Used to be a light, silky brown, her hair; now it was mostly gray. His fault. She was only forty-six. A woman of forty-six shouldn’t be so gray.
+   She said,“So you’re back.” She didn’t sound glad to see him, didn’t kiss him or touch him at all. But her eyes were gentle on his face.
+   “I’m back.”
+   “You all right? You look tired.”
+   “Long drive. I’m fine; it was a good trip.”
+   She didn’t say anything. She didn’t want to hear about it, not any of it. She just didn’t want to know.
+   “How about you?” he asked. “Everything been okay?”
+   “Sheila’s pregnant again.”
+   “Christ. What’s the matter with her? Why don’t she get herself fixed? Or get Hank fixed?”
+   “She likes kids.”
+   “I like kids too, but four’s too many at her age. She’s only twenty-seven.”
+   “She wants eight.”
+   “She’s crazy,” Deighan said. “What’s she want to bring all those kids into a world like this for?”
+   There was an awkward moment. It was always awkward at first when he came back. Then Fran said,“You hungry?”
+   “You know me. I can always eat.” Fact was, he was starved. He hadn’t eaten much up in Nevada, never did when he was away. And he hadn’t had anything today except an English muffin and some coffee for breakfast in Truckee.
+   “Come into the kitchen,” Fran said. “I’ll fix you something.”
+   They went inside. He got a beer out of the refrigerator; she waited and then took out some covered dishes, some vegetables. He wanted to say something to her, talk a little, but he couldn’t think of anything. His mind was blank at times like this. He carried his beer into the living room.
+   The goddamn trophy case was the first thing he saw. He hated that trophy case; but Fran wouldn’t get rid of it, no matter what he said. For her it was like some kind of shrine to the dead past. All the mementoes of his years on the force — twenty-two years, from beat patrolman in North Beach all the way up to inspector on the narcotics squad. The certificate he’d won in marksmanship competition at the police academy, the two citations from the mayor for bravery, other crap like that. Bones, that’s all they were to him. Pieces of a rotting skeleton. What was the sense in keeping them around, reminding both of them of what he’d been, what he’d lost.
+   His fault he’d lost it, sure. But it was their fault too, goddamn them. The laws, the lawyers, the judges, thesystem. No convictions on half of all the arrests he’d ever made — half! Turning the ones like Mannlicher and Brandt and D’Allesandro loose, putting them right back on the street, letting them make their deals and their hits, letting them screw up innocent lives. Sheila’s kids, his grandkids — lives like that. How could they blame him for being bitter? How could they blame him for taking too many drinks now and then?
+   He sat down on the couch, drank some of his beer, lit a cigarette. Ah Christ, he thought, it’s not them. You know it wasn’t them. It wasyou, you dumb bastard. They warned you twice about drinking on duty. And you kept on doing it, you were hog-drunk the night you plowed the departmental sedan into that vanload of teenagers. What if one ofthose kids had died? You were lucky, by God. You got off easy.
+   Sure, he thought. Sure. But he’d been a good cop, damn it, a cop inside and out; it was all he knew how to be. What was he supposed to do after they threw him off the force? Live on his half-pension? Get a job as a part-time security guard? Forty-four years old, no skills, no friends outside the department — what the hell was he supposed to do?
+   He’d invented Bob Prince, that was what he’d done. He’d gone into business for himself.
+   Fran didn’t understand. “You’ll get killed one of these days,” she’d said in the beginning. “It’s vigilante justice,” she’d said. “You think you’re Rambo, is that it?” she’d said. She just didn’t understand. To him it was the same job he’d always done, the only one he was any good at, only nowhe made up some of the rules. He was no Rambo, one man up against thousands, a mindless killing machine; he hated that kind of phony flag-waving crap. It wasn’t real. What he was doing, that was real. It meant something. But a hero? No. Hell, no. He was a sniper, that was all, picking off a weak or vulnerable enemy here and there, now and then. Snipers weren’t heroes, for Christ’s sake. Snipers were snipers, just like cops were cops.
+   He finished his beer and his cigarette, got up, went into Fran’s sewing room. The five thousand he’d held out of the poker-game take was in his pocket — money he felt he was entitled to because his expenses ran high sometimes, and they had to eat, they had to live. He put the roll into her sewing cabinet, where he always put whatever money he made as Bob Prince. She’d spend it when she had to, parcel it out, but she’d never mention it to him or anyone else. She’d told Sheila once that he had a sales job, he got paid in cash a lot, that was why he was away from home for such long periods of time.
+   When he walked back into the kitchen she was at the sink, peeling potatoes. He went over and touched her shoulder, kissed the top of her head. She didn’t look at him; stood there stiffly until he moved away from her. But she’d be all right in a day or two. She’d be fine until the next time Bob Prince made the right kind of connection.
+   He wished it didn’t have to be this way. He wished he could roll back the clock three years, do things differently, take the gray out of her hair and the pain out of her eyes. But he couldn’t. It was just too late.
+   You had to play the cards you were dealt, no matter how lousy they were. The only thing that made it tolerable was that sometimes, on certain hands, you could find ways to stack the damn deck.
+   Night Freight
+   He caught the freight in Phalene, down in the citrus belt, four days after they gave Joanie the divorce.
+   He waited in the yards. The northbound came along a few minutes past midnight. He hid in the shadows of the loading platform, watching the cars, and half the train had gone by before he saw the open box, the first one after a string of flats.
+   He trotted up alongside, hanging on to the big gray-and-white suitcase. There were heavy iron rungs running up the side of the box. He caught on with his right hand and got his left foot through the opening, then laid the suitcase inside and swung through behind it.
+   It smelled of dust in there, and just a bit of citrus, and he did not like the smell. It caught in his nose and in the back of his throat, and he coughed.
+   It was very dark, but he could see that the box was empty. He picked up the suitcase and went over and sat down against the far wall.
+   It was cold too. The wind came whistling in through the open door like a siren as the freight picked up speed. He wrapped his arms around his legs and sat there like that, hugging himself.
+   He thought about Joanie.
+   He knew he should not think about her. He knew that. It made things only that much worse when he thought about her. But every time he closed his eyes he could see her face.
+   He could see her smile, and the way her eyes, those soft brown eyes, would crinkle at the corners when she laughed. He could see the deep, silken brown of her hair, and the way it would turn almost gold when she stood in the sun, and the way that one little strand of hair kept falling straight down across the bridge of her nose, the funny little way it would do that, and how they had both laughed at it in the beginning.
+   No, he thought. No, I mustn’t think about that.
+   He hugged his legs.
+   What had happened? he thought. Where did it go wrong?
+   But he knew what it was. They should never have moved to California.
+   Yes, that was it. If they had not moved to California, none of it would have happened.
+   Joanie hadn’t wanted to go. She didn’t like California. But he had had that job offer. It was a good one, but it meant moving to California and that was what started it all; he was sure of that.
+   Joanie had tried, he knew that. She had tried hard at first. But she had wanted to go home. He’d promised her he would take her home, he’d promised her that, just as soon as he made some money.
+   But she had wanted to go right away. There were plenty of good jobs at home, she said. Why did he want to stay in California?
+   He’d been a fool. He should have taken her home right away, like she’d wanted, and to hell with the job. Then none of it would have happened. Everything would be all right, now.
+   But he hadn’t done that. It had started a lot of fights between them, her wanting to go home and him wanting to stay there in California, and pretty soon they were fighting over a lot of things, just small things, and he had hated those times. He hated to fight with Joanie. It made him sick inside; it got him all mixed up and made his head pound.
+   He remembered the last fight they had. He remembered it very well. He remembered how he had broken the little china figurine of the palomino stallion. He hadn’t wanted to break it. But he had.
+   Joanie hadn’t said much to him after that fight. He’d tried to make it up to her, what he’d done, and had gone out and bought her another figurine and told her he was sorry. But she had gotten very cold and distant then. That was when he knew she didn’t love him any more.
+   And then he’d come home from work that one night, and Joanie was gone, and there was just a note on the dining room table, three short sentences that said she was leaving him.
+   He didn’t know what to do. He’d tried everywhere he could think of that she might have gone, the few friends they had made, hotels, but she had simply vanished. He thought at first she might have gone home, and made a long-distance call, but she was not there, and no, they didn’t know where she was.
+   A week later her lawyer had come to see him.
+   He brought papers with him, a copy of the divorce statement, and told him when he was to appear in court. He had tried to make the lawyer tell her whereabouts, so he could see her and talk to her, but the lawyer had refused and said that if he tried to see her there would be a court order issued to restrain him.
+   He quit his job then, because he didn’t care about the money any more. All he cared about was Joanie. He could remember very little of what happened between then and the time the divorce came up.
+   He hadn’t wanted to go to court. But he knew he had to go, if only just to see her again.
+   And when Joanie had come in, his heart had caught in his throat. He had stood up and called out her name, but she would not look at him.
+   Then her lawyer had gotten up and said how he had caused Joanie extreme mental anguish, and threatened her, and caused her to fear for her life. And how he would go off his head and rant and rave like a wild man, and how he should be remanded by the court into psychiatric custody.
+   He had wanted to shout that it was all a lie, that he had never said anything to cause Joanie to fear for her life, never done any of the things they said, because he loved her, and how could he hurt the one person he truly loved?
+   But he had sat there and not said anything and listened to the judge grant Joanie the divorce. Then, sitting there, it had come to him why Joanie had left him, and told all those lies to her lawyer, and why she wanted a divorce and didn’t love him anymore.
+   Another man.
+   It had come to him all of a sudden as he sat there, that this was the answer, and he knew it was true. He did not know who the man could be, but he knew there was a man, knew it with a sudden and certain clarity.
+   He had turned and run out of the court room, and gone home and wept as only a man can in his grief.
+   The next day he had gone looking for her, through the entire city, block by block. For three days he had searched.
+   Then he had found her, living alone, in a flat near the river, and he had gone up there and tried to talk to her, to tell her he still loved her, no matter what, and to ask her about the other man. But she would not let him in, told him to go away and would not let him in. He had pounded on the door, pounded...
+   His head had begun to pound now, thinking about it. His mind whirled and jumbled with the thoughts as he sat there in the empty box.
+   He lay down on the floor and pulled the suitcase to his body, holding onto it very tightly, and after a time, a long time, he slept.
+   He awoke to a thin patch of sunlight, shining in through the open door of the box car. He stood up and stretched, and his mind was clear now. He went over to the door and put his head outside.
+   The sun was rising in the sky, warm and bright. He looked around, trying to place where he was. The land was flat, and he could see brown foothills off in the distance, but it was nice and green in the meadows through which the freight was passing. He could smell alfalfa, and apple blooms, and he knew they had gotten up into northern California.
+   As he stood there, he could feel the train begin to slow. They came around a long bend. Up ahead he could see freight yards. The freight had begun to lose speed rapidly, now.
+   He could hear the hiss of air brakes and couplings banging together, and the train slid into the yards. There were two men standing in the shade of a shed out there, half-hidden behind it, dressed in khaki trousers and denim shirts, open down the front, and one of them had on a green baseball cap.
+   They just stood there, watching the freight as it slowed down.
+   He turned from the door and went over and sat down by the suitcase again. He was very thirsty, but he did not want to get off to go for a drink. He did not want anyone to see him.
+   He sat there for fifteen minutes; then he heard the whistle from the engine and the couplings banging together again, and the freight pulled out.
+   But just as it did, there was a scraping over by the door, and he saw two men, the same two who had been out by the shed, come scuttling in through the box door.
+   The freight picked up speed. The two men sat there, looking out. Then one of them stood and looked around, and saw him sitting there on the floor at the opposite end of the box.
+   “Well,” this one said. He was the one in the green baseball cap. “Looks like we’re going to have some company, Lon.”
+   “Sure enough,” Lon said, looking around.
+   They came over to where he was.
+   “You been riding long?” the one in the baseball cap said.
+   “Since Phalene,” he said. He wished they had not come aboard. He wished they would go and leave him alone.
+   “Down in the citrus?”
+   “Yes.”
+   “Where you headed for?”
+   “What?”
+   “You’re going someplace, ain’t you?”
+   “Yes,” he said. “To Ridgemont.”
+   “Where?”
+   “Ridgemont,” he said again.
+   “Where’s that?”
+   “In Idaho.”
+   “You going all that way on the rails?”
+   “Yes.”
+   “Well, that’s a long pull. You want to watch yourself up there. They don’t cotton much to fellows riding the freights.”
+   “All right,” he said.
+   They sat down. The one called Lon said,“Say, now, you wouldn’t happen to have a smoke on you, would you, friend? I just been dying for a smoke.”
+   “Yes,” he said.
+   “Much obliged.”
+   They both took one. They sat there, smoking, watching him. He could tell that they were thinking he did not look like a man who rode the rails. He was not like them. The one in the baseball cap kept looking at his suitcase.
+   It was very hot in the box car, now. The two men gave off a kind of sour odor of dirt and sweat. This, mingled with the heat, made his stomach crawl.
+   He stood and went over to the door to get some air. He was conscious of their eyes on his back. It made him feel uneasy to have them watching him like that.
+   The freight moved on at considerable speed. They rode in silence most of the day, but the two men continued to watch him. They talked between themselves at brief intervals, but never to him, except when one of them would ask him for another cigarette.
+   As the afternoon turned into night, it began to cool down. Very suddenly there was a chill in the air. He could smell the salt then, sharp and fresh.
+   The one in the baseball cap buttoned his shirt up to his throat.“Getting cool,” he said.
+   “We’re running up the coast,” the one called Lon said. “Be damn cold tonight.”
+   They kept looking at him, then over at his suitcase.“You know, it sure would be nice if we had something to keep us warm on a cold night like it’s going to be,” the one in the baseball cap said.
+   “Sure would,” Lon said.
+   “Say, friend,” the one in the baseball cap said. “You wouldn’t want to let us have anything in that bag there, would you?”
+   “What do you mean?” he said.
+   “Well, it sure going to be chilly tonight. Be real fine if you was to have something in there to keep us warm.”
+   “Like what?”
+   “Maybe a blanket. Or a coat. Like that.”
+   “No.”
+   “You sure, now?”
+   “There’s nothing in there like that.”
+   “You wouldn’t want to be holding out on a couple of fellows, now would you?”
+   “No.”
+   “Then suppose you just open up that case and let us have a look inside,” Lon said.
+   He put his hand on the case.
+   “You got no right,” he said.
+   “Well, I say we do,” the one in the baseball cap said. “I say we got plenty of right.”
+   “Sure we do,” Lon said.
+   They stood up.
+   “Come on, friend,” the one in the baseball cap said. “Open up that case.”
+   He stood up too.
+   “No,” he said. “Stay away. I’m warning you.”
+   “He’s warning us,” the one in the baseball cap said. “You get that, Lon?”
+   “Sure,” Lon said. “He’s warning us.”
+   They stood there, the two men staring at him. He clutched the suitcase tightly in his right hand. Then, as they stood there, the freight began to slow. They were coming into a siding.
+   Outside it had begun to get dark. There were long shadows inside the box car.
+   The men watched each other, warily, and then, suddenly, Lon made a grab for the suitcase, and the one in the baseball cap pushed him back up against the wall of the box, and Lon tore the suitcase from his fingers.
+   He backed up against the wall. He was breathing hard. They shouldn’t have done that, he thought. I told them. They shouldn’t have done that.
+   He took out the knife.
+   Lon stopped pawing at the catch on the suitcase. They were both staring at him.
+   “Hey!” Lon said. “Hey, now.”
+   “All right,” he said to them. “I told you.”
+   “Take it easy,” the one in the baseball cap said, staring at the knife.
+   “Put the suitcase down,” he said to Lon.
+   “Sure,” Lon said. “You just take it easy.”
+   “It was just a joke, friend,” the one in the baseball cap said. “You know. A couple of fellows having a little game.”
+   “That’s it,” Lon said. “Just a joke.”
+   “We wasn’t going to take nothing,” the one in the baseball cap said.
+   He held the knife straight out in front of him. The blade was flat and wide and very sharp.
+   “Put it down,” he said again.
+   “Sure,” Lon said. He leaned down, never taking his eyes off the knife, and let go of the suitcase. The catch had been loosened in the struggle, and from Lon’s pawing, and when it hit the floor of the box, it came open.
+   He said,“You get off this train. Right now. You just get off this train.” He moved the knife in a wide circle and took a step towards them.
+   The one in the baseball cap said,“Oh, my God!” He took a step backward, and his face was the color of chalk. The freight was at a standstill, now.
+   “Get off,” he said again. His head had begun to hurt.
+   The one in the baseball cap backed to the door, watching the knife, and caught onto the jamb and then turned and stepped off. Lon ran to the door and jumped off after him.
+   He put the knife away. He stood there for a time, and his mind whirled, and for a moment, just a moment, he remembered what had happened last night with Joanie— how he had forced his way into her flat, raging with anger, and told her he knew about the other man, and how she had denied it and said she was going to call the police, and how, then, he had hit her, and hit her again, and then he had seen the knife, the knife there on the table in the kitchen, the flat, sharp knife, and then it went black for him again and he could not remember anything.
+   The freight had begun to pull out of the siding. It was picking up speed. The whistle sounded in the night.
+   He turned and walked to where the suitcase lay, open on the floor of the box. He knelt down and began to cry.
+   He said,“It’s all right now. We’re going home. Going home to Ridgemont. Just like I promised you, Joanie. We’re going home for good.”
+   Joanie’s head stared up at him from the open suitcase.
+   Here Comes Santa Claus
+   (A“Nameless Detective” story)
+   Kerry sprang her little surprise on me the week before Christmas. And the worst thing about it was, I was no longer fat. The forty-pound bowlful of jelly that had once hung over my belt was long gone.
+   “That doesn’t matter,” she said. “You can wear a pillow.”
+   “Why me?” I said.
+   “They made me entertainment chairperson, for one thing. And for another, you’re the biggest and jolliest man I know.”
+   “Ho, ho, ho,” I said sourly.
+   “It’s for a good cause. Lots of good causes — needy children, the homeless, three other charities. Where’s your Christmas spirit?”
+   “I don’t have any. Why don’t you ask Eberhardt?”
+   “Are you serious?Eberhardt?”
+   “Somebody else, then. Anybody else.”
+   “You,” she said.
+   “Uh-uh. No. I love you madly and I’ll do just about anything for you, but not this. This is where I draw the line.”
+   Oh, come on, quit acting like a scrooge.
+   “Iam a scrooge. Bah, humbug.”
+   “You like kids, you know you do—”
+   “I don’t like kids. Where did you get that idea?”
+   “I’ve seen you with kids, that’s where.”
+   “An act, just an act.”
+   “So put it on again for the Benefit. Five o’clock until nine, four hours out of your life to help the less fortunate. Is that too much to ask?”
+   “In this case, yes.”
+   She looked at me. Didn’t say anything, just looked at me.
+   “No,” I said.“There’s no way I’m going to wear a Santa Claus suit and dandle little kiddies on my knee. You hear me? Absolutely no way!”
+
+   “Ho, ho, ho,” I said.
+   The little girl perched on my knee looked up at me out of big round eyes. It was the same sort of big round-eyed stare Kerry had given me the previous week.
+   “Are youreally Santa Claus?” she asked.
+   “Yes indeedy. And who would you be?”
+   “Melissa.”
+   “That’s a pretty name. How old are you, Melissa?”
+   “Six and a half.”
+   “Six and a half. Well, well. Tell old Santa what it is you want for Christmas.”
+   “A dolly.”
+   “What sort of dolly?”
+   “A big one.”
+   “Just a big one? No special kind?”
+   “Yes. A dolly that you put water in her mouth and she wee-wees on herself.”
+   I sighed.“Ho, ho, ho,” I said.
+
+   The Gala Family Christmas Charity Benefit was being held in the Lowell High School gymnasium, out near Golden Gate Park. Half a dozen San Francisco businesses were sponsoring it, including Bates and Carpenter, the ad agency where Kerry works as a senior copywriter, so it was a pretty elaborate affair. The decoration committee had dressed the gym up to look like a cross between Santa’s Village and the Dickens Christmas Fair. There was a huge gaudy tree, lots of red-and-green bunting and seasonal decorations, big clusters of holly and mistletoe, even fake snow; and the staff members were costumed as elves and other creatures imaginary and real. Carols and traditional favorites poured out of loudspeakers. Booths positioned along the walls dispensed food — meat pies, plum pudding, gingerbread, and other sweets — and a variety of handmade toys and crafts, all donated. For the adults, there were a couple of city-sanctioned games of chance and a bar supplying wassail andother Christmassy drinks.
+   For the kiddies, there was me.
+   I sat on a thronelike chair on a raised dais at one end, encased in false whiskers and wig and paunch, red suit and cap, black boots and belt. All around me were cotton snowdrifts, a toy bag overflowing with gaily wrapped packages, a shiny papier-mâché version of Santa’s sleigh with some cardboard reindeer. A couple of young women dressed as elves were there, too, to act as my helpers. Their smiles were as phony as my whiskers and paunch; they were only slightly less miserable than I was. For snaking out to one side and halfway across the packed enclosure was a line of little children the Pied Piper of Hamlin would have envied, some with their parents, most without, and all eager to clamber up onto old St. Nick’s lap and share with him their innermost desires.
+   Inside the Santa suit, I was sweating— and not just because it was warm in there. I imagined that every adult eye was on me, that snickers were lurking in every adult throat. This was ridiculous, of course, the more so because none of the two hundred or so adults in attendance knew Santa’s true identity. I had made Kerry swear an oath that she wouldn’t tell anybody, especially not my partner, Eberhardt, who would never let me hear the end of it if he knew. No more than half a dozen of those present knew me anyway, this being a somewhat ritzy crowd; and of those who did know me, three were members of the private security staff.
+   Still, I felt exposed and vulnerable and acutely uncomfortable. I felt the way you would if you suddenly found yourself naked on a crowded city street. And I kept thinking: What if one of the newspaper photographers recognizes me and decides to take my picture? What if Eberhardt finds out? Or Barney Rivera or Joe DeFalco or one of my other so-called friends?
+   Another kid was on his way toward my lap. I smiled automatically and sneaked a look at my watch. My God! It seemed as though I’d been here at least two hours, but only forty-five minutes had passed since the opening ceremonies. More than three hours left to go. Close to two hundred minutes. Nearly twelve thousand seconds...
+   The new kid climbed onto my knee. While he was doing that, one of those near the front of the line, overcome at the prospect of his own imminent audience with the Nabob of the North Pole, began to make a series of all-too-familiar sounds. Another kid said,“Oh, gross, he’s gonna throw up!” Fortunately, however, the sick one’s mother was with him; she managed to hustle him out of there in time, to the strains of “Walking in a Winter Wonderland.”
+   I thought: What if he’d been sitting on my lap instead of standing in line?
+   I thought: Kerry, I’ll get you for this, Kerry.
+   I listened to the new kid’s demands, and thought about all the other little hopeful piping voices I would have to listen to, and sweated and smiled and tried not to squirm. If I squirmed, peoplewould start to snicker— the kids as well as the adults. They’d think Santa had to go potty and was trying not to wee-wee on himself.
+
+   This one had cider-colored hair. He said,“You’re not Santa Claus.”
+   “Sure I am. Don’t I look like Santa?”
+   “No. Your face isn’t red and you don’t have a nose like a cherry.”
+   “What’s your name, sonny?”
+   “Ronnie. You’re not fat, either.”
+   “Sure I’m fat. Ho, ho, ho.”
+   “No you’re not.”
+   “What do you want for Christmas, Ronnie?”
+   “I won’t tell you. You’re a fake. I don’t need you to give me toys. I can buy my own toys.”
+   “Good for you.”
+   “I don’t believe in Santa Claus anyway,” he said. He was about nine, and in addition to being belligerent, he had mean little eyes. He was probably going to grow up to be an axe murderer. Either that, or a politician.
+   “If you don’t want to talk to Santa,” I said, feigning patience, “then how about getting off Santa’s lap and letting one of the other boys and girls come up—”
+   “No.” Without warning he punched me in the stomach. Hard. “Hah!” he said. “A pillow. Iknew your gut was just a pillow.”
+   “Get off Santa’s lap, Ronnie.”
+   “No.”
+   I leaned down close to him so only he could hear when I said,“Get off Santa’s lap or Santa will take off his pillow and stuff it down your rotten little throat.”
+   We locked gazes for about five seconds. Then, taking his time, Ronnie got down off my lap. And stuck his tongue out at me and said,“Asshole.” And went scampering away into the crowd.
+   I put on yet another false smile behind my false beard. Said grimly to one of the elves,“Next.”
+
+   While I was listening to an eight-year-old with braces and a homicidal gleam in his eye tell me he wanted“a tank that has this neat missile in it and you shoot the missile and it blows everything up when it lands,” Kerry appeared with a cup in her hand. She motioned for me to join her at the far side of the dais, behind Santa’s sleigh. I got rid of the budding warmonger, told the nearest elf I was taking a short break, stood up creakily and with as much dignity as I could muster, and made my way through the cotton snowdrifts to where Kerry stood.
+   She looked far better in her costume than I did in mine; in fact, she looked so innocent and fetching I forgot for a moment that I was angry with her. She was dressed as an angel— all in white, with a coat-hanger halo wrapped in tinfoil. If real angels looked like her, I couldn’t wait to get to heaven.
+   She handed me the cup. It was full of some sort of punch with a funny-looking skinny brown thing floating on top.“I thought you could use a little Christmas cheer,” she said.
+   “I can use a lot of Christmas cheer. Is this stuff spiked?”
+   “Of course not. Since when do you drink hard liquor?”
+   “Since I sat down on that throne over there.”
+   “Oh, now, it can’t be that bad.”
+   “No? Let’s see. A five-year-old screamed so loud in my left ear that I’m still partially deaf. A fat kid stepped on my foot and nearly broke a toe. Another kid accidentally kneed me in the crotch and nearly broke something else. Not three minutes ago, a mugger-in-training named Ronnie punchedme in the stomach and called me an asshole. And those are just the lowlights.”
+   “Poor baby.”
+   “...That didn’t sound very sincere.”
+   “The fact is,” she said, “most of the kids love you. I overheard a couple of them telling their parents what a nice old Santa you are.”
+   “Yeah.” I tried some of the punch. It wasn’t too bad, considering the suspicious brown thing floating in it. Must be a deformed clove, I decided; the only other alternative — something that had come out of the back end of a mouse — was unthinkable. “How much more of this does the nice old Santa have to endure?”
+   “Two and a half hours.”
+   “God! I’ll never make it.”
+   “Don’t be such a curmudgeon,” she said. “It’s two days before Christmas, we’re taking in lots of money for the needy, and everybody’s having a grand time except you. Well, you and Mrs. Simmons.”
+   “Who’s Mrs. Simmons?”
+   “Randolph Simmons’s wife. You know, the corporate attorney. She lost her wallet somehow — all her credit cards and two hundred dollars in cash.”
+   “That’s too bad. Tell her I’ll replace the two hundred if she’ll agree to trade places with me right now.”
+   Kerry gave me her sometimes-you’re-exasperating look. “Just hang in there, Santa,” she said and started away.
+   “Don’t use that phrase around the kid named Ronnie,” I called after her. “It’s liable to give him ideas.”
+
+   I had been back on the throne less than ten seconds when who should reappear but the little thug himself. Ronnie wasn’t alone this time; he had a bushy-mustached, gray-suited, scowling man with him. The two of them clumped up onto the dais, shouldered past an elf with a cherubic little girl in hand, and confronted me.
+   The mustached guy said in a low, angry voice,“What the hell’s the idea threatening my kid?”
+   Fine, dandy. This was all I needed— an irate father.
+   “Answer me, pal. What’s the idea telling Ronnie you’d shove a pillow down his throat?”
+   “He punched me in the stomach.”
+   “So? That don’t give you the right to threaten him. Hell,Iought to punch you in the stomach.”
+   “Do it, Dad,” Ronnie said, “punch the old fake.”
+   Nearby, the cherub started to cry. Loudly.
+   We all looked at her. Ronnie’s dad said, “What’d you do? Threaten her too?”
+   “Wanna see Santa! It’s my turn, it’s my turn!”
+   The elf said,“Don’t worry, honey, you’ll get your turn.”
+   Ronnie’s dad said, “Apologize to my kid and we’ll let it go.”
+   Ronnie said,“Nah, sock him one!”
+   I said,“Mind telling me your name?”
+   It was Ronnie’s dad I spoke to. He looked blank for two or three seconds, after which he said, “Huh?”
+   “Your name. What is it?”
+   “What do you want to know for?”
+   “You look familiar. Very familiar, in fact. I think maybe we’ve met before.”
+   He stiffened. Then he took a good long wary look at me, as if trying to see past my whiskers. Then he blinked, and all of a sudden his righteous indignation vanished and was replaced by a nervousness that bordered on the furtive. He wet his lips, backed off a step.
+   “Come on, Dad,” the little thug said, “punch his lights out.”
+   His dad told him to shut up. To me he said,“Let’s just forget the whole thing, okay?” and then he turned in a hurry and dragged a protesting Ronnie down off the dais and back into the crowd.
+   I stared after them. And there was a little click in my mind and I was seeing a photograph of Ronnie’s dad as a younger man without the big bushy mustache — and with a name and number across his chest.
+   Ronnie’s dad and I knew each other, all right. I had once had a hand in having him arrested and sent to San Quentin on a grand larceny rap.
+   Ronnie’s dad was Markey Waters, a professional pickpocket and jack-of-all-thievery who in his entire life had never gone anywhere or done anything to benefit anyone except Markey Waters. So what was he doing at the Gala Family Christmas Charity Benefit?
+   She lost her wallet somehow— all her credit cards and two hundred dollars in cash.
+   Right.
+   Practicing his trade, of course.
+
+   I should have stayed on the dais. I should have sent one of the elves to notify Security, while I perched on the throne and continued to act as a listening post for the kiddies.
+   But I didn’t. Like a damned fool, I decided to handle the matter myself. Like a damned fool, I went charging off into the throng with the cherub’s cries of “Wanna see Santa,my turn to see Santa!” rising to a crescendo behind me.
+   The milling crush of celebrants had closed around Markey Waters and his son and I could no longer see them. But they had been heading at an angle toward the far eastside entrance, so that was the direction I took. The rubber boots I wore were a size too small and pinched my feet, forcing me to walk in a kind of mincing step; and as if that wasn’t bad enough, the boots were new and made squeaking sounds like a pair of rusty hinges. I also had to do some jostling to get through and around little knots of people, and some of the looks my maneuvers elicited were not of the peace-on-earth, goodwill-to-men variety. One elegantly dressed guy said, “Watch the hands, Claus,” which might have been funny if I were not in such a dark and stormy frame of mind.
+   I was almost to the line of food booths along the east wall when I spotted Waters again, stopped near the second-to-last booth. One of his hands was clutching Ronnie’s wrist and the other was plucking at an obese woman in a red-and-green, diagonally striped dress that made her look like a gigantic candy cane. Markey had evidently collided with her in his haste and caused her to spill a cup of punch on herself; she was loudly berating him for being a clumsy oaf, and refusing to let go of a big handful of his jacket until she’d had her say.
+   I minced and squeaked through another cluster of adults, all of whom were singing in accompaniment to the song now playing over the loudspeakers. The song, of all damn things, was“Here Comes Santa Claus.”
+   Waters may not have heard the song, but its message got through to him just the same. He saw me bearing down on him from thirty feet away and understood immediately what my intentions were. His expression turned panicky; he tried to tear loose from the obese woman’s grip. She hung on with all the tenacity of a bulldog.
+   I was ten feet from gettingmy bulldog hands on him when he proceeded to transform the Gala Family Christmas Charity Benefit from fun and frolic into chaos.
+   He let go of Ronnie’s wrist, shouted, “Run, kid!” and then with his free hand he sucker-punched the obese woman on the uppermost of her chins. She not only released his jacket, she backpedaled into a lurching swoon that upset three other merrymakers and sent all four of them to the floor in a wild tangle of arms and legs. Voices rose in sudden alarm; somebody screamed like a fire siren going off. Bodies scattered out of harm’s way. And Markey Waters went racing toward freedom.
+   I gave chase, dodging and juking and squeaking. I wouldn’t have caught him except that while he was looking back over his shoulder to see how close I was, he tripped over something — his own feet, maybe — and down he went in a sprawl. I reached him just as he scrambled up again. I laid both hands on him and growled, “This is as far as you go, Waters,” whereupon he kicked me in the shin and yanked free.
+   I yelled, he staggered off, I limped after him. Shouts and shrieks echoed through the gym; so did the thunder of running feet and thudding bodies as more of the party animals stampeded. A woman came rushing out from inside the farthest of the food booths, got in Markey’s path, and caused him to veer sideways to keep from plowing into her. That in turn allowed me to catch up to him in front of the booth. I clapped a hand on his shoulder this time, spun him around — and he smacked me in the chops with something warm and soggy that had been sitting on the booth’s serving counter.
+   A meat pie.
+   He hit me in the face with apie.
+   That was the last indignity in a night of indignities. Playing Santa Claus was bad enough; playing Lou Costello to a thief s Bud Abbott was intolerable. I roared; I pawed at my eyes and scraped off beef gravy and false whiskers and white wig; I lunged and caught Waters again before he could escape; I wrapped my arms around him. It was my intention to twist him around and get him into a crippling hammerlock, but he was stronger than he looked. So instead we performed a kind of crazy, lurching bear-hug dance for a few seconds. That came to an end— predictably — when we banged into one of the booth supports and the whole front framework collapsed in a welter of wood and bunting and pie and paper plates and plastic utensils, with us in the middle of it all.
+   Markey squirmed out from underneath me, feebly, and tried to crawl away through the wreckage. I disentangled myself from some of the bunting, lunged at his legs, hung on when he tried to kick loose. And then crawled on top of him, flipped him over on his back, fended off a couple of ineffectual blows, and did some effectual things to his head until he stopped struggling and decided to become unconscious.
+   I sat astraddle him, panting and puffing and wiping gravy out of my eyes and nose. The tumult, I realized then, had subsided somewhat behind me. I could hear the loudspeakers again— the song playing now was “Rudolph, the Red-Nosed Reindeer” — and I could hear voices lifted tentatively nearby. Just before a newspaper photographer came hurrying up and snapped a picture of me and my catch, just before a horrified Kerry and a couple of tardy security guards arrived, I heard two voices in particular speaking in awed tones.
+   “My God,” one of them said, “whathappened?”
+   “I dunno,” the other one said. “But it sure looks like Santa Claus went berserk.”
+
+   There were three of us in the football coach’s office at the rear of the gym: Markey Waters and me and one of the security guards. It was fifteen minutes later and we were waiting for the arrival of San Francisco’s finest. Waters was dejected and resigned, the guard was pretending not to be amused, and I was in a foul humor thanks to a combination of acute embarrassment, some bruises and contusions, and the fact that I had no choice but to keep on wearing the gravy-stained remnants of the Santa Claus suit. It was what I’d come here in; my own clothes were in Kerry’s apartment.
+   On the desk between Waters and me was a diamond-and-sapphire brooch, a fancy platinum cigarette case, and a gold money clip containing three crisp fifty-dollar bills. We had found all three items nestled companionably inside Markey’s jacket pocket. I prodded the brooch with a finger, which prompted the guard to say, “Nice haul. The brooch alone must be worth a couple of grand.”
+   I didn’t say anything. Neither did Markey.
+   The owner of the gold clip and the three fifties had reported them missing to Security just before Waters and I staged our minor riot; the owners of the brooch and cigarette case hadn’t made themselves known yet, which was something of a tribute to Markey’s light-fingered talents — talents that would soon land him back in the slammer on another grand larceny rap.
+   He had had his chin resting on his chest; now he raised it and looked at me.“My kid,” he said, as if he’d just remembered he had one. “He get away?”
+   “No. One of the other guards nabbed him out front.”
+   “Just as well. Where is he?”
+   “Being held close by. He’s okay.”
+   Markey let out a heavy breath.“I shouldn’t of brought him along,” he said.
+   “So why did you?”
+   “It’s Christmas and the papers said this shindig was for kids, too. Ronnie and me don’t get out together much since his mother ran out on us two years ago.”
+   “Uh-huh,” I said. “And besides, you figured it would be easier to make your scores if you had a kid along as camouflage.”
+   He shrugged.“You, though — I sure didn’t figure on somebody like you being here. What in hell’s a private dick doing dressed up in a Santa Claus suit?”
+   “I’ve been asking myself that question all night.”
+   “I mean, how can you figure a thing like that?” Markey said. “Ronnie comes running up, he says it’s not really Santa up there and the guy pretending to be Santa threatened him, said he’d shove a pillow down the kid’s throat. What am I supposed to do? I’d done a good night’s work, I wanted to get out of here while the getting was good, but I couldn’t let some jerk get away with threatening my kid, could I? I mean, I’m a father, too, right?” He let out another heavy breath. “I wish I wasn’t a father,” he said.
+   I said,“What about the wallet, Markey?”
+   “Huh?”
+   “The wallet and the two hundred in cash that was in it.”
+   “Huh?”
+   “This stuff here isn’t all you swiped tonight. You also got a wallet belonging to a Mrs. Randolph Simmons. It wasn’t on you and neither was the two hundred. What’d you do with them?”
+   “I never scored a wallet,” he said. “Not tonight.”
+   “Markey...”
+   “I swear it. The other stuff, sure, you got me on that. But I’m telling you, I didn’t score a wallet tonight.”
+   I scowled at him. But his denial had the ring of truth; he had no reason to lie about the wallet. Well, then? Had Mrs. Simmons lost it after all? If that was the case, then I’d gone chasing after Waters for no good reason except that he was a convicted felon. I felt the embarrassment warming my face again. What if hehadn’t dipped anybody tonight? I’d have looked like an even bigger fool than I did right now...
+   Something tickled my memory and set me to pursuing a different and more productive line of thought. Oh, hell— of course. I’d been right in the first place; Mrs. Randolph Simmons’s wallet had been stolen, not lost. And I knew now who had done the stealing.
+   But the knowledge didn’t make me feel any better. If anything, it made me feel worse.
+
+   “Empty your pockets,” I said.
+   “What for?”
+   “Because I told you to, that’s what for.”
+   “I don’t have to do what you tell me.”
+   “If you don’t, I’ll empty them for you.”
+   “I want a lawyer,” he said.
+   “You’re too young to need a lawyer. Now empty your pockets before I smack you one.”
+   Ronnie glared at me. I glared back at him.“If you smack me,” he said, “it’s police brutality.” Nine years old going on forty.
+   “I’m not the police, remember? This is your last chance, kid: empty the pockets or else.”
+   “Ahhh,” he said, but he emptied the pockets.
+   He didn’t have Mrs. Randolph Simmons’s wallet, but he did have her two hundred dollars. Two hundred and four dollars, to be exact.I don’t need you to give me toys. I can buy my own toys. Sure. Two hundred and four bucks can buy a lot of toys, not to mention a lot of grief.
+   “What’d you do with the wallet, Ronnie?”
+   “What wallet?”
+   “Dumped it somewhere nearby, right?”
+   “I dunno what you’re talking about.”
+   “No? Then where’d you get the money?”
+   “I found it.”
+   “Uh-huh. In Mrs. Randolph Simmons’s purse.”
+   “Who’s she?”
+   “Your old man put you up to it, or was it your own idea?”
+   He favored me with a cocky little grin.“I’m smart,” he said. “I’m gonna be just like my dad when I grow up.”
+   “Yeah,” I said sadly. “A chip off the old block if ever there was one.”
+
+   Midnight.
+   Kerry and I were sitting on the couch in her living room. I sat with my head tipped back and my eyes closed; I had a thundering headache and a brain clogged with gloom. It had been a long, long night, full of all sorts of humiliations; and the sight of a nine-year-old kid, even a thuggish nine-year-old kid, being carted off to the Youth Authority at the same time his father was being carted off to the Hall of Justice was a pretty unfestive one.
+   I hadn’t seen the last of the humiliations, either. Tonight’s fiasco would get plenty of tongue-in-cheek treatment in the morning papers, complete with photographs — half a dozen reporters and photographers had arrived at the gym in tandem with the police — and so there was no way Eberhardt and my other friends could help but find out. I was in for weeks of sly and merciless ribbing.
+   Kerry must have intuited my headache because she moved over close beside me and began to massage my temples. She’s good at massage; some of the pain began to ease almost immediately. None of the gloom, though. You can’t massage away gloom.
+   After a while she said,“I guess you blame me.”
+   “Why should I blame you?”
+   “Well, if I hadn’t talked you into playing Santa...”
+   “You didn’t talk me into anything; I did it because I wanted to help you and the Benefit. No, I blame myself for what happened. I should have handled Markey Waters better. If I had, the Benefit wouldn’t have come to such a bad end and you’d have made a lot more money for the charities.”
+   “We made quite a bit as it is,” Kerry said. “And you caught a professional thief and saved four good citizens from losing valuable personal property.”
+   “And put a kid in the Youth Authority for Christmas.”
+   “You’re not responsible for that. His father is.”
+   “Sure, I know. But it doesn’t make me feel any better.”
+   She was silent for a time. At the end of which she leaned down and kissed me, warmly.
+   I opened my eyes.“What was that for?”
+   “For being who and what you are. You grump and grumble and act the curmudgeon, but that’s just a façade. Underneath you’re a nice caring man with a big heart.”
+   “Yeah. Me and St. Nick.”
+   “Exactly.” She looked at her watch. “It is now officially the twenty-fourth — Christmas Eve. How would you like one of your presents a little early?”
+   “Depends on which one.”
+   “Oh, I think you’ll like it.” She stood up. “I’ll go get it ready for you. Give me five minutes.”
+   I gave her three minutes, which— miraculously enough — was all the time it took for my pall of gloom to lift. Then I got to my feet and went down the hall.
+   “Ready or not,” I said as I opened the bedroom door, “here comes Santa Claus!”
+   I Didn’t Do It
+   Well, I keep telling you— I didn’t do it. I don’t care how much evidence there is. You got to believe me. I didn’t do it.
+   Sure, I was out there that night. I already admitted that, didn’t I? I went out there to see Mr. Mason about a job. He gave me a dollar in town that day. I told him I was homeless, down on my luck, and he gave me a dollar and said come out and see him and maybe he could put me to work doing something on his farm. He told me his name and where he lived, said it was only about half a mile outside of town. So I walked out there that night. It was a hot night and I didn’t have nothing to do in town, nowhere to go, no place to sleep, so I figured why not go out there and see Mr. Mason instead of waiting until the next day. I figured maybe he’d give me something to eat and a place to sleep. So I went out there. How was I to know he’d gone off to Springville on business and wouldn’t be home until after midnight?
+   Well, I come onto his property about nine o’clock. Just after dark, so it must have been about nine. Wasn’t nobody around, but lights was on in the house. It was a hot night, quiet, and when I got up near the porch I heard them sounds plain as day. Did I know right off what they was? Well, not right off. They was just moaning sounds to me at first, like maybe somebody was hurt. So I went around the side of the house, through the garden, to see if that was what it was, somebody hurt. That’s how come you found my footprint over by the bedroom window, where I stepped in the mud from the sprinklers. I never said I wasn’t in the garden, did I? But I never went up close to that window. No, sir. I’ll swear it on a bible. I never went close to that window and I never looked inside that bedroom.
+   I recognized them sounds, that’s why. I knowed then what was going on. Him and her in there, making all that moaning noise, making them bedsprings squeak and squeal like a soul in torment. I knowed what they was doing. So I beat it right out of there, you bet I did. Fast.
+   Did I know it wasn’t Mr. Mason in there with Mrs. Mason? Well, I guess I did. I guess I knowed it, all right. I heard the fellow’s voice plain, some of the things he was saying to her... no, I ain’t going to say what them things was. I don’t even want to repeat them things in my own mind, let alone out loud.But I heard his voice plain and it wasn’t Mr. Mason’s voice so I guess I knowed it wasn’t Mr. Mason in there. But I didn’t know who itwas. She didn’t call him by his name. No, sir, not by hisname.
+   No, I didn’t go back to town right away. I told you that. It was a hot night and I didn’t feel like going back to town right away, on account of what was I going to do once I got there? I didn’t have no money or no place to go. What I did, I walked down by the river. River runs close to Mr. Mason’s farm — runs right through a comer of it, didn’t you say? Well, it was a hot night and I thought maybe I’d go for a swim.
+   But before I got there I seen this car parked in amongst the trees betwixt the river and Mr. Mason’s house. Big fancy car, parked right in there under the trees, off the road so you couldn’t see it unless you was walking by like I was. Well, I knowed it was his car, the fellow in the house with Mrs. Mason. Who else’s car was it likely to be?
+   Sure, I looked inside. Door was unlocked, so I figured I might’s well. But it wasn’t my intention to steal nothing, even if there’d been something to steal. Which there wasn’t. Big fancy car like that and not a thing in it that anybody’d want to steal. Not a thing you could of got fifty cents for at a hock shop, let alone a few dollars to buy you a decent meal and some new shoes and maybe a room to sleep in for a few nights.
+   I suredidn’t wait there for him to show up. No, sir, you’re wrong about that. I went on down to the river just like I said before. I went on down to the river and took off my clothes, all except my underpants, and I went for a nice cool swim. Then I laid on the bank a while and dried off. It was peaceful there on the bank, and I thought I’d stay right there the whole night. No point in going back to town, I says to myself. Might’s well just stay right there for the night and then in the morning go and see if Mr. Mason had come home from wherever he was and ask him for that job he promised. I didn’t have no intention of telling him about his wife fornicating with some other man. Not if he give me a job like he promised, and a place to sleep. I wouldn’t hurt a good man that way. No, not agood man, I wouldn’t.
+   Why didn’t I spend the night there? Why’d I go on back to town instead? Well, I told you — I found that money. Eighty-nine dollars. Lying right there on the river bank. Way I found it was, I decided to take a walk along the bank, after I dried off from my swim, and see could I find some soft grass for a bed. And there that money was, in a little cloth purse that somebody must of dropped. Some fisherman or somebody. Dropped it right there on the bank and never realized it. There was a bright moon that night, you remember? That’s how I seen the purse with the money in it lying there in the grass.
+   After I took the money out I throwed the bag in the river. I told you about that too. What did I want to keep an empty purse for? It didn’t have no identification or nothing in it. Finders keepers, losers weepers. So I walked back into town with that found money. I figured I might’s well spend some of it. I figured I was entitled, being as how I’d been down on my luck so long. So I bought myself a good meal and a bottle of bourbon whiskey and a room for the night, where you fellows found me the next morning.
+   What’s that? No, sir, I sure didn’t steal that money from Thomas Harper’s wallet. I told you where I got that money. I found that money in a cloth purse lying on the river bank—
+   No, sir, I didn’t hit Thomas Harper over the head with no chunk of willow limb. I didn’t kill Thomas Harper. I never even knowed his name until you told me, or that he was a bigshot lawyer, or nothing about him except he was sinning with Mr. Mason’s wife.
+   My fingerprints? Not just on his car but on one of them little window things in his wallet? Well, I don’t know how they could have gotthere. You sure them fingerprints is mine too? Well, I don’t know how they could of got there.
+   No, sir, I didn’t rob and kill Thomas Harper.
+   No, sir, I didn’t.
+   I tell you, I didn’t do it...
+
+   ...All right. All right, all right. I guess it’s no use. I guess I might’s as well tell you.
+   I done it.
+   But I didn’t mean to kill him, nor even to rob him. I come walking back from the river, back toward that fancy car of his, and I had that chunk of willow limb in my hand. I don’t know why I picked it up down on the river bank. I just did, that’s all. And here he comes from Mr. Mason’s house where he’d been fornicating with Mr. Mason’s wife, all cheerful and whistling, real pleased with himself, and I don’t know... I don’t know, I just stepped up behind him and let him have it. I didn’t mean to hit him so hard. I truly didn’t.
+   Sure, I took the money afterwards. Eighty-nine dollars is a lot of money to a fellow down on his luck. But that ain’t why I hit him. I don’t know why I hit him.
+   Yes I do. He had it coming, that’s why. Sinning with Mr. Mason’s wife like that, saying all them things to her right there in Mr. Mason’s bed in Mr. Mason’s own house. That Thomas Harper had it coming, all right.
+   But Ididn’t do that other thing. I swear I didn’t.
+   I never looked through the bedroom window when I was in the garden, I never watched them two in Mr. Mason’s bed. It’s a mortal sin for a man to fornicate with another man’s wife, and only a person with lust in his heart would gaze upon what he’s moral certain is a act of fornication. God knows I don’t have no lust in my heart and He knows I didn’t watch them two committing their mortal sin. You got to know it too. You got to believe me.
+   I didn’t do it!
+   Connoisseur
+   Norman Tolliver was a connoisseur of many things: art, music, literature, gourmet cuisine, sports cars, beautiful women. But above all else, he was a connoisseur of fine wine.
+   Nothing gave him quite so much pleasure as the bouquet and delicate taste of a claret from the Médoc region of Bordeaux — a 1924 Mouton-Rothschild, perhaps, or a 1929 Haut-Brion; or a brilliant Burgundy such as a Clos de Vougeot 1915. His memory was still vivid of the night in Paris when an acquaintance of his father’s had presented him with a glass of theimpériale claret, the 1878 Latour Pauillac. It was Norman’s opinion that a man could experience no greater moment of ecstasy than his first sip of that venerable Latour.
+   Norman resided in an elegant penthouse in New York that commanded a view of the city best described as lordly. That is, he resided there for six months of the year; the remaining six months were divided among Europe and the pleasure islands of the Caribbean and the Mediterranean. During his travels he expended an appreciable amount of time and money in seeking out new varieties and rare vintages of wine, most of which he arranged to have shipped to New York for placement in his private cellar.
+   It was his custom every Friday evening, no matter where he might happen to be, to sample an exceptional bottle of claret or Burgundy. (He enjoyed fine whites, of course— the French Sauterne, the German Moselle — but his palate and his temperament were more suited to the classic reds.) These weekly indulgences were always of a solitary nature; as a connoisseur he found the communion between man and great wine too intimate to share with anyone, too poignant to be blunted by even polite conversation.
+   On this particular Friday Norman happened to be in New York and the wine he happened to select was a reputedly splendid claret: the Château Margaux 1900. It had been given to him by a man named Roger Hume, whom Norman rather detested. Whereas he himself was the fourth-generation progeny in a family of wealth and breeding, Hume wasnouveau riche— a large graceless individual who had compiled an overnight fortune in textiles or some such and who had retired at the age of 40 to, as he put it in his vulgar way,“find out how the upper crust lives.”
+   Norman found the man to be boorish, dull-witted, and incredibly ignorant concerning any number of matters, including an understanding and appreciation of wine. Nevertheless, Hume had presented him with the Margaux— on the day after a small social gathering that they had both attended and at which Norman chanced to mention that he had never had the pleasure of tasting that difficult-to-obtain vintage. The man’s generosity was crassly motivated, to be sure, designed only to impress; but that could be overlooked and even forgiven. A bottle of Margaux 1900 was too fine a prize to be received with any feeling other than gratitude.
+   At three o’clock Norman drew his study drapes against the afternoon sun and placed one of Chopin’s nocturnes on his quadraphonic record changer. Then, with a keen sense of anticipation, he carefully removed the Margaux’s cork and prepared to decant the wine so that it could breathe. It was his considered judgment that an aged claret should be allowed no less than five hours of contact with new air and no more than six. A healthy, living wine must be given time to breathe in order for it to express its character, release its bouquet, becomemorealive; but too much breathing causes a dulling of its subtle edge.
+   He lighted the candle that he had set on the Duncan Phyfe table, waited until the flame was steady, then began to slowly pour the Margaux, holding the shoulder of the bottle just above the light so that he could observe the flow of the wine as it passed through the neck. There was very little age-crust or sediment. The color, however, did not look quite right; it had a faint cloudiness, a pale brown twinge, as wine does when it has grown old too quickly.
+   Norman felt a sharp twinge of apprehension. He raised the decanter and sniffed the bouquet. Not good, not good at all. He swirled the wine lightly to let air mix with it and sniffed again. Oh Lord— a definite taint of sourness.
+   He poured a small amount into a crystal glass, prepared himself, and took a sip. Let the wine flood over and under his tongue, around his gums.
+   And then spat the mouthful back into the glass.
+   The Margaux was dead.
+   Sour, unpalatable—dead.
+   White-faced, Norman sank onto a chair. His first feelings were of sorrow and despair, but these soon gave way to a sense of outrage focused on Roger Hume. It was Hume who had given him not a living, breathing 1900 Margaux but a desiccatedcorpse; it was Hume who had tantalized him and then left him unfulfilled, Hume who had caused him this pain and anguish, Hume who might even have been responsible for the death of the Margaux through careless mishandling. Damn the man. Damn him!
+   The more Norman thought about Roger Hume, the more enraged he became. Heat rose in his cheeks until they flamed scarlet. Minutes passed before he remembered his high blood pressure and his doctor’s warning about undue stress; he made a conscious effort to calm himself.
+   When he had his emotions under control he stood, went to the telephone, found a listing for Hume in the Manhattan directory, and dialed the number. Hume’s loud coarse voice answered on the third ring.
+   “This is Norman Tolliver, Hume,” Norman said.
+   “Well, Norm, it’s been awhile. What’s the good word?”
+   Norm. A muscle fluttered on Norman’s cheek. “If you plan to be in this afternoon, I would like a word with you.”
+   “Oh? Something up?”
+   “I prefer not to discuss it on the telephone.”
+   “Suit yourself,” Hume said. “Sure, come on over. Give me a chance to show off my digs to you.” He paused. “You shoot pool, by any chance?”
+   “No, I do not ‘shoot pool.’”
+   “Too bad. Got a new table and I’ve been practicing. Hell of a good game, Norm, you should try it.”
+   The man was a bloody Philistine. Norman said,“I’ll be by directly,” and cradled the handset with considerable force.
+   He recorked the bottle of dead Margaux and wrapped it in a towel. After which he blew out the candle, switched off his quadraphonic unit, and took the penthouse elevator to the street. Fifteen minutes later a taxi delivered him to the East Side block on which Hume’s town house was situated.
+   Hume admitted him, allowed as how it was good to see him again, swatted him on the back (Norman shuddered and ground his teeth), and ushered him into a spacious living room. There were shelves filled with rare first editions, walls adorned with originals by Degas and Monet and Sisley, fine Kerman orientals on the floor. But all of these works of art, Norman thought, could mean nothing to Hume; they would merely be possessions, visible evidence of his wealth. He had certainly never read any of the books or spent a moment appreciating any of the paintings. And there were cigarette burns (Norman ground his teeth again) in one of the Kerman carpets.
+   Hume himself was fifty pounds overweight and such a plebeian type that he looked out of place in these genteel surroundings. He wore expensive but ill-fitting clothes, much too heavy for the season because of a professed hypersensitivity to cold; his glasses were rimmed in gold-and-onyx and quite thick because of a professed astigmatism in one eye; he carried an English walking stick because of a slight limp that was the professed result of a sports car accident. He pretended to be an eccentric, but did not have the breeding, intelligence, or flair to manage even thepose of eccentricity. Looking at him now, Norman revised his previous estimate: The man was not a Philistine; he was a Neanderthal.
+   “How about a drink, Norman?”
+   “This is not a social call,” Norman said.
+   “No?” Hume peered at him. “So what can I do for you?”
+   Norman unwrapped the bottle of Margaux and extended it accusingly.“This is what you can do for me, as you put it.”
+   “I don’t get it,” Hume said.
+   “You gave me this Margaux last month. I trust you remember the occasion.”
+   “Sure, I remember. But I still don’t see the point—”
+   “The point, Hume, is that it’s dead.”
+   “Huh?”
+   “The wine is undrinkable. It’sdead, Hume.”
+   Hume threw back his head and made a sound like the braying of a jackass.“You hand me a laugh sometimes, Norm,” he said, “you really do. The way you talk about wine, like it was alive or human or something.”
+   Norman’s hands had begun to tremble. “The Margauxwas alive. Now it is nothing but 79-year-old vinegar!”
+   “So what?” Hume said.
+   “So what?” A reddish haze seemed to be forming behind Norman’s eyes. “So what! You insensitive idiot, don’t you have any conception of what tragedy this is?”
+   “Hey,” Hume said, “who you calling an idiot?”
+   “You, you idiot. If you have another Margaux 1900, I demand it in replacement. I demand aliving wine.”
+   “I don’t give a damn what you demand,” Hume said. He was miffed too, now. “You got no right to call me an idiot, Norm; I won’t stand for it. Suppose you just get on out of my house. And take your lousy bottle of wine with you.”
+   “My lousy bottle of wine?” Norman said through the reddish haze. “Oh no, Hume, it’syour lousy bottle of wine and I’m going to letyou have it!”
+   Then he did exactly that: he let Hume have it. On top of the head with all his strength.
+   There were several confused moments that Norman could not recall afterward. When the reddish haze dissipated he discovered that all of his anger had drained away, leaving him flushed and shaken. He also discovered Hume lying quite messily dead on the cigarette-scarred Kerman, the unbroken bottle of Margaux beside him.
+   It was not in Norman’s nature to panic in a crisis. He marshaled his emotions instead and forced himself to approach the problem at hand with cold logic.
+   Hume was as dead as the Margaux; there was nothing to be done about that. He could, of course, telephone the police and claim self-defense. But there was no guarantee that he would be believed, considering that this was Hume’s house, and in any case he had an old-fashioned gentleman’s abhorrence of adverse and sensational publicity. No, reporting Hume’s demise was out of the question.
+   Which left the reasonable alternative of removing all traces of his presence and stealing away as if he had never come. It was unlikely that anyone had seen him entering; if he was careful his departure would be unobserved as well. And even if someonedid happen to notice him in a casual way, he was not known in this neighborhood and there was nothing about his physical appearance that would remain fixed in a person’s memory. An added point in his favor was that Hume had few friends and by self-admission preferred his own company. The body, therefore, might well go undiscovered for several days.
+   Norman used the towel to wipe the unbloodied surfaces of the Margaux bottle— a distasteful but necessary task — and left the bottle where it lay beside the body. Had he touched anything in the house that might also retain a fingerprint? He was certain he had not. Hehadpressed the doorbell button on the porch outside, but it would be simple enough to brush that clean before leaving. Was there anything else, anything he might have overlooked? He concluded that there wasn’t.
+   With the towel folded inside his coat pocket, he went down the hallway to the front door. There was a magnifying-glass peephole in the center of it; he put his eye to the glass and peered out. Damn. Two women were standing on the street in front, conversing in the amiable and animated fashion of neighbors. They might decide to part company in ten seconds, but they might also decide to remain there for ten minutes.
+   Norman debated the advisability of exiting through the rear. But a man slipping out the back door of someone’s house was much more likely to be seen and remembered than a man who departed the front. And there was still the matter of the doorbell button to be dealt with. His only intelligent choice was to wait for the street in front to become clear.
+   As he stood there he found himself thinking again of the tragedy of the Margaux 1900 (a far greater tragedy to his connoisseur’s mind than the unlamented death of Roger Hume). It was considered by many experts to be one of the most superlative vintages in history; and the fact remained that he had yet to taste it. To have come so close and then to be denied as he had was intolerable.
+   It occurred to him again that perhaps Humedid have another bottle on the premises. While presenting the first bottle last month Hume had boasted that he maintained a“pretty well-stocked” wine cellar, though he confided that he had never had “much of a taste for the grape” and seldom availed himself of its contents. Neanderthal, indeed. But a Neanderthal with a good deal of money who had managed, through luck or wise advice, to obtain at least one bottle of an uncommon and classic wine—
+   Was there another Margaux 1900 in his blasted cellar?
+   Norman debated a second time. On the one hand it would behoove him to make as rapid an escape as possible from the scene of his impulsive crime; but on the other hand the 1900 Margaux was virtually impossible to find today, and if he passed up this opportunity to secure a bottle for himself he might never taste it. It would be a decision he might well rue for the rest of his days.
+   He looked once more through the peephole; the two women were still talking together outside. Which only served to cement a decision already made. He was, first and foremost, a connoisseur: he simplybad to know if Hume had another bottle of the Margaux.
+   Norman located the wine cellar without difficulty. It was off the kitchen, with access through a door and down a short flight of steps. It was also adequate, he noticed in a distracted way as he descended— a smallish single room, walled and floored in concrete, containing several storage bins filled with at least two hundred bottles of wine.
+   But no, not just wine; remarkablyfine wine. Reds from Châteaux Lafite, Haut-Brion, Lascombes, Cos D’Estournel, Mouton-D’Armailhacq, La Tâche, Romanée Saint-Vivant; whites from the Bommes and Barsac communes of France, from the Rhine Hessen of Germany, from Alsace and Italy and the Napa Valley of California. Norman resisted the impulse to stop andmore closely examine each of the labels. He had no time to search out anything except the Margaux 1900.
+   He found two different Château Margaux clarets in the last row of bins, but neither of them was the 1900 vintage. Then, when he was about to abandon hope, he knelt in front of the final section of bins and there they were, a pair of dusty bottles whose labels matched that on the spoiled bottle upstairs.
+   Norman expelled a breath and removed one of them with care. Should he take the second as well? Yes: if he left it here there was no telling into whose unappreciative hands it might fall. There would doubtless be a paper sack in the kitchen in which to carry both. He withdrew the second bottle, straightened, and started to the stairs.
+   The door at the top was closed. Blinking, Norman paused. He could not recall having shut the door; in fact he was quite certain he had left it standing wide open. He frowned, went up the steps, set the two living Margaux 1900s down carefully at his feet, and rotated the knob.
+   It was locked.
+   It took a moment of futile shaking and rattling before he realized that the top of the door was outfitted with one of those silent pneumatic door closers. He stared at it in disbelief. Only an idiot would put such a device on the door to a wine cellar! But that was, of course, what Hume had been. For whatever incredible reason he had had the thing installed— and it seemed obvious now that he carried on his person the key to the door latch.
+   There was no other way out of the cellar, no second door and no window; Norman determined that with a single sweep of his gaze. And the door looked to be fashioned of heavy solid wood, which made the task of forcing it or battering it down an insurmountable one.
+   He was trapped.
+   The irony was as bitter as the taste of the dead Margaux: trapped in Roger Hume’s wine cellar with the man’s murdered corpse in the living room upstairs. He had been a fool to come down here, a fool to have listened to the connoisseur in him. He could have been on his way home to his penthouse by now. Instead, here he was, locked away awaiting the eventual arrival of the police...
+   As he had done earlier, Norman made an effort to gather his wits. Perhaps all wasnot lost, despite the circumstances. He could claim to have been visiting Hume when two burly masked men entered the house; and he could claim that these men had locked him in the cellar and taken Hume away to an unknown fate. Yes, that was plausible. After all, he was a respected and influential man. Why shouldn’t he be believed?
+   Norman began to feel a bit better. There remained the problem of survival until Hume’s body was found; but as long as that did not take more than a week — an unlikely prospect — the problem was not really a serious one. He was surrounded by scores of bottles of vintage wine, and therewas a certain amount of nourishment to be had from the product of the vintner’s art. At least enough to keep him alive and in passable health.
+   Meanwhile, he would have to find ways to keep himself and his mind occupied. He could begin, he thought, by examining and making a mental catalogue of Hume’s collection of vintages and varieties.
+   He turned from the door and surveyed the cellar again. And for the first time, something struck him as vaguely odd about it. He had not noticed it before in his haste and purpose, but now that he was locked in here with nothing to distract him—
+   A faint sound reached his ears and made him scowl. He could not quite identify it or its source at first; he descended the stairs again and stood at the bottom, listening. It seemed to be coming from both sides of the cellar. Norman moved to his left— and when the sound became clear the hackles rose on the back of his neck.
+   What it was a soft hissing.
+
+   Roger Hume’s body was discovered three days later by his twice-weekly cleaning lady. But when the police arrived at her summons, it was not Hume’s death which interested them quite so much as that of the second man, whose corpse was found during a routine search of the premises.
+   This second“victim” lay on the floor of the wine cellar, amid a rather astonishing carnage of broken wine bottles and spilled wine. His wallet identified him as Norman Tolliver, whose name and standing were recognized by the cleaning lady, if not by the homicide detectives. The assistant medical examiner determined probable cause of death to be an apoplectic seizure, a fact which only added to the consternation of the police. Why was Tolliver locked inside Roger Hume’s wine cellar? Why had he evidently smashed dozens of bottles of expensive wine? Why was he dead of natural causes and Hume dead of foul play?
+   They were, in a word, baffled.
+   One other puzzling aspect came to their attention. A plain clothes officer noticed the faint hissing sound and verified it as forced air coming through a pair of wall ducts; he mentioned this to his lieutenant, saying that it seemed odd for a wine cellar to have heater vents like the rest of the rooms in the house. Neither detective bothered to pursue the matter, however. It struck them as unrelated to the deaths of the two men.
+   But it was, of course, the exact opposite: it was the key to everything. Along with several facts of which they were not yet aware: Norman’s passion for wine and his high blood pressure, Roger Hume’s ignorance in the finer arts andhis hypersensitivity to cold— and the tragic effect on certain wines caused by exposure to temperatures above 60 degrees Fahrenheit.
+   No wonder Norman, poor fellow, suffered an apoplectic seizure. Can there be any greater horror for the true connoisseur than to find himself trapped in a cellar full of rare, aged, and irreplaceable wines that have been stupidly turned to vinegar?
+   Out Behind the Shed
+   There was a dead guy behind the parts shed.
+   I went out there to get a Ford oil pan for Barney and I saw him lying on his back in the weedy grass. He didn’t have a face. There was blood and bone and pulp and black scorch marks where his face used to be. I couldn’t even guess if he was anybody I knew.
+   I stood there shivering. It was cold... Jesus, it was cold for late March. The sky was all glary, like the sun coming off a sheetmetal roof. Only there wasn’t any sun. Just a shiny silver overcast, so cold-hot bright it hurt your eyes to look at it. The wind was big and gusty, the kind that bums right through clothing and puts a rash like frostbite on your skin. No matter what I’d done all day I couldn’t seem to get warm.
+   I’d known right off, as soon as I got out of bed, that it was going to be a bad day. The cold and the funny bright sky was one thing. Another was Madge. She’d started in on me about money again even before she made the coffee. How we were barely making ends meet and couldn’t even afford to getthe TV fixed, and why couldn’t I find a better-paying job or let her go to work part-time or at least take a second job myself, nights, to bring in a little extra. The same old song and dance. The only old tune she hadn’t played was the one about how much she ached for another kid before she got too old, as if two wasn’t enough. Then I came in here to work and Barney was in a grumpy mood on account of a head cold and the fact that we hadn’t had three new repair jobs in a week. Maybe he’d have to do some retrenching if things didn’t pick up pretty soon, he said. That was the word he used, retrenching. Laying me off was what he meant. I’d been working for him five years, steady, never missed a day sick, never screwed up on a single job, and he was thinking about firing me. What would I do then? Thirty-six years old, wife and two kids, house mortgaged to the hilt, no skills except auto mechanic and nobody hiring mechanics right now. What the hell would I do?
+   Oh, it was a bad day, all right. I hadn’t thought it could get much worse but now I knew that it could.
+   Now there was this dead guy out here behind the shed.
+   I ran back inside the shop. Barney was still banging away under old Mrs. Cassell’s Ford, with his legs sticking out over the end of the roller cart. I yelled at him to slide out. He did and I said, “Barney... Barney, there’s a dead guy out by the parts shed.”
+   He said,“You trying to be funny?”
+   “No,” I said. “No kidding and no lie. He’s out there in the grass behind the shed.”
+   “Another of them derelicts come in on the freights, I suppose. You sure he’s dead? Maybe he’s just passed out.”
+   “Dead, Barney. I know a dead guy when I see one.”
+   He hauled up on his feet. He was a big Swede, five inches and fifty pounds bigger than me, and he had a way of looming over you that made you feel even smaller. He looked down into my face and then scowled and said in a different voice,“Froze to death?”
+   “No,” I said. “He hasn’t got a face anymore. His face is all blown away.”
+   “Jesus. Somebody killed him, you mean?”
+   “Somebody must of. Who’d do a thing like that, Barney? Out behind our shed?”
+   He shook his head and cracked one of his big gnarly knuckles. The sound echoed like a gunshot in the cold garage. Then, without saying anything else, he swung around and fast-walked out through the rear door.
+   I didn’t go with him. I went over and stood in front of the wall heater. But I still couldn’t get warm. My shoulders kept hunching up and down inside my overalls and I couldn’t feel my nose or ears or the tips of my fingers, as if they weren’t there anymore. When I looked at my hands they were all red and chapped, like Madge’s hands after she’s been washing clothes or dishes. They twitched a little, too; the tendons were like worms wiggling under a handkerchief.
+   Pretty soon Barney came back. He had a funny look on his moon face but it wasn’t the same kind he’d had when he went out. He said, “What the hell, Joe? I got no time for games and neither do you.”
+   “Games?”
+   “There’s nobody behind the shed,” he said.
+   I stared at him. Then I said,“In the grass, not ten feet past the far comer.”
+   “I looked in the grass,” Barney said. His nose was running from the cold. He wiped it off on the sleeve of his overalls. “I looked all over. There’s no dead guy. There’s nobody.”
+   “But I saw him. I swear to God.”
+   “Well, he’s not there now.”
+   “Somebody must of come and dragged him off, then.”
+   “Who’d do that?”
+   “Same one who killed him.”
+   “There’s no blood or nothing,” Barney said. He was back to being grumpy. His voice had that hard edge and his eyes had a squeezed look. “None of the grass is even flattened down. You been seeing things, Joe.”
+   “I tell you, it was the real thing.”
+   “And I tellyou, it wasn’t. Go out and take another look, see for yourself. Then get that oil pan out of the shed and your ass back to work. I promised old lady Cassell we’d have her car ready by five-thirty.”
+   I went outside again. The wind had picked up a couple of notches, turned even colder; it was like fire against my bare skin. The hills east of town were all shimmery with haze, like in one of those desert mirages. There was a tree smell in the air but it wasn’t the usual good pine-and-spruce kind. It was a eucalyptus smell, even though there weren’t any eucalyptus trees within two miles of here. It made me think of cat piss.
+   I put my head down and walked slow over to the parts shed. And stopped just as I reached it to draw in a long breath.... And then went on to where I could see past the far corner.
+   The dead guy was there in the grass. Lying right where I’d seen him before, laid out on his back with one leg drawn up and his face blown away.
+   The wind gusted just then, and when it did it made sounds like howls and moans. I wanted to cover my ears. Cover my eyes, too, to keep from seeing what was in the grass. But I didn’t do either one. All I did was stand there shivering with my eyes wide open, trying to blink away some of the shimmery haze that seemed to have crawled in behind them. Nothing much was clear now, inside or out — nothing except the dead guy.
+   “Joe!”
+   Barney, somewhere behind me. I didn’t turn around but I did back up a couple of steps. Then I backed up some more, until I was past the comer and couldn’t see the dead guy anymore. Then I swung around and ran to where Barney was in the shop doorway.
+   “He’s there, Barney, he’s there he’s there—”
+   He gave me a hard crack on the shoulder. It didn’t hurt; only the cold hurt where it touched my face and hands. He said, “Get hold of yourself, man.”
+   “Iswearit,” I said, “right where I saw him before.”
+   “All right, take it easy.”
+   “I don’t know how you missed seeing him,” I said. I pulled at his arm. “I’ll show you, come on.”
+   I kept tugging on him and finally he came along, grumbling. I led the way out behind the shed. The dead guy was still there, all right. I blew out the breath I’d been holding and said, “Didn’t I tell you? Didn’t I?”
+   Barney stared down at the dead guy. Then he stared at me with his mouth open a little and his nose dripping snot. He said,“I don’t see anything.”
+   “You don’t... what?”
+   “Grass, just grass.”
+   “What’s the matter with you? You’re looking right at him!”
+   “The hell I am. The only two people out here are you and me.”
+   I blinked and blinked and shook my head and blinked some more but the dead guy didn’t go away. He wasthere. I started to bend over and touch him, to make absolutely sure, but I couldn’t do it. He’d be cold, as cold as the wind — colder. I couldn’t stand to touch anything that cold and dead.
+   “I’ve had enough of this,” Barney said.
+   I made myself look at him instead of the dead guy. The cat-piss smell had gotten so strong I felt like gagging.
+   “He’s there,” I said, pleading. “Oh God, Barney, can’t you see him?”
+   “There’s nobody there. How many times do I have to say it? You better go on inside, Joe. Both of us better. It’s freezing out here.”
+   He put a hand on my arm but I shook it off. That made him mad.“All right,” he said, “if that’s the way you want it. How about if I call Madge? Or maybe Doc Kiley?”
+   “No,” I said.
+   “Then quit acting like a damn fool. Get a grip on yourself, get back to work. I mean it, Joe. Any more of this crap and you’ll regret it.”
+   “No,” I said again. “You’re lying to me. That’s it, isn’t it? You’re lying to me.”
+   “Why would I lie to you?”
+   “I don’t know, but that’s what you’re doing. Why don’t you want me to believe he’s there?”
+   “Goddamn it,there’s nobody there!”
+   Things just kept happening today— bad things one right after another, things that made no sense. The cold, Madge, Barney, the dead guy, the haze, the cat-piss smell, Barney again — and now a cold wind chilling me inside as well as out, as if icy gusts had blown right in through my flesh and were howling and prowling around myheart. I’d never felt like this before. I’d never been this cold or this scared or this frantic.
+   I pulled away from Barney and ran back into the shop and into the office and unlocked the closet and took out the duck gun he lets me keep in there because Madge don’t like guns in the house. When I got back to the shed, Barney was just coming out with a Ford oil pan in his gnarly hands. His mouth pinched up tight and his eyes got squinty when he saw me.
+   He said,“What the hell’s the idea bringing that shotgun out here?”
+   “Something’s going on,” I said, “something crazy. You see that dead guy there or don’t you?”
+   “You’re the one who’s crazy, Joe. Give me that thing before somebody gets hurt.”
+   He took a step toward me. I backed up and leveled the duck gun at him.“Tell me the truth,” I said, desperate now, “tell me you see him lying there!”
+   He didn’t tell me. Instead he gave a sudden lunge and got one hand on the barrel and tried to yank the gun away and oh Jesus him pulling on it like that made me jerk the trigger. The load of birdshot hit him full on and he screamed and the wind screamed with him and then he stopped but the wind didn’t. Inside and out, the wind kept right on screaming.
+   I stood looking down at him lying in the grass with one leg drawn up and his face blown away. I could see him clear, even through that shimmery haze. Just him down there. Nobody else.
+   Just Barney.
+   Vanishing Act
+   (with Michael Kurland)
+   The three of us— Ardis, Cedric Clute and I — were sitting at a quiet comer table, halfway between the Magic Cellar’s bar and stage, when the contingent of uniformed policemen made their entrance. There were about thirty of them, all dressed in neatly pressed uniforms and gleaming accessories, and they came down the near aisle two abreast like a platoon of marching soldiers. Most of the tables that front the stage were already occupied, so the cops took over the stack of carpet-covered trunks which comprise a kind of bleacher section directly behind the tables.
+   I cocked an eyebrow.“Most saloon owners would object to such an influx of fuzz,” I said to Cedric. He owns the Cellar, San Francisco’s only nightclub devoted to the sadly vanishing art of magic.
+   “Policemen have a right to be entertained,” he said, smiling.
+   “Their lot, I understand, is not a happy one.”
+   Ardis said speculatively,“They look very young.”
+   “That’s because they’re most of the graduation class of the Police Academy,” Cedric told her. “Their graduation ceremony was this afternoon, and I invited them down as a group. Actually, it was Captain Dickensheet’s idea.” He indicated a tall, angular, graying man, also in uniform, who was about to appropriate a table for himself and two other elder officers. “I’ve known him casually for a couple of years, and he thought his men would enjoy the show.”
+   “With Christopher Steele and The Amazing Boltan on the same bill,” Ardis said, “they can’t help but enjoy it.”
+   I started to add an agreement to that— and there was Steele himself standing over the table, having appeared with that finely developed knack he has of seeming to come from nowhere.
+   Christopher Steele is the Cellar’s main attraction and one of the greatest of the modern illusionists. I don’t say that because I happen to be his manager and publicist. He’s also something of a secretive type, given to quirks like an inordinate fascination for puzzles and challenges, the more bizarre the better. Working for and with him the past five years has been anything but dull.
+   Steele usually dresses in black, both on stage and off, and I think he does it because he knows it gives him, with his thick black hair and dark skin and eyes, a vaguely sinister air. He looked sinister now as he said,“The most amazing thing about Phil Boltan, you know, is that he’s still alive. He does a fine job on stage, but he has the personal habits and morals of a Yahoo.”
+   Ardis’ eyes shone as they always did when Steele was around; she’s his assistant and confidante and lives in a wing of his house across the Bay, although if there is anything of a more intimate nature to their relationship neither of them has ever hinted at it to me. She said, “You sound as thoughBoltan is not one of your favorite people, Christopher.”
+   “He isn’t — not in the least.”
+   Cedric frowned,“If you’d told me you felt that way, I wouldn’t have booked you both for the same night.”
+   “It doesn’t matter. As I said, he is a fine performer.”
+   “Just what is it that you find so objectionable about Boltan?” I asked as Steele sat down.
+   “He’s a ruthless egomaniac,” Steele said. “Those in the psychological professions would call him a sociopath. If you stand in his way, he’ll walk over you without hesitation.”
+   “A fairly common trait among performers.”
+   “Not in Boltan’s case. Back in the 40s, for example, he worked with a man named Granger—”
+   “The Four-Men-in-a-Trunk Illusion,” Ardis said immediately.
+   “Right. The Granger Four-Men-in-a-Trunk Illusion premiered at the Palladium before George the Fifth. That was before Bolton’s time, of course. At any rate, Granger was getting old, but he had a beautiful young wife named Cecily and an infant son; he also had Phil Boltan as an assistant.
+   “So one morning Granger awoke to find that Boltan had run off with Cecily and several trunks of his effects. He was left with the infant son and a load of bitterness he wasn’t able to handle. As a result, he put his head in a plastic bag one evening and suffocated himself. Tragic — very tragic.”
+   “What happened to the son?” Cedric asked.
+   “I don’t know. Granger had no close relatives, so I imagine the boy went to a foster home.”
+   Ardis asked,“Did Boltan marry Cecily?”
+   “No. Of course not. He’s never married any of his conquests.”
+   “Nice guy,” I said.
+   Steele nodded and leaned back in his chair.“Enough about Phil Boltan,” he said. “Matthew, did you have any problem setting up for my show?”
+   “No,” I told him. “All your properties are ready in the wings.”
+   “Sound equipment?”
+   “In place.”
+   “Ultraviolet bulbs?”
+   “Check,” I said. The u.v. bulbs were to illuminate the special paint on the gauze and balloons and other “spook” effects for Steele’s midnight séance show. “It’s a good thing I did a precheck; one of the Carter posters fluoresced blue around the border, and I had to take it down. Otherwise it would have been a conspicuous distraction.”
+   Cedric looked at me reproachfully.“I suppose you’d have removed the Iron Maiden if that had fluoresced,” he said, meaning the half-ton iron torture box in one comer.
+   “Sure,” I said. “Dedication is dedication.”
+   We made small talk for a time, and then Cedric excused himself to take his usual place behind the bar; it was twenty past ten. I sipped my drink and looked idly around the Cellar. It was stuffed with the paraphernalia and memorabilia of Carter the Great, a world-famous illusionist in the’20s and ’30s. His gaudy posters covered the walls.
+   The stage was rather small, but of professional quality; it even had a trapdoor, which led to a small tunnel, which in turn came up in the coatroom adjacent to the bar. The only other exits from the stage, aside from the proscenium, were curtains on the right and left sides, leading to small dressing rooms. Both rooms had curtained second exits to the house, on the right beyond the Davenport Brothers Spirit Cabinet— a privy-sized cubicle in which a tarot reader now did her thing — and on the left behind a half-moon table used for close-up card tricks.
+   At 10:30 the voice of Cedric’s wife Jan came over the loudspeaker, announcing the beginning of Boltan’s act. The lights dimmed, and the conversational roar died to a murmur. Steele swiveled his chair to face the stage, the glass of brandy he had ordered in one hand. He cupped the glass like a fragile relic, staring over its lip at the stage as the curtain went up.
+   “Oh, for a muse of fire...” he said softly, when The Amazing Boltan made his entrance.
+   “What was that?” I whispered, but Steele merely gave me one of his amused looks and waved me to silence.
+   The Amazing Boltan was an impressive man. Something over six feet tall and ever so slightly portly, he had the impeccable grooming and manners of what would have been described fifty years ago as a“born gentleman.” His tuxedo didn’t seem like a stage costume, but like a part of his personality. It went with the gold cufflinks and cigar case, and the carefully tonsured, white-striped black hair. He looked elegant, but to my eyes it was the elegance of a con man or a head waiter.
+   Bolton’s act was showy, designed to impress you with his power and control. He put a rabbit into a box, then waved his hands and collapsed the box, and the rabbit was gone. He took two empty bowls and produced rice from them until it overran the little table he was working on and spilled in heaps onto the stage floor. He did a beautiful version of an effect called the Miser’s Dream. Gold coins were plucked out of the air and thrown into a bucket until it rattled with them; then he switched to paper money and filled the rest of the bucket with fives and tens. All the while he kept up a steady flow of patter about “The Gold of Genies” and “The Transmutations of the Ancients of Lhassa.”
+   When he was finished with this effect, Boltan said to the audience,“I shall now require an assistant. A young lady, perhaps. What about you, miss? That’s it — don’t be afraid. Step right up here on stage with me.” He helped a young, winsome-looking blonde across the footlights, and proceeded to amaze her and the rest of the audience by causing sponge balls to multiply in her closed hand and appear and disappear from his.
+   He excused the girl finally and asked for another volunteer:“A young man, perhaps, this time.” I could tell by the pacing of the act that he was headed toward some impressive finale.
+   A bulky bearded man who had just pushed himself to a table at the front, and was therefore still standing, allowed himself to be talked into climbing onto the stage. He was dressed somewhere between college casual and sloppy: a denim jacket, jeans, and glossy black shoes. He appeared to be in his late twenties, though it wasn’t easy to tell through his medium-length facial hair.
+   “Thank you for coming up to help me,” Boltan said in his deep stage voice. “Don’t be nervous. Now, if you’ll just hold your two hands outstretched in front of you, palms up...”
+   The bearded man, instead of complying with this request, took a sudden step backward and pulled a small automatic from his jacket pocket.
+   The audience leaned forward expectantly, thinking that this was part of the act; but Steele, who apparently felt that it wasn’t, jumped to his feet and started toward the stage. I pushed my own chair back, frowning, and went after him.
+   Boltan retreated a couple of steps, a look of bewilderment crossing his elegant features. The bearded man leveled the gun at him, and I heard him say distinctly,“I’m going to kill you, Boltan, just as someone should have done years ago.”
+   Steele shouted something, but his words were lost in the deafening explosion of three shots.
+   Boltan, staggering, put a hand to his chest. Blood welled through his fingers, and he slowly crumpled. A woman screamed. The uniformed police cadets and their officers were on their feet, some of them starting for the stage. Steele had reached the first row of tables, and was trying to push between two chairs to get to the stage. The bearded man dropped his weapon and ran off stage right, disappearing behind the curtain leading to the dressing room on that side.
+   The entire audience knew now that the shooting wasn’t part of the show; another woman screamed, and people began milling about, several of them rushing in panic toward the Cellar’s two street exits. Blue uniforms converged on the stage, shoving tables and civilians out of the way, leaping up onto it. Steele had made it up the steps by this time, with me at his heels, but his path to the stage right curtain was hampered by the cadets. Over the bedlam I heard a voice shout authoritatively, “Everyone remain calm and stay where you are! Don’t try to leave these premises!”
+   Another voice, just as authoritative, yelled,“Jordan, Bendy, Cullen — cover the exits! Let no one out of here!”
+   I could see the stage area exit beyond the Spirit Cabinet, the one from the dressing room area stage right to the club floor; in fact, I had kept my eyes on it from the moment the bearded man had run off, because that was the only other way out of that dressing room. But no one appeared there. Steele and the cops pushed their way through the stage right curtain just as several other cadets reached the exit I was watching. Any second now they would drag the bearded man out, I thought, and we could start to make sense out of what had just happened.
+   Only they didn’t emerge, and I heard shouts of surprise and confusion instead.
+   “He’s got to be in here somewhere.”
+   “He’s not here, damn it, you can see that.”
+   “Another exit...”
+   “there isn’t any other exit,” Steele’s voice said.
+   “Well, he’s hiding in here somewhere.”
+   “Where? There’s no place for a man to hide.”
+   “Those costume trunks—”
+   “They’re too small to hold a man, as you can plainly see.”
+   “Then where the hell is he? He can’t have vanished into thin air!”
+   Subsequently, however, it appeared that the man who had shot The Amazing Boltan in full view of more than thirty cops had done just that.
+
+   Half an hour later I was again sitting at the comer table, along with Steele, Ardis, a harassed looking Cedric, and Ced’s slender and attractive wife Jan. The contingent of police had managed to quiet the frightened patrons, who were now all sitting at the tables or in the grandstand, or clustered along the walls, or bellied up to the bar for liquid fortification; they looked nervous and were mostly silent. Blue uniforms and business suits — the cadets and their officers, and several regular patrolmen and Homicide people — stood guard or moved about the room examining things and asking questions and doing whatever else it is cops do at the scene of a violent crime.
+   A number of things had occurred in that half hour.
+   Item: Boltan had died of the gunshot wounds, probably instantaneously.
+   Item: The gun which the murderer had dropped, a Smith& Wesson M39, had been turned over to the forensic lab men. If they had found any fingerprints on it, we hadn’t heard of it yet.
+   Item: The police cadets who had covered the Cellar’s two street exits immediately after the shooting swore that no one had left.
+   Item: The entire stage area and the remainder of the club had been thoroughly searched without turning up any sign of the bearded killer.
+   Conclusions: The Amazing Boltan had been shot to death by a man who could not have left the Magic Cellar, was therefore still here, and yet, seemingly, was not here at all.
+   All of us were baffled, as we had said to each other several times in the past few minutes. Or, rather, Ardis and Cedric and Jan and I had said so; Steele sat in silence, which was unusual for him, and seemed to be brooding. When I asked him how he thought it had been done, since after all he was a master illusionist and a positive fanatic when it came to“impossible challenges,” he gave me a meditative look and declined comment.
+   We had considered, of course, the trapdoor in the stage, and had instantly ruled it out. For one thing, it was located in the middle of the stage itself— right behind where Boltan had fallen, as a matter of fact — and all of us had seen the killer exit stage right through the side curtain; there was no trap in that dressing room area. The tunnel leading from under the stage trap to the coatroom had been searched anyway, but had been empty.
+   I dredged my memory for possible illusions which would explain the bearded man’s vanishing act, but they all seemed to demand a piece of apparatus or specific condition which just wasn’t present. Houdini once vanished an elephant off the stage of the Hippodrome, but he had a large, specially made cage to do it. What did seem clear was that the murderer knew, and had applied, the principles of stage magic to come up with a brilliant new effect, and then had used it to commit a coldblooded homicide on the stage of the Magic Cellar.
+   Captain Dickensheet approached our table and leaned across it, his palms hard on the edge.“Everybody,” he said pointedly to Cedric, “has to be somewhere. Don’t you haveany ideas where the killer got to— and how?”
+   Cedric shook his head wearily.“There’s just no other way out of that dressing room besides the curtain onto the stage and the curtain next to the Spirit Cabinet,” he said. “The Cabinet is solid down to the floor, and the other walls are brick.”
+   “No gimmick or gizmo to open that Cabinet’s back wall?”
+   “No, none.”
+   “Even if there were,” Steele said, “it would merely propel the killer into the audience. The fact is, Captain, he could not have gotten out of the dressing room unseen. You have my professional word on that.”
+   Dickensheet straightened up, glaring.“Are you telling me, then, that what we all saw couldn’t have happened?”
+   “Not at all.” Steele stood abruptly and squeezed past my chair to the aisle. “I can assure you that what you saw is exactly what happened. Exactly.” Then, nodding to the table, he headed back to the stage left dressing room
+   Dickensheet lowered his lanky frame into the aisle chair and stared across at the Carter the Great poster on the wall facing him. It depicted Carter astride a camel, surrounded by devils and imps, on his way to“steal” the secrets of the Sphinx and the marvels of the tomb of old King Tut. “Magicians!” the captain said, with feeling.
+   Cedric asked,“How much longer will you be holding everyone here?”
+   “I don’t know yet.”
+   “Well, can’t you just take all their names and addresses, and let them go home?”
+   “That’s not up to me,” Dickensheet said sourly. “You’ll have to talk to Lupoff, the homicide inspector in charge of the investigation.”
+   “All right.” Cedric sighed, and got up to do that.
+   I decided to leave the table too, because I was wondering what Steele was up to backstage. I excused myself and went into the left dressing room where I found Steele sitting in front of the mirror, carefully applying his stage makeup.
+   “What are you doing?” I demanded.
+   “It’s twenty till twelve, Matthew,” he said. “I’m on at midnight.”
+   “You don’t think they’re going to let you do your shownow, do you?”
+   “Why not?”
+   “Well, they just took Boltan’s body off the stage fifteen minutes ago.”
+   “Ah yes,” Steele said. “Life and death, the eternal mysteries. My audience is still here, I note, and I’m sure they’d like to be entertained. Not that watching the police poking and prying into all the comers big enough to conceal a man isn’t entertaining.”
+   “I don’t understand why you’d evenwant to go on tonight,” I said. “There’s no way you can top the last performance. Besides, a spook show would hardly be in good taste right now.”
+   “On the contrary, it would be in perfect taste. Because during the course of it, I intend to reveal the identity of the murderer of Philip Boltan.”
+   “What!” I stared at him. “Do you mean you know how the whole thing was done?”
+   “I do.”
+   “Well — how? How did the killer disappear?”
+   “The midnight show, Matthew,” he said firmly.
+   I looked at him with sufferance, and then nodded. Steele never does anything the easy way. As well, here was an opportunity to put on a kind of show of shows, and Steele is first and foremost a showman. Not that I objected to this, you understand. My business is publicity and public relations, and Steele’s flair for drama is the best kind of both. If he named the killer during his midnight show, and brought about the capture of the bearded man, the publicity would be fantastic.
+   “All right,” I said, “I’ll use my wiles to convince the cops to allow you to go ahead. But I hope you know what you’re doing.”
+   “I always know what I’m doing.”
+   “Ninety percent of the time, anyway.”
+   “Ask Ardis to come in here,” Steele said. “I’ll have to tell her what effects we’re doing now, and in what order.”
+   “You wouldn’t want to give me some idea of what’s going on, would you?”
+   Steele smiled a gentle, enigmatic smile.“It is now quarter to twelve, Matthew. I would like the show to begin at exactly midnight.”
+   Which meant that he had said all he intended to say for the time being, and I was therefore dismissed. So I went back out into the club where Captain Dickensheet was still sitting at our table with Jan and Ardis; Cedric had also returned, and had brought with him the dark, intense-looking inspector-in-charge, Lupoff.
+   When I got to the table I told Ardis that Steele wanted to see her. Immediately, she hurried to the stage left dressing room. I sat down and put on my best PR smile for Lupoff and Dickensheet.
+   “I have a request from Christopher Steele,” I said formally. “He wants to be allowed to do his midnight show.”
+   Both cops frowned, and Lupoff said,“I’m in no mood for levity.”
+   “Neither is Steele. He wants to do the show, he says, in order to name the murderer and explain how the vanishing act was done.”
+   Everyone at the table stared at me, Cedric and Jan looking relieved. Lupoff and Dickensheet, on the other hand, looked angrily disbelieving. The inspector said,“If Steele knows how and who, why the hell doesn’t he just come out here and say so?”
+   “You have to understand him,” I said. “He’s an artist, a showman. He thinks only in theatrical terms.” I went on to tell them about Steele’s idiosyncrasies, making it sound as though he were a genius who had to be treated with kid gloves — which was true enough. “Besides, if he solves the case for you, what can it hurt to let him unmask the killer in his own way?”
+   “The murdereris still here, then?” Cedric asked.
+   “I think so,” I said. “Steele didn’t really tell me much of anything, but that’s what I would assume.” I returned my gaze to the two cops. “You’ve got the Cellar sealed off, right? The killer can’t possibly escape.”
+   “I don’t like it,” Lupoff said. “It’s not the way things are done.”
+   I had to sell them quickly; it was nearing midnight. I decided to temporize.“Steele needs the show in order to expose the guilty man,” I said. “He’s not sure of the killer’s identity, but something he has planned in the show will pin it down.”
+   “How does he know it will work?” Dickensheet asked. Then he scowled. “He wouldn’t be wanting to do this show of his just for publicity, would he?”
+   “Listen, Captain,” I said, “the publicity won’t be very good if he blows it. I’d say Steele’s pretty sure of himself.”
+   Cedric nodded eagerly; he knew, as I did, that if Steele came through as usual, it would turn a possibly harmful blow to the Cellar’s image into a potential drawing card. He said, “I’ve known Christopher Steele for a long time, and I’ll vouch for what Mr. Booth says. If Steele claims to know what happened here tonight, then he does know. I think you ought to go along with him.”
+   Lupoff and Dickensheet held a whispered conference. Then they both got up, told us to wait, and went back-stage, no doubt to confront Steele. Three minutes later they came out again, still looking dubious— but knowing Steele as I did, I could tell even before Dickensheet confirmed it that they had given him the go-ahead.
+
+   Midnight.
+   The civilian audience had been fidgeting in their seats for a couple of minutes, since Cedric had announced to them over the loudspeaker that Steele was going to do his midnight show. The contingent of police were also fidgeting, owing to the fact that none of them had any idea, either, of what was about to happen. I was alone at the table, Jan having gone back to the bar and Cedric off to work the light board.
+   The house lights dimmed, and the curtain rolled up. Steele stood motionless at center stage, the rose-gelled spots bathing him in soft light; his work clothes, a black suit over a dark turtleneck, gave him a sinister-somber look. He bowed slightly and said,“Good evening.”
+   The last murmur died away among the audience, and two hundred people silently watched for whatever miracle Christopher Steele, Master of Illusion, was about to perform.
+   “We have, all of us,” he said, “just witnessed a murder, and a murder is a horrible thing. It is the one irremediable act, terrible in its finality and inexcusable in any sane society. No matter how foul the deeds or repugnant the actions of another human being, no one has the right to take from him that which cannot be given back: his life.
+   “But the murder itself has been overshadowed by the miraculous disappearance of the killer, seemingly before our very eyes. He ran into that dressing room—” Steele gestured to his left, “—which has only two exits, and apparently never came out. The room has been thoroughly searched, and no human being could possibly remain concealed therein. A vanishing act worthy of a Houdini.”
+   Steele’s eyes peered keenly around at the audience. “I am something of an authority on vanishing—”
+   Suddenly the lights went out.
+   There was an immediate reaction from the audience, already edgy from the past hour-and-a-half’s happenings; no screams, but a nervous titter in the dark and the sound of chairs being pushed back and people standing.
+   Then the lights came back on, and Steele was still there, center stage, facing the audience.“Accept my apologies,” he said. “Please, all of you be seated. As you can see—” he indicated the two police officers standing one on each side of the stage, “—there is nowhere I could go. As well, the lights were off then for a full five seconds, which is much too long for an effective disappearance. A mere flicker of darkness, or a sudden burst of flame, is all that is needed.
+   “I shall now attempt to solve this mystery, which has so baffled my friends on the police and the rest of us. I’m sure you will forgive me if, in so doing, I create a small mystery of my own.”
+   Steele clapped his hands together three times, and on the third clap there was a blinding flash of light— and the stage lights went out again — and came back on almost instantly.
+   Steele was gone.
+   In his place stood the beautiful Ardis, in her long white stage gown, her arms outstretched and a smile on her lips.“Hello,” she said.
+   The audience gasped. The thing was done so neatly, and so quickly; Steele had turned into Ardis before their eyes. Someone tentatively applauded, as much in a release of tension as anything else, but there was no doubt that the audience was impressed.
+   Ardis held up her hands for silence.“What you have just seen is called a transference,” she said when the room grew still again. “Christopher Steele is gone, and I am here. And now I, too, in my turn, shall leave. I shall go into the fourth dimension, and you shall all observe the manner of my going. Yet none of you will know where I have gone. Thus — farewell.”
+   There was another bright flash, and the lights once more went out; but we could still see Ardis before us as a kind of ghostly radiance, her white dress almost glowing in the dark. Then she dwindled before our eyes, as though receding to a great distance. Finally, the lights came on to stay, and the stage was empty, and she was gone.
+   There was a shocked silence, as though the audience was collectively holding its breath. In that silence, a deep, imperious voice said,“I am here!”
+   Everybody turned in their seats, including me, for the voice had come from the rear of the room.
+   Incredibly, there stood the murderer— beard, denim jacket, and all.
+   Several of the policemen started toward him, and one woman shrieked. At the same time, the bearded man extended his arm and pointed a long finger.“I,” he said, “am you.”
+   He was pointing at one of the young police cadets standing near the Iron Maiden.
+   The cadet backed away, startled, looking trapped. Immediately, the bearded man hunched in on himself and pulled the denim jacket over his head. When he stood up again, he was Steele— and the apparition that had been the murderer was a small bundle of clothing in his hand. Even the jeans had been replaced by Steele’s black suit trousers.
+   “You are the murderer of Philip Boltan,” Steele said to the cadet. “You—”
+   The cadet didn’t wait for any more; he turned and made a wild run for the nearest exit. He didn’t make it, but it took three other cops a full minute to subdue him.
+
+   Some time later, Steele, Ardis, Cedric, Jan, and I were sitting around the half-moon table waiting for Inspector Lupoff and Captain Dickensheet to return from questioning the murderer of Philip Boltan. The Cellar had been cleared of patrons and police, and we were alone in the large, dark room.
+   Steele occupied the seat of honor: an old wooden rocking chair in the dealer’s spot in the center of the half-moon. He had said little since the finale of his special midnight show. All of us had wanted to ask him how he knew the identity of the killer, and exactly how the vanishing act had been worked, but we knew him well enough to realize that he wouldn’t say anything until he had the proper audience. He just sat there smiling in his enigmatic way.
+   When the two officers finally came back, they looked disgruntled and morose. They sat down in the two empty chairs, and Dickensheet said grimly,“Well, we’ve just had an unpleasant talk with Spellman — or the man I knew as Spellman, anyway. He’s made a full confession.”
+   “The man you knew as Spellman?” I said.
+   “His real name is Granger. Robert Granger.”
+   Cedric frowned, looking at Steele.“Isn’t that the name of Boltan’s former partner, the one you told us committed suicide?”
+   “It is,” Steele told him. “I had an idea that might be who the young cadet was.”
+   “You mean he killed Boltan because of what happened to his father?” I asked.
+   “Yes,” Lupoff said. “He decided years ago that the perfect revenge was to kill Boltan on stage, in full view of an audience, and then disappear. He’s been planning it ever since, mainly by studying and mastering the principles of magic.”
+   “Then he intended from the beginning to murder Boltan in circumstances such as those tonight?”
+   “More or less,” Dickensheet said. “He wanted to do the job during one of Boltan’s regular performances, and the invitation to the Academy graduating class tonight convinced him that now was the time. It was only fitting, according to Granger, that Boltan die on stage under an aura of mystery.”
+   Jan said bewilderedly,“But why would a potential murderer join thepolice force?”
+   “Spellman, or Granger, is mentally unstable. We try to weed them out, but every once in a while one slips by. He believes in meting out punishment to those who would ‘do evil,’ in his own words just now. God only knows what he might have done if he’d gotten away with this murder and gone onto become an officer in the field.” Dickensheet shuddered at the possibility. “As if we don’t have enough problems...”
+   “I don’t understand how Granger could join the force under an assumed name,” Cedric said. “I mean, if his real name is Granger and you knew him as Spellman—”
+   “Spellman is the name of the family who adopted him out of the orphanage he ended up in after his father died. As far as our people knew, that was his real name. I mean, you usually don’t check back past a kid’s sixth birthday. We might never have known he was Boltan’s partner’s son if hehadn’t admitted it himself tonight.”
+   “What else did he say?” I asked.
+   “Not much. He talked freely enough about who he was and his motives, but when we started asking him about the details of the murder, he closed up tight.”
+   So we all looked at Steele, who continued to sit there smiling to himself.
+   “All right, Steele,” Lupoff said, “you’re on again. How did Spellman-Granger commit the murder?”
+   “With a gun,” Steele told him.
+   “Now look—”
+   Steele held up a placating hand.“Very well,” he said, “although you must realize that I dislike explaining any illusion.” He began to rock gently in the chair. “Granger used a clever variant on an illusion first employed by Houdini. As Houdini did it, the magician rode into an arena — this was a major effect done onlyin stadiums and arenas — on a white horse, dressed in flowing Arabian robes. His several assistants, clad in red work suits, would grab the horse. Houdini would then stand up in the saddle and fire a gun in the air, at which second a previously arranged action of some type would direct all eyes to another part of the arena. During that instant, Houdini would vanish; and his assistants would then lead the horse out.”
+   Dickensheet asked,“So how did he do it?”
+   “By a costume change. He would be wearing, underneath the Arabian robes, a red work suit like his assistants; the robes were specially-made breakaway garments, which he could get out of in a second, roll into a ball, and hide beneath his work suit. So he became one of the assistants and went out with them and the horse.
+   “Spellman’s vanishing act was worked in much the same way. He probably donned his breakaway costume and false beard in the men’s room just prior to Boltan’s act,over his police uniform, and made sure he was picked from the audience by being there standing up when Boltan did the selecting. After he shot Boltan and ran into the dressing room through the curtain, he pulled off his breakaway costume and false hair, rolled them into a bundle and stuffed them into one of the costume trunks. Then he backed against the side of the curtain, so that when the first cadets dashed through, he immediately became one of them.”
+   “But we looked in all of the trunks...”
+   “Yes, but you were looking for a man hiding, not for a small bundle of denim and hair stuffed in toward the bottom.”
+   Lupoff shook his head.“It sounds so simple,” he said.
+   “Much magic works that way,” Steele said. “You could never in a lifetime guess how it’s done, but if it’s explained it sounds so easy you wonder how you were fooled. Which is one reason magicians do not like to explain their effects.”
+   Ardis said,“You knew all along it had to be one of the cadets, Christopher?”
+   “By the logic of the situation,” Steele agreed. “But I had further confirmation when I remembered that, despite his somewhat scruffy appearance, the murderer was wearing well-shined black shoes — the one item he wouldn’t have time to change — just as were all the other graduating cadets.”
+   “But how did you know which of the cadets it was?”
+   “I didn’t until I was on stage. I had found the costume and the beard right before that, and I saw that the guilty man had fastened his face hair on with spirit gum, as most professionals do. It must have been very lightly tacked on so he could rip it off effectively, but the spirit gum would leave a residue nonetheless.”
+   “Of course!” I said. “Spirit gum fluoresces under ultraviolet light.”
+   Steele smiled.“Not very much, but enough for me to have detected the outline of a chin and upper lip when I looked for them in the darkness.”
+   Lupoff and Dickensheet seemed baffled, so I explained that there were u.v. bulbs in some of the spots because they were necessary for Steele’s spook show effects.
+   They nodded. Lupoff asked Steele,“How did you manageyour disappearance?”
+   “The stage trap. I dropped into it, and Ardis popped out of it. Then she kept the audience’s attention long enough for me to crawl to the coatroom, put on the breakaway costume, and approach the audience from the rear. When the lights went out again and she disappeared, I looked again for the outline of chin and upper lip, to make sure I would be confronting exactly the right man.”
+   “And now your disappearance, young lady?” Dickensheet asked Ardis.
+   She laughed.“I walked off the stage in the dark.”
+   “But we saw you, ah, dwindle away...”
+   “That wasn’t me. It was a picture painted on an inflated balloon which was held over the stage for our show. I pulled it down with a concealed string while the lights were out, and allowed it to deflate. So you saw the picture getting smaller and seeming to recede. The method’s been used for many years,” Ardis explained.
+   Dickensheet and Lupoff exchanged glances. The inspector said,“All of this really is obvious. But now that we know how obvious magic tricks are, we’d never fall for anything like them again.”
+   “Absolutely not,” the captain agreed.
+   “So you say,” Steele said. “But perhaps—”
+   Suddenly Ardis jumped up, backed off two steps, and made a startled cry. Naturally, we all looked around at her— and she was pointing across the table to Steele’s chair.
+   When we looked back there again, after no more than a second, the chair was rocking gently and Steele had vanished.
+   Dickensheet’s mouth hung open by several inches. Lupoff said in a surprised voice, “He didn’t have time to duck through the curtain there. Then — where did he go?”
+   I know most of Steele’s talents and effects, but not all of them by any means. So I closed my own mouth, because I had no answer to Lupoff’s question.
+
+Взято из Флибусты, http://flibusta.net/b/673394

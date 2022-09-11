@@ -1,0 +1,893 @@
+
+   RULE GOLDEN
+   Damon Knight
+   The socially sensitive writers of our time seem to me to have assembled under the banner of science fiction, where they send forth message, after message warning us of our folly and of the Furies we seem about to awake. One of the most devastating devices for showing these follies to us in science-fantasy form is to import a being from another, far-distant civilization, a being that has powers of one sort or another to make us see what horrible fools—what criminal fools— we are. In “Rule Golden,” Damon Knight—one of the most perceptive and astringent of science fiction’s writers and critics—takes the deceptively simple device of inverting the Golden Rule in the hand of an “alien” with strange powers, and putting it to work. Mr. Knight carries out his fable with relentless logic until you fairly squirm with reflected anguish. Believe me, it’s good for you!
+   This is one unswerving fact about Damon Knight: as a moralist as well as a writer, he is unbendingly honest, relentlessly logical. For this reason he is, and probably always will be, a poor man. Knight was born in Oregon in 1922, and as a young man spent a few unremunerative years as a commercial artist. He then shifted to pulp editing, and then, in his words,“was chained to an oar in a reading-fee literary agency.” He finally began writing full time in 1950. In 1956 Damon received a “Hugo” (science fiction’s imitation of the movie “Oscar”) as the best s-f critic of the year. He has written over sixty stories and two novels, and has fathered three children, all with the same wife.
+
+   1
+
+   A man in Des Moines kicked his wife when her back was turned. She was taken to the hospital, suffering from a broken coccyx.
+   So was he.
+   In Kansas City, Kansas, a youth armed with a .22 killed a schoolmate with one shot through the chest, and instantly dropped dead of heart-failure.
+   In Decatur two middleweights named Packy Morris and Leo Oshinsky simultaneously knocked each other out.
+   In St. Louis, a policeman shot down a fleeing bank robber and collapsed. The bank robber died; the policeman’s condition was described as critical.
+   I read those items in the afternoon editions of the Washington papers, and although I noted the pattern, I wasn’t much impressed. Every newspaperman knows that runs of coincidence are a dime a dozen;everything happens that way—plane crashes, hotel fires, suicide pacts, people running amok with rifles, people giving away all their money; name it and I can show you an epidemic of it in the files.
+   What I was actually looking for were stories originating in two places: my home town and Chillicothe, Missouri. Stories with those datelines had been carefully cut out of the papers before I got them, so, for lack of anything better, I read everything datelined near either place. And that was how I happened to catch the Des Moines, Kansas City, Decatur and St. Louis items—all of those places will fit into a two-hundred-mile circle drawn with Chillicothe as its center.
+   I had asked for, but hadn’t got, a copy of my own paper. That made it a little tough, because I had to sit there, in a Washington hotel room at night—and if you know a lonelier place and time, tell me—and wonder if they had really shut us down.
+   I knew it Was unlikely. I knew things hadn’t got that bad in America yet, by a long way. I knew theywantedme to sit there and worry about it, but I couldn’t help it.
+   Ever sinceLa Prensa, every newspaper publisher on this continent has felt a cold wind blowing down his back.
+   That’s foolishness, I told myself. Not to wave the flag too much or anything, but the free speech tradition in this country is too strong; we haven’t forgotten Peter Zenger.
+   And then it occurred to me that a lot of editors must have felt the same way, just before their papers were suppressed on the orders of an American President named Abraham Lincoln.
+   So I took one more turn around the room and got back into bed, and although I had already read all the papers from bannerlines to box scores, I started leafing through them again, just to make a little noise. Nothing to do.
+   I had asked for a book, and hadn’t got it. That made sense, too; there was nothing to do in that room, nothing to distract me, nothing to read except newspapers—and how could I look at a newspaper without thinking of theHerald-Star?
+   My father founded theHerald-Star—theHerald part, that is, theStar came later—ten years before I was born. I inherited it from him, but I want to add that I’m not one of those publishers by right of primogeniture whose only function consists in supplying sophomoric by-lined copy for the front page; I started on the paper as a copy boy and I can still handle any job in acity room.
+   It was a good newspaper. It wasn’t the biggest paper in the Middle West, or the fastest growing, or the loudest; but we’d had two Pulitzer prizes in the last fifteen years, we kept our political bias on the editorial page, and up to now we had never knuckled under to anybody.
+   But this was the first time we had picked a fight with the U. S. Department of Defense.
+   Ten miles outside Chillicothe, Missouri, the Department had a little hundred-acre installation with three laboratory buildings, a small airfield, living quarters for a staff of two hundred and a one-story barracks. It was closed down in 1968 when the Phoenix-bomb program was officially abandoned.
+   Two years and ten months later, it was opened up again. A new and much bigger barracks went up in place of the old one; a two-company garrison moved in. Who else or what else went into the area, nobody knew for certain; but rumors came out.
+   We checked the rumors. We found confirmation. We published it, and we followed it up. Within a week we had a full-sized crusade started; we were asking for a congressional investigation, and it looked as if we might get it.
+   Then the President invited me and the publishers of twenty-odd other anti-administration dailies to Washington. Each of us got a personal interview with The Man; the Secretary of Defense was also present, to evade questions.
+   They asked me, as a personal favor and in the interests of national security, to kill the Chillicothe series.
+   After asking a few questions, to which I got the answers I expected, I politely declined.
+   And here I was.
+   The door opened. The guard outside looked in, Saw me on the bed, and stepped back out of sight. Another man walked in: stocky build, straight black hair turning gray; about fifty. Confident eyes behind rimless bifocals.
+   “Mr. Dahl. My name is Carlton Frisbee.”
+   “I’ve seen your picture,” I told him. Frisbee was the Under Secretary of Defense, a career man, very able; he was said to be the brains of the Department.
+   He sat down facing me. He didn’t ask permission, and he didn’t offer to shake hands, which was intelligent of him.
+   “How do you feel about it now?” he asked.
+   “Just the same.”
+   He nodded. After a moment he said,“I’m going to try to explain our position to you, Mr. Dahl.”
+   I grinned at him.“The word you’re groping for is ‘awkward.’ ”
+   “No. It’s true that we can’t let you go in your present state of mind, but we can keep you. If necessary, you will be killed, Mr. Dahl. That’s how important Chillicothe is.”
+   “Nothing,” I said, “is that important.”
+   He cocked his head at me.“If you and your family lived in a community surrounded by hostile savages, who were kept at bay only because you had rifles—and if someone proposed to give them rifles—well?”
+   “Look,” I said, “let’s get down to cases. You claim that a new weapon is being developed at Chillicothe, is that right? It’s something revolutionary, and if the Russians got it first we would be sunk, and so on. In other words, the Manhattan Project all over again.”
+   “Right.”
+   “Okay. Then why has Chillicothe got twice the military guard it had when it was an atomic research center, and a third of the civilian staff?”
+   He started to speak.
+   “Wait a minute, let me finish. Why, of the fifty-one scientists we have been able to trace to Chillicothe, are there seventeen linguists and philogists, three organic chemists, five physiologists,twenty-six psychologists, and not one single physicist?”
+   “In the first place—were you about to say something?”
+   “All right, go ahead.”
+   “You know I can’t answer those questions factually, Mr. Dahl, but speaking conjecturally, can’t you conceive of a psychological weapon?”
+   “You can’t answer them at all. My third question is, why have you got a wall around that place—not just a stockade, a wall, with guard towers on it? Never mind speaking conjecturally. Now I’ll answer your question. Yes, I can conceive of psychological experimentation that you might call weapons research, I can think of several possibilities, and there isn’t a damn one of them that wouldn’t have to be used on American citizens before you could get anywhere near the Russians with it.”
+   His eyes were steady behind the bright lenses. He didn’t say, “We seem to have reached a deadlock,” or “Evidently it would be useless to discuss this any further”; he simply changed the subject.
+   “There are two things we can do with you, Mr. Dahl; the choice will be up to you. First, we can indict you for treason and transfer you to a Federal prison to await trial. Under the revised Alien and Sedition Act, we can hold you incommunicado for at least twelve months, and, of course, no bail will be set. I feel bound to point out to you that in this case, it would be impossible to let you come to trial until after the danger of breaching security at Chillicothe is past. If necessary, as I told you, you would die in prison.
+   “Second, we can admit you to Chillicothe itself as a press representative. We would, in this case, allow you full access to all nontechnical information about the Chillicothe project as it develops, with permission to publish as soon as security is lifted. You would be confined to the project until that time, and I can’t offer you any estimate of how long it might be. In return, you would be asked to write letters plausibly explaining your absence to your staff and to close friends and relatives, and—providing that you find Chillicothe to be what we say it is and not what you suspect—to work out a series of stories for your newspaper which will divert attention from the project.”
+   He seemed to be finished. I said,“Frisbee, I hate to tell you this, but you’re overlooking a point. Let’s just suppose for a minute that Chillicothe is what I think it is. How do I know that once I got inside I might not somehow or other find myself writing that kind of copy whether I felt like it or not?”
+   He nodded.“What guarantees would you consider sufficient?”
+   I thought about that. It was a nice point. I was angry enough, and scared enough, to feel like pasting Frisbee a good one and then seeing how far I could get; but one thing I couldn’t figure out, and that was why, if Frisbee wasn’t at least partly on the level, he should be here at all.
+   If they wanted me in Chillicothe, they could drag me there.
+   After a while I said,“Let me call my managing editor and tell him where I’m going. Let me tell him that I’ll call him again—on a video circuit—within three days after I get there, when I’ve had time to inspect the whole area. And that if I don’t call, or if I look funny or sound funny, he can start worrying.”
+   He nodded again.“Fair enough.” He stood up. “I won’t ask you to shake hands with me now, Mr. Dahl; later on I hope you will.” He turned and walked to the door, unhurried, calm, imperturbable, the way he had come in.
+   Six hours later I was on a westbound plane.
+
+   That was the first day.
+   The second day, an inexplicable epidemic broke out in the slaughterhouses of Chicago and surrounding areas. The symptoms were a sudden collapse followed by nausea, incontinence, anemia, shock, and in some cases, severe pain in the occipital and cervical regions. Or: as one victim, an A. F. of L. knacker with twenty-five years’ experience in the nation’s abbattoirs, succinctly put it: “It felt just like I was hit in the head.”
+   Local and Federal health authorities immediately closed down the affected slaughterhouses, impounded or banned the sale of all supplies of fresh meat in the area, and launched a sweeping investigation. Retail food stores sold out their stocks of canned, frozen and processed meats early in the day; seafood markets reported their largest volume of sales in two decades. Eggs and cheese were in short supply.
+   Fifty-seven guards, assistant wardens and other minor officials of the Federal penitentiary at Leavenworth, Kansas, submitted a group resignation to Warden Hermann R. Longo. Their explanation of the move was that all had experienced a religious conversion, and that assisting in the forcible confinement of other human beings was inconsonant with their beliefs.
+   Near Louisville, Kentucky, neighbors attracted by cries for help found a forty-year-old woman and her twelve-year-old daughter both severely burned. The woman, whose clothing was not even scorched although her upper body was covered with first and second degree bums, admitted pushing the child into a bonfire, but in her hysterical condition was unable to give a rational account of her own injuries.
+   There was also a follow-up on the Des Moines story about the man who kicked his wife. Remember that I didn’t say he had a broken coccyx; I said he was suffering from one. A few hours after he was admitted to the hospital he stopped doing so, and he was released into police custody when X-rays showed no fracture.
+   Straws in the wind.
+   At five-thirty that morning, I was waking up my managing editor, Eli Freeman, with a monitored long-distance call—one of Frisbee’s bright young men waiting to cut me off if I said anything I shouldn’t. The temptation was strong, just the same, but I didn’t.
+   From six to eight-thirty I was on a plane with three taciturn guards. I spent most of the time going over the last thirty years of my life, and wondering how many people would remember me two days after they wrapped my obituary around their garbage.
+   We landed at the airfield about a mile from the Project proper, and after one of my hitherto silent friends had finished a twenty-minute phone call, a limousine took us over to a long, temporary-looking frame building just outside the wall. It took me only until noon to get out again; I had been fingerprinted, photographed, stripped, examined, X-rayed, urinanalyzed, blood-tested, showered, disinfected, and given a set of pinks to wear until my own clothes had been cleaned and fumigated. I also got a numbered badge which I was instructed to wear on the left chest at all times, and an identity card to keep in my wallet when I got my wallet back.
+   Then they let me through the gate, and I saw Chillicothe.
+   I was in a short cul-de-sac formed by the gate and two walls of masonry, blank except for firing slits. Facing away from the gate I could see one of the three laboratory buildings a good half-mile away. Between me and it was a geometrical forest of poles with down-pointing reflectors on their crossbars. Floodlights.
+   I didn’t like that. What I saw a few minutes later I liked even less. I was bouncing across the flat in a jeep driven by a stocky, moon-faced corporal; we passed the first building, and I saw the second.
+   There was a ring of low pillboxes around it And their guns pointedinward, toward the building.
+
+   Major General Parst was a big, bald man in his fifties, whose figure would have been more military if the Prussian corset had not gone out of fashion. I took him for a Pentagon soldier; he had the Pentagon smoothness of manner, but there seemed to be a good deal more under it than the usual well-oiled vacancy. He was also, I judged, a very worried man.
+   “There’s just one thing I’d like to make clear to you at the beginning, Mr. Dahl. I’m not a grudge-holding man, and I hope you’re not either, because there’s a good chance that you and I will be seeing a lot of each other during the next three or four years. But I thought it might make it a little easier for you to know that you’re not the only one with a grievance. You see this isn’t an easy job, it never has been. I’m just stating the fact: it’s been considerably harder since your newspaper took an interest in us.” He spread his hands and smiled wryly.
+   “Just what is your job, General?”
+   “You mean, what is Chillicothe.” He snorted. “I’m not going to waste my breath telling you.”
+   My expression must have changed.
+   “Don’t misunderstand me—I mean that if I told you, you wouldn’t believe me. I didn’t myself. I’m going to have to show you.” He stood up, looking at his wristwatch. “I have a little more than an hour. That’s more than enough for the demonstration, but you’re going to have a lot of questions afterward. We’d better start.”
+   He thumbed his intercom.“I’ll be in Section One for the next fifteen minutes.”
+   When we were in the corridor outside he said,“Tell me something, Mr. Dahl: I suppose it occurred to you that if you were right in your suspicions of Chillicothe, you might be running a certain personal risk in coming here, in spite of any precautions you might take?”
+   “I considered the possibility. I haven’t seen anything to rule it out yet.”
+   “And still, I gather that you chose this alternative almost without hesitation. Why was that, if you don’t mind telling me?”
+   It was a fair question. There’s nothing very attractive about a Federal prison, but at least they don’t saw your skull open there, or turn your mind inside out with drugs. I said, “Call it curiosity.”
+   He nodded.“Yes. A very potent force, Mr. Dahl. More mountains have been moved by it than by faith.”
+   We passed a guard with a T44, then a second, and a third. Finally Parst stopped at the first of three metal doors. There was a small pane of thick glass set into it at eyelevel, and what looked like a microphone grill under that. Parst spoke into the grill:“Open up Three, Sergeant.”
+   “Yes, sir."
+   I followed Parst to the second door. It slid open as we reached it and we walked into a large, empty room. The door closed behind us with a thud and a solidclick. Both sounds rattled back starlingly; the room was solid metal,I realized—floor, walls and ceiling.
+   In the opposite wall was another heavy door. To my left was a huge metal hemisphere, painted the same gray as the walls, with a machine-gun’s snout projecting through a horizontal slit in a deadly and impressive manner.
+   Echoes blurred the General’s voice: “This is Section One. We’re rather proud of it. The only entrance to the central room is here, but each of the three others that adjoin it is covered from a gun-turret like that one. The gun rooms are accessible only from the corridors outside.”
+   He motioned me over to the other door.“This door is double,” he said. “It’s going to be an airlock eventually, we hope. All right, Sergeant.”
+   The door slid back, exposing another one a yard farther in; like the others, it had a thick inset panel of glass.
+   Parst stepped in and waited for me.“Get ready for a shock,” he said.
+   I loosened the muscles in my back and shoulders; my wind isn’t what it used to be, but I can still hit.Get ready for one yourself, I thought,if this is what I think it is.
+   I walked into the tiny room, and heard the door thump behind me. Parst motioned to the glass pane.
+   I saw a room the size of the one behind me. There was a washbasin in it, and a toilet, and what looked like a hammock slung across one corner, and a wooden table with papers and a couple of pencils or crayons on it.
+   And against the far wall, propped upright on an ordinary lunch-counter stool, was something I couldn’t recognize at all; I saw it and I didn’t see it. If I had looked away then, I couldn’t possibly have told anyone what it looked like.
+   Then it stirred slightly, and I realized that it was alive.
+   I saw that it had eyes.
+   I saw that it had arms.
+   I saw that it had legs.
+   Very gradually the rest of it came into focus. The top about four feet off the floor, a small truncated cone about the size and shape of one of those cones of string that some merchants keep to tie packages. Under that came the eyes, three of them. They were round and oyster-gray, with round black pupils, and they faced in different directions. They were set into a flattened bulb of flesh that just fitted under the base of the cone; there was no nose, no ears, no mouth, and no room on the flesh for any.
+   The cone was black; the rest of the thing was a very dark, shiny blue-gray.
+   The head, if that is the word, was supported by a thin neck from which a sparse growth of fuzzy spines curved down and outward, like a botched attempt at feathers. The neck thickened gradually until it became the torso. The torso was shaped something like a bottle gourd, except that the upper lobe was almost as large as the lower. The upper lobe expanded and contracted evenly, all around, as the thing breathed.
+   Between each arm and the next, the torso curved inward to form a deep vertical gash.
+   There were three arms and three legs, spaced evenly around the body so that you couldn’t tell front from back. The arms sprouted just below the top of the torso, the legs from its base. The legs were bent only slightly to reach the floor; each hand, with five slender, shapeless fingers, rested on the opposite-number thigh. The feet were a little like a chicken’s ...
+   I turned away and saw Parst; I had forgotten he was there, and where I was, and who I was. I don’t recall planning to say anything, but I heard my own voice, faint and hoarse:
+   “Did youmake that?”
+
+   2
+
+   “Stop it!” he said sharply.
+   I was trembling. I had fallen into a crouch without realizing it, weight on my toes, fists clenched.
+   I straightened up slowly and put my hands into my pockets.“Sorry.”
+   The speaker rasped.
+   “Is everything all right, sir?”
+   “Yes, Sergeant,” said Parst. “We’re coming out.” He turned as the door opened, and I followed him, feeling all churned up inside.
+   Halfway down the corridor I stopped. Parst turned and looked at me.
+   “Ithaca,” I said.
+   Three months back there had been a Monster-from-Mars scare in and around Ithaca, New York; several hundred people had seen, or claimed to have seen, a white wingless aircraft hovering over various out-of-the-way places; and over thirty, including one very respectable Cornell professor, had caught sight of something that wasn’t a man in the woods around Cayuga Lake. None of these people had got close enough for a good look, but nearly all of them agreed on one point—the thing walked erect, but had too many arms and legs... .
+   “Yes,” said Parst. “That’s right. But let’s talk about it in my office, Mr. Dahl.”
+   I followed him back there. As soon as the door was shut I said,“Where did it come from? Are there any more of them? What about the ship?”
+   He offered me a cigarette. I took it and sat down, hitting the chair by luck.
+   “Those are just three of the questions we can’t answer,” he said. “He claims that his home world revolves around a sun in our constellation of Aquarius; he says that it isn’t visible from Earth. He also—”
+   I said,“He talks—? You’ve taught him to speak English?” For some reason that was hard to accept; then I remembered the linguists.
+   “Yes. Quite well, considering that he doesn’t have vocal cords like ours. He uses a tympanum under each of those vertical openings in his body—those are his mouths. His name is Aza-Kra, by the way. I was going to say that he also claims to have come here alone?As for the ship, he says it’s hidden, but he won’t tell us where. We’ve been searching that area, particularly the hills near Cayuga and the lake itself, but we haven’t turned it up yet. It’s been suggested that he may have launched it under remote control and put it into an orbit somewhere outside the atmosphere. The Lunar Observatory is watching for it, and so are the orbital stations, but I’m inclined to think that’s a dead end. In any case, that’s not my responsibility. He had some gadgets in his possession when he was captured, but even those are being studied elsewhere. Chillicothe is what you saw a fewminutes ago, and that’s all it is. God knows it’s enough.”
+   His intercom buzzed.“Yes.”
+   “Dr. Meshevski would like to talk to you about the technical vocabularies, sir.”
+   “Ask him to hold it until the conference if he possibly can.”
+   “Yes, sir”
+   “Two more questions we can’t answer,” Parst said, “are what his civilization is like and what he came here to do. I’ll tell you what he says. The planet he comes from belongs to a galactic union of highly advanced, peace-loving races. He came here to help us prepare ourselves for membership in that union.”
+   I was trying hard to keep up, but it wasn’t easy. After a moment I said, “Suppose it’s true?”
+   He gave me the cold eye.
+   “All right, suppose it’s true.” For the first time, his voice was impatient. “Then suppose the opposite. Think about it for a minute.”
+   I saw where he was leading me, but I tried to circle around to it from another direction; I wanted to reason it out for myself. I couldn’t make the grade; I had to fall back on analogies, which are a kind of thinking I distrust.
+   You were a cannibal islander, and a missionary came along. He meant well, but you thought he wanted to steal your yam-fields and your wives, so you chopped him up and ate him for dinner.
+   Or:
+   You were a West Indian, and Columbus came along. You treated him as a guest, but he made a slave of you, worked you till you dropped, and finally wiped out your whole nation, to the last woman and child.
+   I said,“A while ago you mentioned three or four years as the possible term of the Project. Did you—?”
+   “That wasn’t meant to be taken literally,” he said, “It may take a lifetime.” He was staring at his desk-top.
+   “In other words, if nothing stops you, you’re going to go right on just this way, sitting on this thing. Until What’s-his-name dies, or his friends show up with an army, or something else blows it wide open.”
+   “That’s right.”
+   “Well, damn it, don’t you see that’s the one thing you can’t do? Either way you guess it, that won’t work. If he’s friendly—”
+   Parst lifted a pencil in his hand and slapped it palmdown against the desk-top. His mouth was tight.“It’snecessary,” he said.
+   After a silent moment he straightened in his chair and spread the fingers of his right hand at me.“One,” he said, touching the thumb: “weapons. Leaving everything else aside, if we can get one strategically superior weapon out of him, or the theory that will enable us to build one, then we’vegot to do it and we’vegot to do it in secret.”
+   The index finger.“Two: the spaceship.” Middle finger. “Three: the civilization he comes from. If they’re planning to attack us we’ve got to find that out, and when, and how, and what we can do about it.” Ring finger. “Four: Aza-Kra himself. If we don’t hold him in secret we can’t hold him at all, and how do we know what he might do if we let him go? There isn’t a single possibility we can rule out. Not one.”
+   He put the hand flat on the desk.“Five, six, seven, eight, nine, ten, infinity. Biology, psychology, sociology, ecology, chemistry, physics, right down the line. Every science. In any one of them we might find something that would mean the difference between life and death for this country or this whole planet.”
+   He stared at me for a moment, his face set.“You don’t have to remind me of the other possibilities, Dahl. I know what they are; I’ve been on this project for thirteen weeks. I’ve also heard of the Golden Rule, and the Ten Commandments, and the Constitution of the United States. But this isthe survival of the human race we’re talking about.”
+   I opened my mouth to say“That’s just the point,” or something equally stale, but I shut it again; I saw it was no good. I had one argument—that if this alien ambassador was what he claimed to be, then the whole world had to know about it; any nation that tried to suppress that knowledge, or dictate the whole planet’s future, was committing a crime against humanity. That, on the other hand, if he was an advance agent for an invasion fleet, the same thing was true only a great deal more so.
+   Beyond that I had nothing but instinctive moral conviction; and Parst had that on his side too; so did Frisbee and the President and all the rest. Being who and what they were, they had to believe as they did. Maybe they were right.
+   Half an hour later, the last-thought I had before my head hit the pillow was,Suppose there isn’t any Aza-Kra? Suppose that thing was a fake, a mechanical dummy?
+   But I knew better, and I slept soundly.
+
+   That was the second day. On the third day, the front pages of the more excitable newspapers were top-heavy with forty-eight-point headlines. There were two Chicago stories. The first, in the early afternoon editions, announced that every epidemic victim had made a complete recovery, that health department experts had been unable to isolate any disease-causing agent in the stock awaiting slaughter, and that although several cases not involving stockyard employees had been reported, not one had been traced to consumption of infected meat. A Chicago epidemiologist was quoted as saying,“It could have been just a gigantic coincidence.”
+   The later story was a lulu. Although the slaughterhouses had not been officially reopened or the ban on fresh-meat sales rescinded, health officials allowed seventy of the previous day’s victims to return to work as an experiment. Within half an hour every one of them was back in the hospital, suffering from a second, identical attack.
+   Oddly enough—at first glance—sales of fresh meat in areas outside the ban dropped slightly in the early part of the day (“Theysay it’s all right, but you won’t catch me taking a chance”), rose sharply in the evening (“I’d better stock up before there’s a run on the butcher shops”).
+   Warden Longo, in an unprecedented move, added his resignation to those of the fifty-seven“conscience” employees of Leavenworth. Well-known as an advocate of prison reform, Longo explained that his subordinates’ example had convinced him that only so dramatic a gesture could focus the American public’s attention upon the injustice and inhumanity of the present system.
+   He was joined by two hundred and three of the Federal institution’s remaining employees, bringing the total to more than eighty per cent of Leavenworth’s permanent staff.
+   The movement was spreading. In Terre Haute, Indiana, eighty employees of the Federal penitentiary were reported to have resigned. Similar reports came from the State prisons of Iowa, Missouri, Illinois and Indiana, and from city and county correctional institutions from Kansas City to Cincinnati.
+   The war in Indo-China was crowded back among the stock-market reports. Even the official announcements that the first Mars rocket was nearing completion in its sublunar orbit—front-page news at any normal time—got an inconspicuous paragraph in some papers and was dropped entirely by others.
+   But I found an item in a St. Louis paper about the policeman who had collapsed after shooting a criminal. He was dead.
+   I woke up a little before dawn that morning, having had a solid fifteen hours’ sleep. I found the cafeteria and hung around until it opened. That was where Captain Ritchy-loo tracked me down.
+   He came in as I was finishing my second order of ham and eggs, a big, blond, swimming-star type, full of confidence and good cheer.“You must be Mr. Dahl. My name is Ritchy-loo.”
+   I let him pump my hand and watched him sit down.“How do you spell it?” I asked him.
+   He grinned happily.“It is a tough one, isn’t it? French. R, i, c, h, e, l, i, e, u.”
+   Richelieu. Ritchy loo.
+   I said,“What can I do for you, Captain?”
+   “Ah, it’s what I can do foryou, Mr. Dahl. You’re a VIP around here, you know. You’re getting the triple-A guided tour, and I’m your guide.”
+   Ihate people who are cheerful in the morning.
+   We went out into the pale glitter of early-morning sunshine on the flat; the floodlight poles and the pillboxes trailed long, mournful shadows. There was a jeep waiting, and Ritchy-loo took the wheel himself.
+   We made a right turn around the comer of the building and then headed down one of the diagonal avenues between the poles. I glanced into the firing slit of one of the pillboxes as we passed it, and saw the gleam of somebody’s spectacles.
+   “That was B building that we just came out of,” said the captain. “Most of the interesting stuff is there, but you want to see everything, naturally, so we’ll go over to C first and then back to A.”
+   The huge barracks, far off to the right, looked deserted; I saw a few men in fatigues here and there, spearing stray bits of paper. Beyond the building we were heading for, almost against the wall, tiny figures were leaping rhythmically, opening and closing like so many animated scissors.
+   It was a well-policed area, at any rate; I watched for a while, out of curiosity, and didn’t see a single cigarette paper or gum wrapper.
+   To the left of the barracks and behind it was a miniature town—neat one-story cottages, all alike, all the same distance apart. The thing that struck me about it was that there were none of the signs of a permanent camp—no borders of whitewashed stones, no trees, no shrubs, no flowers.No wives, I thought.
+   “How’s morale here, Captain?” I asked.
+   “Now, it’s funny you should ask me that. That happens to be my job, I’m the Company B morale officer. Well, I should say that all things considered, we aren’t doing too badly. Of course, we have a few difficulties. These men are here on eighteen-month assignments, and that’s a kind of a long time without passes or furloughs. We’d like to make the hitches shorter, naturally, but of course you understand that there aren’t too many fresh but seasoned troops available just now.”
+   “No.”
+   "But, we do our best. Now here’s C building.”
+   Most of C building turned out to be occupied by chemical laboratories: long rows of benches covered by rank growths of glassware, only about a fifth of it working, and nobody watching more than a quarter of that
+   “What are they doing here?”
+   I“Over my head,” said Ritchy-loo cheerfully. “Here’s Dr. Vitale, let’s ask him.”
+   Vitale was a little sharp-featured man with a nervous blink.“This is the atmosphere section,” he said. “We’re trying to analyze the atmosphere which the alien breathes. Eventually we hope to manufacture it.”
+   That was a point that hadn’t occurred to me. “He can’t breathe our air?”
+   “No, no. Altogether different.”
+   “Well, where does he get the stuff he does breathe, then?”
+   The little man’s lips worked. “From that cone-shaped mechanism on the top of his head. An atmosphere plant that you could put in your pocket. Completely incredible. We can’t get an adequate sample without taking it off him, and we can’t take it off him without killing him. We have to deduce what he breathes in from what he breathesout. Very difficult.” He went away.
+   All the same. I couldn’t see much point in it. Presumably if Aza-Kra couldn’t breathe our air, we couldn’t breathe his—so anybody who wanted to examine him would have to wear an oxygen tank and a breathing mask.
+   But it was obvious enough, and I got it in another minute. If the prisoner didn’t have his own air-supply, it would be that much harder for him to break out past the gun rooms and the guards in the corridors and the. pillboxes and the floodlights and the wall....
+   We went on, stopping at every door. There were storerooms, sleeping quarters, a few offices. The rest of the rooms were empty.
+   Ritchy-loo wanted to go on to A building, but I was being perversely thorough, and I said we would go through the barracks and the company towns first. We did; it took us three hours, and thinned down Ritchy-loo’s stream of cheerful conversation to a trickle. We looked everywhere, and of course we did not find anything that shouldn’t have been there.
+   A building was the recreation hall. Canteen, library, gymnasium, movie theater, PX, swimming pool. It was also the project hospital and dispensary. Both sections were well filled.
+   So we went back to B. And it was almost noon, so we had lunch in the big air-conditioned cafeteria. I didn’t look forward to it; I expected that rest and food would turn on Ritchy-loo’s conversational spigot again, and if he didn’t get any response to the first three or four general topics he tried, I was perfectly sure he would begin telling me jokes. Nothing of the kind happened. After a few minutes I saw why, or thought I did. Looking around the room, I saw face after face with the same blank look on it; there wasn’t a smile or an animated expression in the place. And now that I was paying attention I noticed that the sounds were odd, too. There were more than a hundred people in the room, enough to set up a beehive roar; but there was so little talking going on that you could pick out individual sentences with ease, and they were all trochaic—Want some sugar?No, thanks. Like that.
+   It was infectious; I was beginning to feel it now myself— an execution-chamber kind of mood, a feeling that we were all shut up in a place that we couldn’t get out of, and where something horrible was going to happen. Unless you’ve ever been in a group made up of people who had that feeling and were reinforcing it in each other, it’s indescribable; but it was very real and very hard to take.
+   Ritchy-loo left half a chop on his plate; I finished mine, but it choked me.
+   In the corridor outside I asked him,“Is it always as bad as that?”
+   “You noticed it too? That place gives me the creeps. I don’t know why. It’s the same way in the movies, too, lately—wherever you get a lot of these people together. I just don’t understand it.” For a second longer he looked worried and thoughtful, and then he grinned suddenly. “I don’t want to say anything against civilians, Mr. Dahl, but I think that bunch is pretty far gone.”
+   I could have hugged him. Civilians! If Ritchy-loo was more than six months away, from a summer-camp counsellor’s job, I was a five-star general.
+   We started at that end of the corridor and worked our way down. We looked into a room with an X-ray machine and a fluoroscope in it, and a darkroom, and a room full of racks and filing cabinets, and a long row of offices.
+   Then Ritchy-loo opened a door that revealed two men standing on opposite sides of a desk, spouting angry German at each other. The tall one noticed us after a second, said,“ ’St, ’st,” to the other, and then to us, coldly, “You might, at least, knock.”
+   “Sorry, gentlemen,” said Ritchy-loo brightly. He closed the door and went on to the next on the same side. This opened onto a small, bare room with nobody in it but a stocky man with corporal’s stripes on his sleeve. He was sitting hunched over, elbows on knees, hands over his face. He didn’t move or look up.
+   I have a good ear, and I had managed to catch one sentence of what the fat man next door had been saying to the tall one. It went like this:“Nein, nein, das ist bestimmt nicht die Klaustrophobie; lch sage dir, es ist das dreifiissige Tier, das sie storrt.”
+   My college German came back to me when I prodded it, but it creaked a little. While I was still working at it, I asked Ritchy-loo,“What was that?”
+   “Psychiatric section,” he said
+   “You get many psycho cases here?”
+   “Oh, no,” he said. “Just the normal percentage, Mr. Dahl. Less, in fact.”
+   The captain was a poor liar.
+   “Klaustrophobie” was easy, of course.“Dreifilssige Tier”stopped me until I remembered that the German for *‘zoo” is“Tiergarten.” Dreifilssige Tier: the three-footed beast. The triped.
+   The fat one had been saying to the tall one,“No, no, it is absolutely not claustrophobia; I tell you, it’s the triped that’s disturbing them.”
+   Three-quarters of an hour later we had peered into the last room in B building: a long office full of IBM machines. We had now been over every square yard of Chillicothe, and I had seen for myself that no skulduggery was going forward anywhere in it. That was the idea behind the guided tour, as Ritchy-loo was evidently aware.
+   He said,“Well, that just about wraps it up, Mr. Dahl. By the way, the General’s office asked me to tell you that if it’s all right with you, they’ll set,up that phone call for you for four o’clock this afternoon.”
+   I looked down at the rough map of the building I’d been drawing as we went along. “There’s one place we haven’t been, Captain,” I said. “Section One.”
+   “Oh, well that’s right, that’s right. You saw that yesterday, though, didn’t you, Mr. Dahl?”
+   “For about two minutes. I wasn’t able to take much of it in. I’d like to see it again, if it isn’t too much trouble. Or even if it is.”
+   Ritchy-loo laughed heartily.“Good enough. Just wait a second, I’ll see if I can get you a clearance on it.” He walked down the corridor to the nearest wall phone.
+   After a few moments he beckoned me over, palming the receiver.“The General says there are two research groups in there now and it would be a little crowded. He says he’d like you to postpone it if you think you can.”
+   “Tell him that’s perfectly all right, but in that case I think we’d better put off the phone call, too.”
+   He repeated the message, and waited. Finally,“Yes. Yes, uh-huh. Yes, I’ve got that. All right.”
+   He turned to me.“The General says it’s all right for you to go in for half an hour and watch, but he’d appreciate it if you’ll be careful not to distract the people who’re working in there.”
+   I had been hoping the General would say no. I wanted to see the alien again, all right, but what I wanted the most was time.
+   This was the second day I had been at Chillicothe. By tomorrow at the latest I would have to talk to Eli Freeman; and I still hadn't figured out any sure, safe way to tell him that Chillicothe was a legitimate research project, not to be sniped at by theHerald-Star—and make him understand that I didn’t mean a word of it.
+   I could simply refuse to make the call, or I could tell him as much of the truth as I could before I was cut off—two words, probably—but it was a cinch that call would be monitored at the other end, too; that was part of what Ritchy-loo meant by “setting up the call.” Somebody from the FBI would be sitting at Freeman’s elbow... and I wasn’t telling myself fairy tales about Peter Zenger any more.
+   They would shut the paper down, which was not only the thing I wanted least in the world but a thing that would do nobody any good.
+   I wanted Eli to spread the story by underground channels—spread it so far, and time the release so well, that no amount of censorship could kill it.
+   Treason is a word every man has to define for himself.
+   Ritchy-loo did the honors for me at the gun-room door, and then left me, looking a little envious. I don’t think he had ever been inside Section One.
+   There was somebody ahead of me in the tiny antechamber, I found: a short, wide-shouldered man with a sheepdog tangle of black hair.
+   He turned as the door closed behind me.“Hi. Oh—you’re Dahl, aren’t you?” He had a young, pleasant, meaningless face behind dark-rimmed glasses. I said yes.
+   He put a half-inch of cigarette between his lips and shook hands with me.“Somebody pointed you out. Glad to know you; my name’s Donnelly. Physical psych section—very junior.” He pointed through the spy-window. “What do you think of him?”
+   Aza-Kra was sitting directly in front of the window; his lunch-counter stool had been moved into the center of the room. Around him were four men: two on the left, sitting on folding chairs, talking to him and occasionally making notes; two on the right, standing beside a waist-high enclosed mechanism from which wires led to the upper lobe of the alien’s body. The ends of the wires were taped against his skin.
+   “That isn’t an easy question,” I said.
+   Donnelly nodded without interest.“That’s my boss there,” he said, “the skinny, gray-haired guy on the right. We get on each other’s nerves. If he gets that setup operating this session, I’m supposed to go in and take notes. He won’t, though.”
+   “What is it?”
+   “Electroencephalograph. See, his brain isn’t in his head, it’s in his upper thorax there. Too much insulation in the way. We can’t get close enough for a good reading without surgery. I say we ought to drop it till we get permission, but Hendricks thinks he can lick it. Those two on the other side are interviewers. Like to hear what they’re saying?”
+   He punched one of two buttons set into the door beside the speaker grill, under the spy-window.“If you’re ever in here alone, remember you can’t get out while this is on. You turn on the speaker here, it turns off the one in the gun room. They wouldn’t be able to hear you ask to get out.”
+   Inside, a monotonous voice was saying, . have that here, but what exactly do you mean by..
+   “I ought to be in physiology,” Donnelly said, lowering his voice. “They have all the fun. You see his eyes?”
+   I looked. The center one was staring directly toward us; the other two were tilted, almost out of sight around the curve of that bulb of blue-gray flesh.
+   “... in other words, just what is the nature of this energy, is it—uh—transmitted by waves, or..
+   “He can look three ways at once,” I said.
+   “Three, with binocular,” Donnelly agreed. “Each eye can function independently or couple with the one on either side. So he can have a series of overlapping monocular images, all the way around, or he can have up to three binocular images. They focus independently, too. He could read a newspaper and watch for his wife to come out of the movie across the street.”
+   “Wait a minute,” I said. “He hassix eyes, not three?”
+   “Sure. Has to, to keep the symmetry and still get binocular vision.”
+   “Then he hasn’t got any front or back,” I said slowly.
+   “No, that’s right. He’s trilaterally symmetrical. Drive you crazy to watch him walk. His legs work the same way as his eyes—any one can pair up with either of the others. He wants to change direction, he doesn’t have to turn around. I’d hate to try to catch him in an open field.”
+   “How did they catch him?” I asked.
+   “Luckiest thing in the world. Found him in the woods with two broken ankles. Now look at his hands. What do you see?”
+   The voice inside was still droning; evidently it was a long question.“Five fingers,” I said.
+   “Nope.” Donnelly grinned. “One finger, four thumbs. See how they oppose, those two on either side of the middle finger? He’s got a better hand than ours. Onehell of an efficient design. Brain in his thorax where it’s safe, six eyes on a stalk—trachea up there too, no connection with the esophagus, so he doesn’t need an epiglottis. Three of everything else. He can lose a leg and still walk, lose an arm and still type, lose two eyes and still see better than we do. He can lose—”
+   I didn’t hear him. The interviewer’s voice had stopped, and Aza-Kra’s had begun. It was frightening, because it was a buzzing and it was a voice.
+   I couldn’t take in a word of it; I had enough to do absorbing the fact that there were words.
+   Then it stopped, and the interviewer’s ordinary, flat Middle Western voice began again.
+   “—And just try to sneak up behind him,” said Donnelly. “I dare you.”
+   Again Aza-Kra spoke briefly, and this time I saw the flesh at the side of his body, where the two lobes flowed together, bulge slightly and then relax.
+   “He’s talking with one of his mouths,” I said. “I mean, one of those—” I took a deep breath. “If he breathes through the top of his head, and there’s no connection between his lungs and his vocal organs, then where the hell does he get the air?”
+   “He belches. Not as inconvenient as it sounds. You could learn to do it if you had to.” Donnelly laughed. “Not very fragrant, though. Watch their faces when he talks.”
+   I watched Aza-Kra’s instead—what there was of it: one round, expressionless, oyster-colored eye staring back at me. With a human opponent, I was thinking, there were a thousand little things that you relied on to help you: facial expressions, mannerisms, signs of emotion. But Parst had been right when he said,There isn’t a single possibility we can rule out. Not one. And so had the fat man:It’s the triped that’s disturbing them. And Ritchy-loo:Ifs the same way ... wherever you get a lot of these people together.
+   And I still hadn’t figured out any way to tell Freeman what he had to know.
+   I thought I could arouse Eli’s suspicion easily enough; we knew each other well enough for a word or a gesture to mean a good deal. I could make him look for hidden meanings. But how could I hide a message so that Eli would be more likely to dig it out than a trained FBI cryptologist?
+   I stared at Aza-Kra’s glassy eye as if the answer were there. It was going to be a video circuit, I told myself. Donnelly was still yattering in my ear, and now the alien was buzzing again, but I ignored them both. Suppose I broke the message up into one-word units, scattered them through my conversation with Eli, and marked them off somehow— by twitching a finger, or blinking my eyelids?
+   A dark membrane flicked across the alien’s oyster-colored eye.
+   A moment later, it happened again.
+   Donnelly was saying,“... intercostal membranes, apparently. But there’s no trace of ...”
+   “Shut up a minute, will you?” I said. “I want to hear this.”
+   The inhuman voice, the voice that sounded like the articulate buzzing of a giant insect, was saying,“Comparison not possible, excuse me. If(blink) you try to understand in words you know, you(blink) tell yourself you wish(blink)to understand, but knowledge escape(blink) you. Can only show(blink) you from beginning, one(blink) little, another little. Not possible to carry all knowledge in one hand(blink)."
+   If you wish escape, show one hand.
+   I looked at Donnelly. He had moved back from the spy-window; he was lighting a cigarette, frowning at the match-flame. His mouth was sullen.
+   I put my left hand flat against the window. I thought,I’m dreaming.
+   The interviewer said querulously, “ ...getting us nowhere. Can’t you—”
+   “Wait,” said the buzzing voice. “Let me say, please. Ignorant man hold(blink) burning stick, say, this is breath(blink) of the wood. Then you show him flashlight—”
+   I took a deep breath, and held it.
+   Around the alien, four men went down together, folding over quietly at waist and knee, sprawling on the floor. I heard a thump behind me.
+   Donnelly was lying stretched out along the wall, his head tilted against the corner. The cigarette had fallen from his hand.
+   I looked back at Aza-Kra. His head turned slightly, the dark flush crinkling. Two eyes stared back at me through the window.
+   “Now you can breathe,” said the monster.
+
+   3
+
+   I let out the breath that was choking me and took another. My knees were shaking.
+   “What did you do to them?”
+   “Put them to sleep only. In a few minutes I will put the others to sleep. After you are outside the doors. First we will talk.”
+   I glanced at Donnelly again. His mouth was ajar; I could see his lips fluttering as he breathed.
+   “All right,” I said, “talk.”
+   “When you leave,” buzzed the voice, “you must take me with you.”
+   Now it was clear. He could put people to sleep, but he couldn’t open locked doors. He had to have help.
+   “No deal,” I said, “You might as well knock me out, too.”
+   “Yes,” he answered, “you will do it. When you understand.”
+   “I’m listening.”
+   “You do not have to agree now. I ask only this much. When we are finished talking, you leave. When you are past the second door, hold your breath again. Then go to the office of General Parst. You will find there papers about me. Read them. You will find also keys to open gun room. Also, handcuffs. Special handcuffs, made to fit me. Then you will think, if Aza-Kra is not what he says, would he agree to this? Then you will come back to gun room, use controls there to open middle door. You will lay handcuffs down, where you stand now, then go back to gun room, open inside door. I will put on the handcuffs. You will see that I do it. And then you will take me with you.”
+   ... I said,“Let me think.”
+   The obvious thing to do was to push the little button that turned on the audio circuit to the gun room, and yell for help; the alien could then put everybody to sleep from here to the wall, maybe, but it wouldn’t do any good. Sooner or later he would have to let up, or starve to death along with the rest of us. On the other hand if I did what he asked—anything he asked—and it turned out to be the wrong thing, I would be guilty of the worst crime since Pilate’s.
+   But I thought about it, I went over it again and again, and I couldn’t see any loophole in it for Aza-Kra. He was leaving it up to me—if I felt like letting him out after I’d seen the papers in Parst’s office, I could do so. If I didn’t, I could still yell for help. In fact, I could get on the phone and yell to Washington, which would be a hell of a lot more to the point.
+   So where was the payoff for Aza-Kra? What was in those papers?
+   I pushed the button. I said,“This is Dahl. Let me out, will you please?”
+   The outer door began to slide back. Just in time, I saw Donnelly’s head bobbing against it; I grabbed him by the shirt-front and hoisted his limp body out of the way.
+   I walked across the echoing outer chamber; the outermost door opened for me. I stepped through it and held my breath. Down the corridor, three guards leaned over their rifles and toppled all in a row, like precision divers. Beyond them a hurrying civilian in the cross-corridor fell heavily and skidded out of sight.
+   The clacking of typewriters from a near-by office had stopped abruptly. I let out my breath when I couldn’t hold it any longer, and listened to the silence.
+   The General was slumped over his desk, head on his crossed forearms, looking pretty old and tired with his polished bald skull shining under the light. There was a faint silvery scar running across the top of his head, and I wondered whether he had got it in combat as a young man, or whether he had tripped over a rug at an embassy reception.
+   Across the desk from him a thin man in a gray pin-check suit was jackknifed on the carpet, half-supported by a chairleg, rump higher than his head.
+   There were two six-foot filing cabinets in the right-hand corner behind the desk. Both were locked; the drawers of the first one were labeled alphabetically, the other was unmarked.
+   I unhooked Parst’s key-chain from his belt. He had as many keys as a janitor or a high-school principal, but not many of them were small enough to fit the filing cabinets. I got the second one unlocked and began going through the drawers. I found what I wanted in the top one—seven fat manila folders labeled “Aza-Kra—Armor,” “Aza-Kra— General information,” “Aza-Kra—Power sources,” Aza-Kra—Spaceflight” and so on; and one more labeled “Directives and related correspondence.”
+   I hauled them all out, piled them on Parst’s desk and pulled up a chair.
+   I took“Armor” first because it was on top and because the title puzzled me. The folder was full of transcripts of interviews whose subject I had to work out as I went along. It appeared that when captured, Aza-Kra had been wearing a light-weight bullet-proof body armor, made of something that was longitudinally flexible and perpendicularly rigid— in other words, you could pull it on like a suit of winter underwear, but you couldn’t dent it with a sledge hammer.
+   They had been trying to find out what the stuff was and how it was made for almost two months and as far as I could see they had not made a nickel’s worth of progress.
+   I looked through“Power sources” and “Spaceflight” to see if they were the same, and they were. The odd part was that Aza-Kra’s answers didn’t sound reluctant or evasive; but he kept running into ideas for which there weren’t any words in English and then they would have to start all over again, like Twenty Questions.... Is it animal? vegetable? mineral? It was a mess.
+   I put them all aside except“General information” and “Directives.” The first, as I had guessed, was a catch-all for nontechnical' subjects—where Aza-Kra had come from, what his people were like, his reasons for coming to this planet: all the unimportant questions; or the only questions that had any importance, depending on how you looked at it.
+   Parst had already given me an accurate summary of it, but it was surprisingly effective in Aza-Kra’s words.You say we want your planet. There are many planets, so many you would not believe. But if we wanted your planet, and if we could kill as you do, please understand, we are very many. We would fall on your planet like snowflakes. We would not send one man alone.
+   And later:Most young peoples kill. It is a law of nature, yes, but try to understand, it is not the only law. You have been a young people, but now you are growing older. Now you must learn the other law, not to kill. That is what I have come to teach. Until you learn this, we cannot have you among us.
+   There was nothing in the folder dated later than a month and a half ago. They had dropped that line of questioning early.
+   The first thing I saw in the other folder began like this:
+   You are hereby directed to hold yourself in readiness to destroy the subject under any of the following circumstances, without further specific notification:
+   1, a: If the subject attempts to escape.
+   1, b: If the subject kills or injures a human being.
+   1, c: If the landing, anywhere in the world, of other members of the subject’s race is reported and their similarity to the subject established beyond a reasonable doubt....
+   Seeing it written down like that, in the cold dead-alive-ness of black words on white paper, it was easy to forget that the alien was a stomach-turning monstrosity, and to see only that what he had to say was lucid and noble.
+   But I still hadn’t found anything that would persuade me to help him escape. The problem was still there, as insoluble as ever. There was no way of evaluating a word the alien said about himself. He had come alone—perhaps— instead of bringing an invading army with him; but how did we know that one member of his race wasn’t as dangerous to us as Perry’s battleship to the Japanese? He might be; there was some evidence that he was.
+   My quarrel with the Defense Department was not that they were mistreating an innocent three-legged missionary, but simply that the problem of Aza-Kra belonged to the world, not to a fragment of the executive branch of the Government of the United States—and certainly not to me.
+   ... There was one other way out, I realized. Instead of calling Frisbee in Washington, I could call an arm-long list of senators and representatives. I could call the UN secretariat in New York; I could call the editor of every major newspaper in this hemisphere and the head of every wire service and broadcasting chain. I could stir up a hornet’s nest, even, as the saying goes, if I swung for it.
+   Wrong again: I couldn’t. I opened the “Directives” folder again, looking for what I thought I had seen there in the list of hypothetical circumstances. There it was:
+   1, f: If any concerted attempt on the part of any person or group to remove the subject from Defense Department custody, or to aid him in any way, is made; or if the subject’s existence and presence in Defense Department custody becomes public knowledge.
+
+   That sewed it up tight, and it also answered my question about Aza-Kra. Knocking out the personnel of B building would be construed as an attempt to escape or as a concerted attempt by a person or group to remove the subject from Defense Department custody, it didn’t matter which. If I broke the story, it would have the same result. They would kill him.
+   In effect, he had put his life in my hands: and that was why he was so sure that I’d help him.
+   It might have been that, or what I found just before I left the office, that decided me. I don’t know; I wish I did.
+   Coming around the desk the other way, I glanced at the thin man on the floor and noticed that there was something under him, half-hidden by his body. It turned out to be two things: a grey fedora and a pint-sized gray-leather briefcase, chained to his wrist.
+   So I looked under Parst’s folded arms, saw the edge of a thick white sheet of paper, and pulled it out.
+   Under Frisbee’s letterhead, it said:
+
+   By courier.
+   Dear General Parst:
+   Some possibility appears to exist that A. K. is responsible for recent disturbances in your area; please give me your thought on this as soon as possible—the decision can’t be long postponed.
+   In the meantime you will of course consider your command under emergency status, and we count on you to use your initiative to safeguard security at all costs. In a crisis, you will consider Lieut. D. as expendable.
+   Sincerely yours,
+   CARLTON FRISBEE
+   cf/cf/enc.
+
+   “Enc.” meant “enclosure”; I pried up Parst’s arms again and found another sheet of stiff paper, folded three times, with a paperclip on it.
+   It was a First Lieutenant’s commission, made out to Robert James Dahl, dated three days before, and with a perfect forgery of my signature at the bottom of it.
+   If commissions can be forged so can court-martial records.
+
+   I put the commission and the letter in my pocket. I didn’t seem to feel any particular emotion, but I noticed that my hands were shaking as I sorted through the “General information” file, picked out a few sheets and stuffed them into my pocket with the other papers. I wasn’t confused or in doubt about what to do next. I looked around the room, spotted a metal locker diagonally across from the filing cabinets, and opened it with one of the General’s keys.
+   Inside were two .45 automatics, boxes of ammunition, several loaded clips, and three odd-looking sets of handcuffs, very wide and heavy, each with its key.
+   I took the handcuffs, the keys, both automatics and all the clips.
+   In a storeroom at the end of the corridor I found a two-wheeled dolly. I wheeled it all the way around to Section One and left it outside the center door. Then it struck me that I was still wearing the pinks they had given me when I arrived, and where the hell were my own clothes? I took a chance and went up to my room on the second floor, remembering that I hadn’t been back there since morning.
+   There they were, neatly laid out on the bed. My keys, lighter, change, wallet and so on were on the bedside table. I changed and went back down to Section One.
+   In the gun room were two sprawled shapes, one beside the machine-gun that poked its snout through the hemispherical blister, the other under a panel set with three switches and a microphone.
+   The switches were clearly marked. I opened the first two, walked out and around and laid the three sets of handcuffs on the floor in the middle room. Then I went back to the gun room, closed the first two doors and opened the third.
+   Soft thumping sounds came from the loudspeaker over the switch panel; then the rattling of metal, more thumps, and finally a series of rattling clicks.
+   I opened the first door and went back inside. Through the panel in the middle door I could see Aza-Kra; he had retreated into the inner room so that all of him was plainly visible. He was squatting on the floor, his legs drawn up. His arms were at full stretch, each wrist manacled to an ankle. He strained his arms outward to show me that the cuffs were tight.
+   I made one more trip to open the middle door. Then I got the dolly and wheeled it in.
+   “Thank you,” said Aza-Kra. I got a whiff of his “breath”; as Donnelly had intimated, it wasn’t pleasant.
+   Halfway to the airport, at Aza-Kra’s request, I held my breath again. Aside from that we didn’t speak except when I asked him, as I was loading him from the jeep into a limousine, “How long will they stay unconscious?”
+   “Not more than twenty hours, I think. I could have given them more, but I did not dare, I do not know your chemistry well enough.”
+   We could go a long way in twenty hours. We would certainly have to.
+
+   I hated to go home, it was too obvious and there was a good chance that the hunt would start before any twenty hours were up, but there wasn’t any help for it. I had a passport and a visa for England, where I had been planning to go for a publishers’ conference in January, but it hadn’t occurred to me to take it along on a quick trip to Washington. And now I had to have the passport.
+   My first idea had been to head for New York and hand Aza-Kra over to the UN there, but I saw it was no good. Extraterritoriality was just a word, like a lot of other words; we wouldn’t be safe until we were out of the country, and on second thought, maybe not then.
+   It was a little after eight-thirty when I pulled in to the curb down the street from my house. I hadn’t eaten since noon, but I wasn’t hungry; and it didn’t occur to me until later to think about Aza-Kra.
+   I got the passport and some money without waking my housekeeper. A few blocks away I parked again on a side street. I called the airport, got a reservation on the next eastbound flight, and spent half an hour buying a trunk big enough for Aza-Kra and wrestling him into it.
+   It struck me at the last minute that perhaps I had been counting too much on that atmosphere-plant of his. His air supply was taken care of, but what about his respiratory waste produced—would he poison himself in that tiny closed space? I asked him, and he said, “No, it is all right. I will be warm, but I can bear it.”
+   I put the lid down, then opened it again.“I forgot about food,” I said. “What do you eat, anyway?”
+   “At Chillicothe I ate soya bean extract. With added minerals. But I am able to go without food for long periods. Please, do not worry.”
+   All right. I put the lid down again and locked the trunk, but I didn’t stop worrying.
+   He was being too accommodating.
+   I had expected him to ask me to turn him loose, or take him to wherever his spaceship was. He hadn’t brought the subject up; he hadn’t even asked me where we were going, or what my plans were.
+   I thought I knew the answer to that, but it didn’t make me any happier. He didn’t ask because he already knew— just as he’d known the contents of Parst’s office, down to the last document; just as he’d known what I was thinking when I was in the anteroom with Donnelly.
+   He read minds. And he gassed people through solid metal walls.
+   What else did he do?
+   There wasn’t time to dispose of the limousine; I simply left it at the airport. If the alarm went out before we got to the coast, we were sunk anyhow; if not, it wouldn’t matter.
+   Nobody stopped us. I caught the stratojet in New York at 12:20, and five hours later we were in London.
+
+   Customs was messy, but there wasn’t any other way to handle it. When we were fifth in line, I thought:Knock them out for about an hour—and held my breath. Nothing happened. I rapped on the side of the trunk to attract his attention, and did it again. This time it worked: everybody in sight went down like a rag doll.
+   I stamped my own passport, filled out a declaration form and buried it in a stack of others, put a tag on the trunk, loaded it aboard a handtruck, wheeled it outside and took a cab.
+   I had learned something in the process, although it certainly wasn’t much: either Aza-Kra couldn’t, or didn’t, eavesdrop on my mind all the time—or else he was simply one step ahead of me.
+   Later, on the way to the harbor, I saw a newsstand and realized that it was going on three days since I had seen a paper. I had tried to get the New .York dailies at the airport, but they’d been sold out—nothing on the stands but a lone copy of the Staten IslandAdvance. That hadn’t struck me as odd at the time—an index of my state of mind—but it did now.
+   I got out and bought a copy of everything on the stand except the tipsheets—four newspapers, all of them together about equaling the bulk of oneHerald-Star. I felt frustrated enough to ask the newsvendor if he had any papers left over from yesterday or the day before. He gave me a glassy look, made me repeat it, then pulled his face into an indescribable expression, laid a finger beside his nose, and said,“ ‘Arf a mo.’ ” He scuttled into a bar a few yards down the street, was gone five minutes, and came back clutching a mare’s-nest of soiled and bedraggled papers.
+   “ ’Ere you are, guvnor. Three bob for the lot.”
+   I paid him.“Thanks,” I said, “very much.”
+   He waved his hand expansively.“Okay, bud,” he said. “T’ink nuttin’ of it!”
+   A comedian.
+
+   The only Channel boat leaving before late afternoon turned out to be an excursion steamer—round trip, two guineas. The boat wasn’t crowded; it was the tag-end of the season, and a rough, windy day. I found a seat without any trouble and finished sorting out my stack of papers by date and folio.
+   British newspapers don’t customarily report any more of our news than we do of theirs, but this week our supply of catastrophes had been ample enough to make good reading across the Atlantic. I found all three of the Chicago stories —trimmed to less than two inches apiece, but there. I read the first with professional interest, the second skeptically, and the third with alarm.
+   I remembered the run of odd items I’d read in that Washington hotel room, a long time ago. I remembered Frisbee’s letter to Parst:“Some possibility appears to exist that A.K. is responsible for recent disturbances in your area...
+   I found two of the penitentiary stories, half smothered by stop press, and I added them to the total. I drew an imaginary map of the United States in my head and stuck imaginary pins in it. Red ones, a little cluster: Des Moines, Kansas City, Decatur, St. Louis. Blue ones, a scattering around them: Chicago, Leavenworth, Terre Haute.
+   Down toward the end of the cabin someone’s portable radio was muttering.
+   A fat youth in a checkered jacket had it. He moved over reluctantly and made room for me to sit down. The crisp, controlled BBC voice was saying,“... in Commons today, declared that Britain’s trade balance is more favorable than at any time during the past fifteen years. In London, ceremonies marking the sixth anniversary of the death ...” I let the words slide past me until I heard:
+   “In the United States, the mysterious epidemic affecting stockyard workers in the central states has spread to New York and New Jersey on the eastern seaboard. The President has requested Congress to provide immediate emergency meat-rationing legislation.”
+   A blurred little woman on the bench opposite leaned forward and said,“Serve ’em right, too! Them with their beefsteak a day.”
+   There were murmurs of approval.
+   I got up and went back to my own seat.... It all fell into one pattern, everything: the man who kicked his wife, the prizefighters, the policeman, the wardens, the slaughterhouse“epidemic.”
+   It was thelex talionis—or the Golden Rule in reverse: Be done by as you- do to others.
+   When you injured another living thing, both of you felt the same pain. When you killed, you felt the shock of your victim’s death. You might be only stunned by it, like the slaughterhouse workers, or you might die, like the policeman and the schoolboy murderer.
+   So-called mental anguish counted too, apparently. That explained the wave of humanitarianism in prisons, at least partially; the rest was religious hysteria and the kind of herd instinct that makes any startling new movement mushroom.
+   And, of course, it also explained Chillicothe: the horrible blanketing depression that settled anywhere the civilian staff congregated—the feeling of being penned up in a place where something frightful was going to happen—and the thing the two psychiatrists had been arguing about, the pseudo-claustrophobia... all that was nothing but the reflection of Aza-Kra’s feelings, locked in that cell on an alien planet.
+   Be done by as you do.
+   And I was carrying that with me. Des Moines, Kansas City, Decatur, St. Louis, Chicago, Leavenworth, Terre Haute—New York. After that, England. We’d been in London less than an hour—but England is only four hundred-odd miles long, from Spittai to Lands End.
+   I remembered what Aza-Kra had said:Now you must learn the other law, not to kill.
+   Not to kill tripeds.
+   My body was shaking uncontrollably; my head felt like a balloon stuffed with cotton. I stood up and looked around at the blank faces, the inward-looking eyes, every man, woman and child living in a little world of his own. I had an hysterical impulse to shout at them,Look at you, you idiots! You’ve been invaded and half conquered without a shot fired, and you don’t know it!
+   In the next instant I realized that I was about to burst into laughter. I put my hand over my mouth and half-ran out on deck, giggles leaking through my fingers; I got to the rail and bent myself over it, roaring, apoplectic. I was utterly ashamed of myself, but I couldn’t stop it; it was like a fit of vomiting.
+   The cold spray on my face sobered me. I ieaned over the rail, looking down at the white water boiling along the hull. It occurred to me that there was one practical test still to be made: a matter of confirmation.
+   A middle-aged man with rheumy eyes was standing in the cabin doorway, partly blocking it. As I shouldered past him, I deliberately put my foot down on his.
+   An absolutely blinding pain shot through the toes of my right foot. When my eyes cleared I saw that the two of us were standing in identical attitudes—weight on one foot, the other knee bent, hand reaching instinctively for the injury.
+   I had taken him for a“typical Englishman,” but he cursed me in a rattling stream of gutter French. I apologized, awkwardly but sincerely—very sincerely.
+
+   When we docked at Dunkirk I still hadn’t decided what to do.
+   What I had had in mind up till now was simply to get across France into Switzerland and hold a press conference there, inviting everybody from Tass to the UP. It had to be Switzerland for fairly obvious reasons; the English or the French would clamp a security lid on me before you could say NATO, but the Swiss wouldn’t dare—they paid for their neutrality by having to lookboth ways before they cleared their throats.
+   I could still do that, and let the UN set up a committee to worry about Aza-Kra—but at a conservative estimate it would be ten months before the committee got its foot out of its mouth, and that would be pretty nearly ten months too late.
+   Or I could simply go to the American consulate in Dunkirk and turn myself in. Within ten hours we would be back in Chillicothe, probably, and I’d be free of the responsibility. I would also be dead.
+   We got through customs the same way we’d done in London.
+   And then I had to decide.
+
+   The cab driver put his engine in gear and looked at me over his shoulder."Un hotel?”
+   “... Yes,” I said. “A cheap hotel.Un hotel a bon marche.”
+   "Entendu.” He jammed down the accelerator an instant before he let out the clutch; we were doing thirty before he shifted into second.
+   The place he took me to was a villainous third-rate commercial-travelers’ hotel, smelling of urine and dirty linen. When the porters were gone I unlocked the trunk and opened it.
+   We stared at each other.
+   Moisture was beaded on his blue-gray skin, and there was a smell in the room stronger and ranker than anything that belonged there. His eyes looked duller than they had before; I could barely see the pupils.
+   “Well?” I said.
+   “You are half right,” he buzzed. “I am doing it, but not for the reason you think.”
+   “All right; you’re doing it.Stop it. That comes first. We’ll stay here, and I’ll watch the papers to make sure you do.”
+   “At the customs, those people will sleep only an hour.”
+   “I don’t give a damn. If the gendarmes come up here, you can put them to sleep. If I have to I’ll move you out to the country and we’ll live under a haystack. But no matter what happens we’re not going a mile farther into Europe until I know you’ve quit. If you don’t like that, you’ve got two choices. Either you knock me out, and see how much good it does you, or I’ll take that air-machine off your head.”
+   He buzzed inarticulately for a moment. Then,“I have to say no. It is impossible. I could stop for a time, or pretend to you that I stop, but that would solve nothing. It will be—it will do the greatest harm if I stop; you don’t understand. It is necessary to continue.”
+   I said,“That’s your answer?”
+   “Yes. If you will let me explain—”
+   I stepped toward him. I didn’t hold my breath, but I think half-consciously I expected him to gas me. He didn’t. He didn’t move; he just waited.
+   Seen at close range, the flesh of his head seemed to be continuous with the black substance of the cone; instead of any sharp dividing line, there was a thin area that was neither one nor the other.
+   I put one hand over the fleshy bulb, and felt his eyes retract and close against my palm. The sensation was indescribably unpleasant, but I kept my hand there, put the other one against the far side of the cone—pulled and pushed simultaneously, as hard as I could.
+   The top of my head came off.
+   I was leaning against the top of the open trunk, dizzy and nauseated. The pain was like a white-hot wire drawn tight around my skull just above the eyes. I couldn’t see; I couldn’t think.
+   And it didn’t stop; it went on and on.... I pushed myself away from the trunk and let my legs fold under me. I sat on the floor with my head in my hands, pushing my fingers against the pain.
+   Gradually it ebbed. I heard Aza-Kra’s voice buzzing very quietly, not in English but in a rhythm of tone and phrasing that seemed almost directly comprehensible; if there were a language designed to be spoken by bass viols, it might sound like that.
+   I got up and looked at him. Shining beads of blue liquid stood out all along the base of the cone, but the seam had not broken.
+   I hadn’t realized that it would be so difficult, that it would be so painful. I felt the weight of the two automatics in my pockets, and I pulled one out, the metal cold and heavy in my palm.... but I knew suddenly that I couldn’t do that either.
+   I didn’t know where his brain was, or his heart. I didn’t know whether I could kill him with one shot.
+   I sat down on the bed, staring at him.“You knew that would happen, didn’t you,” I said. “You must think I’m a prize sucker.”
+   He said nothing. His eyes were half-closed, and a thin whey-colored fluid was drooling out of the two mouths I could see. Aza-Kra was being sick.
+   I felt an answering surge of nausea. Then the flow stopped, and a second later, the nausea stopped too. I felt angry, and frustrated, and frightened.
+   After a moment I got up off the bed and started for the door.
+   “Please,” said Aza-Kra. “Will you be gone long?”
+   “I don’t know,” I said. “Does it matter?”
+   “If you will be gone long,” he said, “I would ask that you loosen the handcuffs for a short period before you go.”
+   I stared at him, suddenly hating him with a violence that shook me.
+   “No,” I said, and reached for the door-handle.
+   My body knotted itself together like a fist. My legs gave way under me, and I missed the door-handle going down; I hit the floor hard.
+   There was no sensation in my hands or feet. The muscles of my shoulders, arms, thighs, and calves were one huge, heavy pain. And I couldn’t move.
+   I looked at Aza-Kra’s wrists, shackled to his drawn-up ankles. He had been like that for something like fourteen hours. He had cramps.
+
+   “I am sorry,” said Aza-Kra. “I did not want to do that to you, but there was no other way.”
+   I thought dazedly,No other way to do what?
+   “To make you wait. To listen. To let me explain.”
+   I said,“I don’t get it.” Anger flared again, then faded under something more intense and painful. The closest English word for it is “humility”; some other language may come nearer, but I doubt it; it isn’t an emotion that we like to talk about. I felt bewildered, and ashamed, and very small, all at once, and there was another component, harder to name. A ... threshold feeling.
+   I tried again.“I felt the other pain, before, but not this. Is that because—”
+   “Yes. There must be the intention to injure or cause pain. I will tell you why. I have to go back very far. When an animal becomes more developed—many cells, instead of one—always the same things happen. I am the first man of my kind who ever saw a man of your kind. But we both have eyes. We both have ears.” The feathery spines on his neck stiffened and relaxed. “Also there is another sense that always comes. But always it goes only a little way and then stops.
+   “When you are a young animal, fighting with the others to live, it is useful to have a sense which feels the thoughts of the enemy. Just as it is useful to have a sense which sees the shape of his body. But this sense cannot come all at once, it must grow by a little and a little, as when a surface that can tell the light from the dark becomes a true eye.
+   “But the easiest thoughts to feel are pain thoughts, they are much stronger than any others. And when the sense is still weak—it is a part of the brain, not an organ by itself— when it is weak, only the strongest stimulus can make it work. This stimulus is hatred, or anger, or the wish to kill.
+   “So that just when the sense is enough developed that it could begin to be useful, it always disappears. It is not gone, it is pushed under. A very long time ago, one race discovered this sense and learned how it could be brought back. It is done by a class of organic chemicals. You have not the word. For each race a different member of the class, but always it can be done. The chemical is a catalyst, it is not used up. The change it makes is in the cells of all the body— it is permanent, it passes also to the children.
+   “You understand, when a race is older, to kill is not useful. With the change, true civilization begins. The first race to find this knowledge gave it to others, and those to others, and now all have it. All who are able to leave their planets. We give it to you, now, because you are ready. When you are older there will be others who are ready. You will give it to them.”
+   While I had been listening, the pain in my arms and legs had slowly been getting harder and harder to take. I reminded myself that Aza-Kra had home it, probably, at least ten hours longer than I had; but that didn’t make it much easier. I tried to keep my mind off it but that wasn’t possible; the band of pain around my head was still there, too, a faint throbbing. And both were consequences of things I had done to Aza-Kra. I was suffering with him, measure for measure.
+   Justice. Surely that was a good thing? Automatic instant retribution, mathematically accurate: an eye for an eye.
+   I said,“That was what you were doing when they caught you, then—finding out which chemical we reacted to?”
+   “Yes. I did not finish until after they had brought me to Chillicothe. Then it was much more difficult. If not for my accident, all would have gone much more quickly.”
+   “The walls?”
+   “Yes. As you have guessed, my air machine will also make other substances and expel them with great force. Also, when necessary, it will place these substances in a— state of matter, you have not the word—so that they pass through solid objects. But this takes much power. While in Chillicothemy range was very small. Later, when I can be in the open, it will be much greater.”
+   He caught what I was thinking before I had time to speak. He said,“Yes. You will agree. When you understand.”
+   It was the same thing he had told me at Chillicothe, almost to the word.
+   I said,“You keep talking about this thing as a gift but I notice you didn’t ask us if we wanted it. What kind of a gift is that?”
+   “You are not serious. You know what happened when I was captured.”
+   After a moment he added,“I think if it had been possible, if we could have asked each man and woman on the planet to say yes or no, explaining everything, showing that there was no trick, that most" would have said yes. For people the change is good. But for governments it is not good.”
+   I said,“I’d like to believe you. It would be very pleasant to believe you. But nothing you can say changes the fact that this thing, this gift of yours could be a weapon. To soften us up before you move in. If you were an advance agent for an invasion fleet, this is what you’d be doing.”
+   “You are thinking with habits,” he said. “Try to think with logic. Imagine that your race is very old, with much knowledge. You have ships that cross between the stars. Now you discover this young race, these Earthmen, who only begin to learn to leave their own planet. You decide to conquer them. Why? What is your reason?”
+   “How do I know? It could be anything. It might be something I couldn’t even imagine. For all I know you want to eat us.”
+   His throat-spines quivered. He said slowly,“You are partly serious. You really think... I am sorry that you did not read the studies of the physiologists. If you had, you would know. My digestion is only for vegetable food. You cannot understand, but—with us, to eat meat is like with you, to eat excretions.”
+   I said,“All right, maybe we have something else you want. Natural resources that you’ve used up. Some substance, maybe some rare element.”
+   “This is still habit thinking. Have you forgotten my air machine?”
+   “—Or maybe you just want the planet itself. With us cleared off it, to make room for you.”
+   “Have you never looked at the sky at night?”
+   I said,“Allright. But this quiz was your idea, not mine. Iadmit that I don’t know enough even to make a sensible guess at your motives. And that’s the reason why I can’t trust you.”
+   He was silent a moment. Then:“Remember that the substance which makes the change is a catalyst. Also it is a very fine powder. The particles are of only a few molecules each. The winds carry it. It is swallowed and breathed in and absorbed by the skin. It is breathed out and excreted. The wind takes it again. Water carries it. It is carried by insects and by birds and animals, and by men, in their bodies and in their clothing.
+   “This you can understand and know that it is true. If I die another could come and finish what I have begun, but even this is not necessary. The amount of the catalyst I have already released is more than enough. It will travel slowly, but nothing can stop it. If I die now, this instant, still ina year the catalyst will reach every part of the planet.”
+   After a long time I said,“Then what did you mean by saying that a great harm would be done, if you stopped now?”
+   “I meant this. Until now, only your Western nations have the catalyst. In a few days their time of crisis will come, beginning with the United States. And the nations of the East will attack.”
+
+   4
+
+   I found that I could move, inchmeal, if I sweated hard enough at it. It took me what seemed like half an hour to get my hand into my pocket, paw all the stuff out onto the floor, and get the key-ring hooked over one finger. Then I had to crawl about ten feet to Aza-Kra, and when I got there my fingers simply wouldn’t hold the keys firmly enough.
+   I picked them up in my teeth and got two of the wristcuffs unlocked. That was the best I could do; the other one was behind him, inside the trunk, and neither of us had strength enough to pull him out where I could get at it.
+   It was comical. My muscles weren’t cramped, but my nervous system was getting messages that said they were—so, to all intents and purposes, it was true. I had no control over it; the human body is about as skeptical as a God-smitten man at a revival meeting. If mine had thought it was burning, I would have developed simon-pure blisters.
+   Then the pins-and-needles started, as Aza-Kra began to flex his arms and legs to get the stiffness out of them. Between us, after a while, we got him out of the trunk and unlocked the third cuff. In a few minutes I had enough freedom of movement to begin massaging his cramped muscles; but it was three-quarters of an hour before either of us could stand.
+
+   We caught the mid-afternoon plane to Paris, with Aza-Kra in the trunk again. I checked into a hotel, left him there, and went shopping: I bought a hideous black dress with imitation-onyx trimming, a black coat with a cape, a feather muff, a tall black hat and the heaviest mourning veil I could find. At a theatrical costumer’s near the Place de l’Opera I got a reasonably lifelike old-woman mask and a heavy wig.
+   When he was dressed up, the effect was startling. The tall hat covered the cone, the muff covered two of his hands. There was nothing to be done about the feet, but the skirt hung almost to the ground, and I thought he would pass with luck.
+   We got a cab and headed for the American consulate, but halfway there I remembered about the photographs. We stopped off at an amusement arcade and I got my picture taken in a coin-operated machine. Aza-Kra was another problem—that mask wouldn’t fool anybody without the veil—but I spotted a poorly-dressed old woman and with some difficulty managed to make her understand that I was a crazy American who would pay her five hundred francs to pose for her picture. We struck a bargain at a thousand.
+   As soon as we got into the consulate waiting-room, Aza-Kra gassed everybody in the building. I locked the street door and searched the offices until I found a man with a little pile of blank passport books on the desk in front of him. He had been filling one in on a machine like a typewriter except that it had a movable plane-surface platen instead of a cylinder.
+   I moved him out of the way and made out two passports; one for myself, as Arthur James LeRoux; one for Aza-Kra, as Mrs. Adrienne LeRoux. I pasted on the photographs and fed them into the machine that pressed the words"Photograph attached U. S. Consulate Paris, France” into the paper, and then into the one that impressed the consular seal.
+   I signed them, and filled in the blanks on the inside covers, in the taxi on the way to the Israeli consulate. The afternoon was running out, and we had a lot to do.
+   We went to six foreign consulates, gassed the occupants, and got a visa stamp in each one. I had the devil’s own time filling them out; I had to copy the scribbles I found in legitimate passports at each place and hope for the best. The Israeli one was surprisingly simple, but the Japanese was a horror.
+   We had dinner in our hotel room—steak for me, water and soy-bean paste, bought at a health-food store, for Aza-Kra. Just before we left for Le Bourget, I sent a cable to Eli Freeman:
+
+   Big story will have to wait spread this now all stock-yard so-called epidemic and similar phenomena due one cause step on somebody’s toe to see what I mean.
+
+   Shortly after seven o’clock we were aboard a flight bound for the Middle East.
+
+   And that was the fourth day, during which a number of things happened that I didn’t have time to add to my list until later.
+   Commercial and amateur fishermen along the Atlantic seaboard, from Delaware Bay as far north as Portland, suffered violent attacks whose symptoms resembled those of asthma. Some—who had been using rods or poles rather than nets—complained also of sharp pains in the jaws and hard palate. Three deaths were reported.
+   The“epidemic” now covered roughly half the continental United States. All livestock shipments from the West had been canceled, stockyards in the affected area were full to bursting. The President had declared a national emergency.
+   Lobster had disappeared completely from east-coast menus.
+   One Robert James Dahl, described as the owner and publisher of a Middle Western newspaper, was being sought by the Defense Department and the FBI in connection with the disappearance of certain classified documents.
+   The next day, the fifth, was Saturday. At two in the morning on a Sabbath, Tel Aviv seemed as dead as Angkor. We had four hours there, between planes; we could have spent them in the airport waiting room, but I was wakeful and I wanted to talk to Aza-Kra. There was one ancient taxi at the airport; I had the driver take us into the town and leave us there, down in the harbor section, until plane time.
+   We sat on a bench behind the sea wall and watched the moonlight on the Mediterranean. Parallel banks of faintly-silvered clouds arched over us to northward; the air was fresh and cool.
+   After a while I said,“You know that I’m only playing this your way for one reason. As far as the rest of it goes, the more I think about it the less I like it.”
+   “Why?”
+   “A dozen reasons. The biological angle, for one. I don’t like violence, I don’t like war, but it doesn’t matter what I like. They’re biologically necessary, they eliminate the unfit.”
+   “Do you say that only the unfit are killed in wars?”
+   “That isn’t what I mean. In modem war the contest isn’t between individuals, it’s between whole populations. Nations, and groups of nations. It’s a cruel, senseless, wasteful business, and when you’re in the middle of it it’s hard to see any good at all in it, but it works—the survivorssurvive, and that’s the only test there is.”
+   “Our biologists do not take this view.” He added, “Neither do yours.”
+   I said,“How’s that?”
+   “Your biologists agree with ours that war is not biological. It is social. When so many are killed, no stock improves. All suffer. It is as you yourself say, the contest is between nations. But their wars kill men.”
+   I said,“All right, I concede that one. But we’re not the only kind of animal on this planet, and we didn’t get to be the dominant species without fighting. What are we supposed to do if we run into a hungry lion—argue with him?”
+   “In a few weeks there will be no more lions.”
+   I stared at him.“This affects Hons, too? Tigers, elephants, everything?”
+   “Everything of sufficient brain. Roughly, everything above the level of your insects.”
+   “But I understood you to say that the catalyst—that it took a different catalyst for each species.”
+   “No. All those with spines and warm blood have the same ancestors. Your snakes may perhaps need a different catalyst, and I believe you have some primitive sea creatures which kill, but they are not important.”
+   I said,“My God.” I thought of lions, wolves, coyotes, house-cats, lying dead beside their prey. Eagles, hawks and owls tumbling out of the sky. Ferrets, stoats, weasels ...
+   The world a big garden, for protected children.
+   My fists clenched.“But this is a million times worse than I had any idea. It’s insane. You’re upsetting the whole natural balance, you’re mocking it cross-ways. Just for a start, what the hell are we going to do about rats and mice? That’s—” I choked on my tongue. There were too many images in my mind to put any of them into words. Rats like a tidal wave, filling a street from wall to wall. Deer swarming out of the forests. The sky blackening with crows, sparrows, jays.
+   “It will be difficult for some years,” Aza-Kra said. “Perhaps even as difficult as you now think. But you say that to fight for survival is good. Is it not better to fight against other species than among yourselves?”
+   “Fight!” I said. “What have you left us to fight with? How many rats can a man kill before he drops dead from shock?”
+   “It is possible to kill without causing pain or shock....
+   You would have thought of this, although it is a new idea for you. Even your killing of animals for food can continue. We do not ask you to become as old as we are in a day. Only to put behind you your cruelty which has no purpose.”
+   He had answered me, as always; and as always, the answer was two-edged. It was possible to kill painlessly, yes. And the only weapon Aza-Kra had brought to Earth, apparently, was an anesthetic gas....
+
+   We landed at Srinager, in the Vale of Kashmir, at high noon: a sea of white light under a molten-metal sky.
+   Crossing the field, I saw a group of white-turbaned figures standing at the gate. I squinted at them through the glare; heat-waves made them jump and waver, but in a moment I was sure. They were bush-bearded Sikh policemen, and there were eight of them.
+   I pressed Aza-Kra’s arm sharply and held my breath.
+   A moment later we picked our way through the sprawled line of passengers to the huddle of bodies at the gate. The passport examiner, a slender Hindu, lay a yard from the Sikhs. I plucked a sheet of paper out of his hand.
+   Sure enough, it was a list of the serial numbers of the passports we had stolen from the Paris consulate.
+   Bad luck. It was only six-thirty in Paris now, and on a Saturday morning at that; we should have had at least six hours more. But something could have gone wrong at any one of the seven consulates—an after-hours appointment, or a worried wife, say. After that the whole thing would have unraveled.
+   “How much did you give them this time?” I asked.
+   “As before. Twenty hours.”
+   “All right, good. Let’s go.”
+   He had overshot his range a little: all four of the hackdrivers waiting outside the airport building were snoring over their wheels. I dumped the skinniest one in the back seat with Aza-Kra and took over.
+   Not for the first time, it occurred to me that without me or somebody just like me Aza-Kra would be helpless. It wasn’t just a matter of getting out of Chillicothe; he couldn’t drive a car or fly a plane, he couldn’t pass for human by himself; he couldn’t speak without giving himself away. Free, with no broken bones, he could probably escape recapture indefinitely; but if he wanted to go anywhere hewould have to walk.
+   And not for the first time, I tried to see into a history book that hadn’t been written yet. My name was there, that much was certain, providing there was going to be any history to write. But was it a name like Blondel... or did it sound more like Vidkun Quisling?
+   We had to go south; there was nothing in any other direction but the highest mountains in the world. We didn’t have Pakistan visas, so Lahore and Amritsar, the obvious first choices, were out. The best we could do was Chamba, about two hundred rail miles southeast on the Srinager-New Delhi line. It wasn’t on the principal air routes, but we could get a plane’ there to Saharanpur, which was.
+
+   There was an express leaving in half an hour, and we took it. I bought an English-language newspaper at the station and read it backward and forward for four hours; Aza-Kra spent the time apparently asleep, with his cone, hidden by the black hat, tilted out the window.
+   The“epidemic” had spread to five Western states, plus Quebec, Ontario and Manitoba, and parts of Mexico and Cuba ... plus England and France, I knew, but there was nothing about that in my Indian paper; too early.
+   In Chamba I bought the most powerful battery-operated portable radio I could find; I wished I had thought of it sooner. I checked with the airport: there was a flight leaving Saharanpur for Port Blair at eight o’clock.
+   Port Blair, in the Andamans, is Indian territory; we wouldn’t need to show our passports. What we were going to do after that was another question.
+   I could have raided another set of consulates, but I knew it would be asking for trouble. Once was bad enough; twice, and when we tried it a third time—as we would have to, unless I found some other answer—I was willing to bet we would find them laying for us, with gas masks and riot guns.
+   Somehow, in the few hours we were to spend at Port Blair, I had to get those serial numbers altered by an expert.
+
+   We had been walking the black, narrow? dockside streets for two hours when Aza-Kra suddenly stopped.
+   “Something?”
+   “Wait,” he said. “... Yes. This is the man you are looking for. He is a professional forger. His name is George Wheelwright. He can do it, but I do not know whether he will. He is a very timid and suspicious man.”
+   “All right. In here?”
+   “Yes.”
+   We went up a narrow unlighted stairway, choked with a kitchen-midden of smells, curry predominating. At the second-floor landing Aza-Kra pointed to a door. I knocked.
+   Scufflings behind the door. A low voice:“Who’s that?”
+   “A friend. Let us in, Wheelwright.”
+   The door cracked open and yellow light spilled out; I saw the outline of a head and the faint gleam of a bulbous eye.“What d’yer want?”
+   “Want you to do a job for me, Wheelwright. Don’t keep us talking here in the hall.”
+   The door opened wider and I squeezed through into a cramped, untidy box of a kitchen. A faded cloth covered the doorway to the next room.
+   Wheelwright glanced at Aza-Kra and then stared hard at me; he was a little chicken-breasted wisp of a man, dressed in dungarees and a striped polo shirt.“Who sent yer?”
+   “You wouldn’t know the name. A friend of mine in Calcutta.” I took out the passports. “Can you fix these?”
+   He looked at them carefully, taking his time.“What’s wrong with ’em?”
+   “Nothing but the serial numbers.”
+   “What’s wrong withthem?”
+   “They’re on a list.”
+   He laughed, a short, meaningless bark.
+   I said,“Well?”
+   “Who’d yer say yer friend in Calcutter was?”
+   “I haven’t any friend in Calcutta. Never mind how I knew about you. Will you do the job or won’t you?”
+   He handed the passports back and moved toward the door.“Mister, I haven’t got the time to fool with yer. Perhaps yer having me on, or perhaps yer’ve made an honest mistake. There’s another Wheelwright over on the north side of town. You try him.” He opened the door. “Good night, both.”
+   I pushed it shut again and reached for him, but he was a yard away in one jump, like a rabbit. He stood beside the table, arms hanging, and stared at me with a vague smile.
+   I said,“I haven’t got time to play games, either. I’ll pay you five hundred American dollars to alter these passports—” I tossed them onto the table—“or else I’ll beat the living tar out of you.” I took a step toward him.
+   I never saw a man move faster: he had the drawer open and the gun out and aimed before I finished that step. But the muzzle trembled slightly.“No nearer,” he said hoarsely.
+   I thought,Five minutes, and held my breath.
+   When he slumped, I picked up the revolver. Then I lifted him—he weighed about ninety pounds—propped him in a chair behind the table, and waited.
+   In a few minutes he raised his head and goggled at me dazedly.“How’d yer do that?” he whispered.
+   I put the money on the table beside the passports.“Start,” I said.
+   He stared at it, then at me. His thin lips tightened.“Go ter blazes,” he said.
+   I stepped around the table and cuffed him backhand. I felt the blow on my own face, hard and stinging, but I did it again. I kept it up. It wasn’t pleasant; I was feeling not only the blows themselves, but Wheelwright’s emotional responses, the shame and wretchedness and anger, and the queasy writhing fear: Wheelwright couldn’t bear pain.
+   At that, he beat me. When I stopped, sickened and dizzy, and said as roughly as I could,“Had enough, Wheelwright?” he answered, “Not if yer was ter kill me, yer bloody barstid.”
+   His voice trembled, and his face was streaked with tears, but he meant it. He thought I was a government agent, trying to bully him into signing his own prison sentence, and rather than let me do it he would take any amount of punishment; prison was the one thing he feared more than physical pain.
+   I looked at Aza-Kra. His neck-spines were erect and quivering; I could see the tips of them at the edges of the veil. Then inspiration hit me.
+   I pulled him forward where the little man could see him, and lifted the veil. The feathery spines stood out clearly on either side of the corpse-white mask.
+   “I won’t touch you again,” I said. “But look at this. Can you see?”
+   His eyes widened; he scrubbed them with the palms of his hands and looked again.
+   “And this,” I said. I pulled at Aza-Kra’s forearm and the clawed blue-gray hand came out of the muff.
+   Wheelwright’s eyes bulged. He flattened himself against the back of the chair.
+   “Now,” I said, “six hundred dollars—or I’ll take this mask off and show you what’s behind it.”
+   He clenched his eyes shut. His face had gone yellowish-pale; his nostrils were white.
+   “Get it out of here,” he said faintly.
+   He didn’t move until Aza-Kra had disappeared behind the curtain into the other room. Then, without a word, he poured and drank half a tumblerful of whisky, switched on a gooseneck lamp, produced bottles, (pens and brushes from the table drawer, and went to work. He bleached away the first and last digits of both serial numbers, then painted over the areas with a thin wash of color that matched the blue tint of the paper. With a jeweler’s loupe in his eye, he restored the obliterated tiny letters of the background design; finally, still using the loupe, he drew the new digits in black. From firstto last, it took him thirty minutes; and his hands didn’t begin to tremble until he was done.
+
+   5
+
+   The sixth day was two days—because we left Otaru at 3:30 p.m. Sunday and arrived at Honolulu at 11:30 p.m. Saturday. We had lost four and a half hours in traversing sixty-two degrees of longitude—but we’d also gained a day by crossing the International Date Line from west to east.
+   On the sixth day, then, which was two days, the following things happened and were duly reported:
+   Be Done By As Ye Do was the title of some thousands of sermons and, by count, more than seven hundred frontpage newspaper editorials from Newfoundland to Oaxaca. My cable to Freeman had come a little late; theHerald-Star’s announcement was lost in the ruck.
+   Following this, a wave of millennial enthusiasm swept the continent; Christians and Jews everywhere feasted, fasted, prayed and in other ways celebrated the imminent Second (or First) Coming of Christ. Evangelistic and fundamentalist sects garnered souls by the million.
+   Members of the Apostolic Overcoming Holy Church of God, the Pentecostal Fire Baptized Holiness Church and numerous other groups gave away most or all of their worldly possessions. Others were more practical. The Seventh Day Adventists, who are vegetarians, pooled capital and began an enormous expansion of their meatless-food factories, dairies and other enterprises.
+   Delegates to a World Synod of Christian Churches began arriving at a tent city near Smith Center, Kansas, late Saturday night. Trouble developed almost immediately between the Brethren Church of God (Reformed Dunkers) and the Two-Seed-in-the-Spirit Predestinarian Baptists—later spreading to a schism which led to the establishment of two rump synods, one at Lebanon and the other at Athol.
+   Five hundred Doukhobors stripped themselves mother-naked, burned their homes, and marched on Vancouver.
+   Roman Catholics in most places celebrated the Feast of the Transfiguration as usual, awaiting advice from Rome.
+   Riots broke out in Chicago, Detroit, New Orleans, Philadelphia and New York. In each case the original disturbances were brief, but were followed by protracted vandalism and looting which local police, state police, and even National Guard units were unable to check. By midnight Sunday property damage was estimated at more than twenty million dollars. The casualty list was fantastically high. So was the proportion of police-and-National-Guard casualties— exactly fifty per cent of the total....
+   In the British Isles, Western Europe and Scandinavia, the early symptoms of the Western hemisphere’s disaster were beginning to appear: the stricken slaughterers and fishermen, the unease in prisons, the freaks of violence.
+   An unprecedented number of political refugees turned up on the East-German side of the Burnt Corridor early Saturday morning.
+   Late the same day, a clash between Sikh and Moslem guards on the India-Pakistan border near Sialkot resulted in the annihilation of both parties.
+   And on Sunday it hit the fighting in Indo-China.
+   Allied and Communist units, engaging at sixty points along the tight-hundred-mile front, fell back with the heaviest casualties of the war.
+   Red bombers launched a successful daylight attack on Luangprabang: successful, that is, except that nineteen out of twenty planes crashed outside the city or fell into the Nam Ou.
+   Forty Allied bombers took off on sorties to Yen-bay, Hanoi and Nam-dinh. None returned.
+   Nobody knew it yet, but the war was over.
+
+   Still other things happened but were not recorded by the press:
+   A man in Arizona, a horse gelder by profession, gave up his business and moved out of the county, alleging ill health.
+   So did a dentist in Tacoma, and another in Galveston.
+   In Breslau an official of the People’s Police resigned his position with the same excuse; and one in Buda; and one in Pest.
+   A conservative Tajik tribesman of Indarab, discovering that his new wife had been unfaithful, attempted to deal with her in the traditional manner, but desisted when a critical observer would have said he had hardly begun; nor did this act of compassion bring him any relief.
+   And outside the town of Otaru, just two hundred and fifty miles across the Sea of Japan from the eastern shore of the Russian Socialist Federated Soviet Republic, Aza-Kra used his anesthetic gas again—on me.
+
+   I had been bone-tired when we left Port Blair shortly before midnight, but I hadn’t slept all the long dark droning way to Manila; or from there to Tokyo, with the sun rising half an hour after we cleared the Philippines and slowly turning the globe underneath us to a white disk of fire; or from Tokyo north again to Otaru, bleak and windy and smelling of brine.
+   In all that time, I hadn’t been able to forget Wheelwright except for half an hour toward the end, when I picked up an English-language broadcast from Tokyo and heard the news from the States.
+   The first time you burn yourself playing with matches, the chances are that if the blisters aren’t too bad, you get over it fast enough; you forget about it. But the second time, it’s likely to sink in.
+   Wheelwright was my second time; Wheelwright finished me.
+   It’s more than painful, it’s more than frightening, to cause another living creature pain and feel what he feels. It tears you apart. It makes you the victor and the victim, and neither half of that is bearable.
+   It makes you love what you destroy—as you love yourself—and it makes you hate yourself as your victim hates you.
+   That isn’t all. I had felt Wheelwright’s self-loathing as his body cringed and the tears spilled out of his eyes, the helpless gut-twisting shame that was as bad as the fear; and that burden was on me too.
+   Wheelwright was talented. That was his own achievement; he had found it in himself and developed it and trained himself to use it. Wheelwright had courage. That was his own. But who had made Wheelwright afraid? And who had taught him that the world was his enemy?
+   You, and I, and every other human being on the planet, and all our two-legged ancestors before us. Because we had settled for too little. Because not more than a handful of us, out of all the crawling billions, had ever had the will to break the chain of blows, from father to daughter to son, generation after generation.
+   So there was Wheelwright; that was what we had made out of man: the artistry and the courage compressed to a needle-thin, needle-hard core inside him, and that only because we hadn’t been able to destroy it altogether; the rest of him self-hatred, and suspicion, and resentment, and fear.
+   But after breakfast in Tokyo, it began to seem a little more likely that some kind of a case could be made for the continued existence of the human race. And after that it was natural to think about lions, and about the rioting that was going on in America.
+   For all his moral nicety, Aza-Kra had no trouble in justifying the painful extinction of carnivores. From his point of view, they were better off dead. It was regrettable, of course, but...
+   But,sub specie aeternitatis, was a man much different from a lion?
+   It was a commonplace that no other animal killed on so grand a scale as man. The problem had never come up before: could we live without killing?
+   I was standing with Aza-Kra at the top of a little hill that overlooked the coast road and the bay. The bus that had brought us there was dwindling, a white speck in a cloud of dust, down the highway toward Cape Kamui.
+   Aza-Kra sat on a stone, his third leg grotesquely bulging the skirt of his coat. His head bent forward, as if the old woman he was pretending to be had fallen asleep, chin on massive chest; the conical hat pointed out to sea.
+   I said,“This is the time of crisis you were talking about, for America.”
+   “Yes. It begins now.”
+   “When does it end? Let’s talk about this a little more. This justice. Crimes of violence—all right. They punish themselves, and before long they’ll prevent themselves automatically. What about crimes of property? A man steals my wallet and runs. Or he smashes a window and takes what he wants. Who’s going to stop him?”
+   He didn’t answer for a moment; when he did the words came slowly and the pronunciation was bad, as if he were too weary to attend to it. “The wallet can be chained to your clothing. The window can be made of glass that does not break.”
+   I said impatiently,“You know that’s not what I mean. I’m talking about the problem as it affects everybody. We solve it by policemen and courts and prisons. What do we do instead?”
+   “I am sorry that I did not understand you. Give me a moment.___”
+   I waited.
+   “In your Middle Ages, when a man was insane, what did you do?”
+   I thought of Bedlam, and of creatures with matted hair chained to rooftops.
+   He didn’t wait for me to speak. “Yes. And now, you are more wise?”
+   “A little.”
+   “Yes. And in the beginning of your Industrial Revolution, when a factory stopped and men had no work, what was done?”
+   “They starved.”
+   “And now?”
+   “There are relief organizations. We try to keep them alive until they can get work.”
+   “If a man steals what he does not need,” Aza-Kra said, “is he not sick? If a man steals what he must have to live, can you blame him?”
+   Socrates, in an onyx-trimmed dress, three-legged on a stone.
+   Finally I said,“It’s easy enough to make us look foolish, but we have made some progress in the last two thousand years. Now you want us to go the rest of the way overnight. It’s impossible; we haven’t got time enough.”
+   “You will have more time now.” His voice was very faint. “Killing wastes much time ... . Forgive me, now I must sleep.”
+   His head dropped even farther forward. I watched for a while to see if he would topple over, but of course he was too solidly based. A tripod. I sat down beside him, feeling my own fatigue drag at my body, envying him his rest; but I couldn’t sleep.
+   There was really no point in arguing with him, I told myself; he was too good for me. I was a savage splitting logic with a missionary. He knew more than I did; probably he was more intelligent. And the central question, the only one that mattered, couldn’t be answered the way I was going at it.
+   Aza-Kra himself was the key, not the doctrine of non-violence, not the psychology of crime.
+   If he was telling the truth about himself and the civilization he came from, I had nothing to worry about.
+   If he wasn’t then I should have left him in Chillicothe or killed him in Paris; and if I could kill him now, that was what I should do.
+   And I didn’t know. After all this time, I still didn’t know.
+   I saw the bus come back down the road and disappear towards Otaru. After a long time, I saw it heading out again. When it came back from the cape the second time, I woke Aza-Kra and we slogged down the steep path to the roadside. I waved as the bus came nearer; it slowed and rattled to a halt a few yards beyond us.
+   Passengers’ heads popped out of the windows to watch us as we walked toward the door. Most of them were Japanese, but I saw one Caucasian, leaning with both arms out of the window. I saw his features clearly, narrow pale nose and lips, blue eyes behind rimless glasses; sunlight glinting on sparse yellow hair. And then I saw the flat dusty road coming up to meet me.
+
+   I was lying face-up on a hard sandy slope; when I opened my eyes I saw the sky and a few blades of tough, dry grass. The first thought that came into my head was,Now I know. Now I’ve had it.
+   I sat up. And a buzzing voice said,“Hold your breath!” Turning, I saw a body sprawled on the slope just below me. It was the yellow-haired man. Beyond him squatted the gray form of Ajza-Kra.
+   “All right,” he said.
+   I let my breath out.“What—?”
+   He showed me a brown metal ovoid, cross-hatched with fragmentation grooves. A grenade.
+   “He was about to aim it. There was no time to warn you. I knew you would wish to see for yourself.”
+   I looked around dazedly. Thirty feet above, the slope ended in a clean-cut line against the sky; beyond it was a short, narrow white stripe that I recognized as the top of the bus, still parked at the side of the road.
+   “We have ten minutes more before the others awaken.”
+   I went through the man’s pockets. I found a handful of change, a wallet with nothing in it but a few yen notes, and a folded slip of glossy white paper. That was all.
+   I unfolded the paper, but I knew what it was even before I saw the small teleprinted photograph on its inner side. It was a copy of my passport picture—the one on the genuine document, not the bogus one I had made in Paris.
+
+   On the way back, my hands began shaking. It got so bad that I had to put them between my thighs and squeeze hard; and then the shaking spread to my legs and arms and jaw. My forehead was cold and there was a football-sized ache in my belly, expanding to a white pain every time we hit a bump. The whole bus seemed to be tilting ponderously over to the right, farther and farther but never falling down.
+   Later, when I had had a cup of coffee and two cigarettes in the terminal lunchroom, I got one of the most powerful irrational impulses I’ve ever known: I wanted to take the next bus back to that spot on the coast road, walk down the slope to where the yellow-haired man was, and kick his skull to flinders.
+   If we were lucky, the yellow-haired man might have been the only one in Otaru who knew we were here. The only way to find out was to go on to the airport and take a chance; either way, we had to get out of Japan. But it didn’t end there. Even if they didn’t know where we were now, they knew all the stops on our itinerary; they knew which visas we had. Maybe Aza-Kra would be able to gas the next one before he killed us, and then again maybe not.
+   I thought about Frisbee and Parst and the President— damning them all impartially—and my anger grew. By now, I realized suddenly, they must have understood that we were responsible for what was happening. They would have been energetically apportioning the blame for the last few days; probably Parst had already been court-martialed.
+   Once that was settled, there would be two things they could do next. They could publish the truth, admit their own responsibility, and warn the world. Or they could destroy all the evidence and keep silent. If the world went to hell in a bucket, at least they wouldn’t be blamed for it.... Providing I was dead. Not much choice.
+   After another minute I got up and Aza-Kra followed me out to a taxi. We stopped at the nearest telegraph office and I sent a cable to Frisbee in Washington:
+
+   HAVE SENT FULL ACCOUNT CHILLICOTHE TO TRUSTWORTHY PERSON WITH INSTRUCTIONS PUBLISH EVENT MY DEATH OR DISAPPEARANCE. CALL OFF YOUR DOGS.
+
+   It was childish, but apparently it worked. Not only did we have no trouble at Otaru airport—the yellow-haired man, as I’d hoped, must have been working alone—but nobody bothered us at Honolulu or Asuncion.
+   Just the same, the mood of depression and nervousness that settled on me that day didn’t lift; it grew steadily worse. Fourteen hours’ sleep in Asuncion didn’t mend it; Monday’s reports of panics and bank failures in North America intensified it, but that was incidental.
+   And when I slept, I had nightmares: dreams of stifling-dark jungles, full of things with teeth.
+   We spent twenty-four hours in Asuncion, while Aza-Kra pumped out enough catalyst to blanket South America’s seven million square miles—a territory almost as big as the sprawling monster of Soviet Eurasia.
+   After that we flew to Capetown—and that was it. We were finished.
+   We had spiraled around the globe, from the United States to England, to France, to Israel, to India, to Japan, to Paraguay, to the Union of South Africa, trailing an expanding invisible cloud behind us. Now the trade winds were carrying it eastward from the Atlantic, south from the Mediterranean, north from the Indian Ocean, west from the Atlantic.
+   Frigate birds and locusts, men in tramp steamers and men in jet planes would carry it farther. In a week it would have reached all the places we had missed: Australia, Micronesia, the islands of the South Pacific, the Poles.
+   That left the lunar bases and the orbital stations. Ours and Theirs. But they had to be supplied from Earth; the infection would come to them in rockets.
+   For better or worse, we had what we had always said we wanted. Ahimsa. The Age of Reason. The Kingdom of God.
+   And I still didn’t know whether I was Judas, or the little Dutch boy with his finger in the dike.
+   I didn’t find out until three weeks later.
+
+   We stayed on in Capetown, resting and waiting. Listening to the radio and reading newspapers kept me occupied a good part of the time. When restlessness drove me out of doors, I wandered aimlessly in the business section, or went down to the harbor and spent hours staring out past the castle and the breakwater.
+   But my chief occupation, the thing that obsessed me now, was the study of Aza-Kra.
+   He seemed very tired. His skin was turning dry and rough, more gray than blue; his eyes were blue-threaded and more opaque-looking than ever. He slept a great deal and moved little. The soy-bean paste I was able to get for him gave him insufficient nourishment; vitamins and minerals were lacking.
+   I asked him why he didn’t make what he needed in his air machine. He said that some few of the compounds could be inhaled, and he was making those; that he had had another transmuter, for food-manufacture, but that it had been taken from him; and that he would be all right; he would last until his friends came.
+   He didn’t know when that would be; or he wouldn’t tell me.
+   His speech was slower and his diction more slurred every day. It was obviously difficult for him to talk; but I goaded him, I nagged him, I would not let him alone. I spent days on one topic, left it, came back to it and asked the same questions over. I made copious notes of what he said and the way he said it.
+   I wanted to learn to read the signs of his emotions; or failing that, to catch him in a lie.
+   A dozen times I thought I had trapped him into a contradiction, and each time, wearily, patiently, he explained what I had misunderstood. As for his emotions, they had only one visible sign that I was able to discover: the stiffening and trembling of his neck-spines.
+   Gestures of emotion are arbitrary. There are human tribes whose members never smile. There are others who smile when they are angry. Cf. Dodgson’s Cheshire Cat.
+   He was doing it more and more often as the time went by; but what did it mean? Anger? Resentment? Annoyance?Amusement?
+   The riots in the United States ended on the 9th and 10th when interfaith committees toured each city in loudspeaker trucks. Others began elsewhere.
+   Business was at a standstill in most larger cities. Galveston, Nashville and Birmingham joined in celebrating Hallelujah Week: dancing in the streets, bonfires day and night, every church and every bar roaring wide open.
+   Russia’s delegate to the United Nations, who had been larding his speeches with mock-sympathetic references to the Western nations’ difficulties, arose on the 9th and delivered a furious three-hour tirade accusing the entire non-Communist world of cowardly cryptofascistic biological warfare against the Soviet Union and the People’s Republics of Europe and Asia.
+   The new staffs of the Federal penitentiaries in America, in office less than a week, followed their predecessors in mass resignations. The last official act of the wardens of Leavenworth, Terre Haute and Alcatraz was to report the“escape” of their entire prison populations.
+   Police officers in every major city were being frantically urged to remain on duty.
+   Queen Elizabeth, in a memorable speech, exhorted all citizens of the Empire to remain calm and meet whatever might come'with dignity, fortitude and honor.
+   The Scots stole the Stone of Scone again.
+   Rioting and looting began in Paris, Marseilles, Barcelona, Milan, Amsterdam, Munich, Berlin.
+   The Pope was silent.
+   Turkey declared war on Syria and Iraq; peace was concluded a record three hours later.
+   On the 10th, Warsaw Radio announced the formation of a new Polish Provisional Government whose first and second acts had been, respectively, to abrogate all existing treaties with the Soviet Union and border states, and to petition the UN for restoration of the 1938 boundaries.
+   On the 11th East -Germany, Austria, Czechoslovakia, Hungary, Rumania, Bulgaria, Latvia and Lithuania followed suit, with variations on the boundary question.
+   On the 12th, after a brief but by no means bloodless putsch, the Spanish Republic was re-established; the British government fell once and the French government twice; and the Vatican issued a sharp protest against the ill-treatment of priests and nuns by Spanish insurgents.
+   Not a shot had been fired in Indo-China since the morning of the 8th.
+   On the 13th the Karelo-Finnish S. S. R., the Estonian S. S. R., the Byelorussian S. S. R., the Ukrainian S. S. R., the Azerbaijan S. S. R., the Turkmen S. S. R. and the Uzbek S. S. R. declared their independence of the Soviet Union. A horde of men and women escaped or released from forced-labor camps, the so-called Slave Army, poured westward out of Siberia.
+
+   6
+
+   On the 14th, Zebulon, Georgia (pop. 312), Murfreesboro, Tennessee (pop. 11,190) and Orange, Texas (pop. 8,470) seceded from the Union.
+   That might have been funny, but on the 15th petitions for a secession referendum were circulating in Tennesee, Arkansas, Louisiana and South Carolina. Early returns averaged 61% in favor.
+   On the 16th Texas, Oklahoma, Mississippi, Alabama, Kentucky, Virginia, Georgia and—incongruously—Rhode Island and Minnesota added themselves to the list. Separatist fever was rising in Quebec, New Brunswick, Newfoundland and Labrador. Across the Atlantic, Catalonia, Bavaria, Moldavia, Sicily and Cyprus declared themselves independent states.
+   And that might have been hysteria. But that wasn’t all.
+   Liquor stores and bars were sprouting like mushrooms in dry states. Ditto gambling halls, horse rooms, houses of prostitution, cockpits, burlesque theaters.
+   Moonshine whisky threatened for a few days to become the South’s major industry, until standard-brand distillers cut their prices to meet the competition. Not a bottle of the new stocks of liquor carried a Federal tax stamp.
+   Mexican citizens were walking across the border into Arizona and New Mexico, swimming into Texas. The first shipload of Chinese arrived in San Francisco on the 16th.
+   Meat prices had increased by an average of 60% for every day since the new control and rationing law took effect. By the 16th, round steak was selling for $10.80 a pound.
+   Resignations of public officials were no longer news; a headline in the PortlandOregonian for August 15th read:
+
+   WILL STAY AT DESK, SAYS GOVERNOR.
+
+   It hit me hard.
+   But when I thought about it, it was obvious enough; it was such an elementary thing that ordinarily you never noticed it—that all governments, not just tyrannies, butallgovernments were based on violence, as currency was based on metal. You might go for months or years without seeing a silver dollar or a policeman; but the dollar and the policeman had to be there.
+   The whole elaborate structure, the work of a thousand years, was coming down. The value of a dollar is established by a promise to pay; the effectiveness of a law, by a threat to punish.
+   Even if there were enough jailers left, how could you put a man in jail if he had ten or twenty friends who didn’t want him to go?
+   How many people were going to pay their income taxes next year, even if there was a government left to pay them to?
+   And who was going to stop the landless people from spilling over into the nations that had land to spare?
+   Aza-Kra said,“These things are not necessary to do.”
+   I turned around and looked at him. He had been lying motionless for more than an hour in the hammock I had rigged for him at the end of the room; I had thought he was asleep.
+   It was raining outside. Dim, colorless light came through the slotted window blinds and striped his body like a melted barber pole. Caught in one of the bars of light, the tips of two quivering neck-spines glowed in faint filigree against the shadow.
+   “All right,” I said. “Explain this one away. I’d like to hear you. Tell me why we don’t need governments any more.”
+   “The governments you have now—the governments of nations—they are not made for use. They exist to fight other nations.”
+   “That’s not true.”
+   “It is true. Think. Of the money your government spends, in a year, how much is for war and how much for use?”
+   “About sixty per cent for war. But that doesn’t—”
+   “Please. This is sixty per cent now, when you have only a small war. When you have a large war, how much then?”
+   “Ninety per cent. Maybe more, but that hasn’t got anything to do with it. In peaceor wartime there are things a national government does that can’t be done by anybody else. Now ask me for instance, what.”
+   “Yes. I ask this.”
+   “For instance, keeping an industrial country from being dragged down to coolie level by unrestricted immigration.”
+   “You think it is better for those who have much to keep apart from those who have little and give no help?”
+   “In principle, no, but it isn’t just that easy. What good does it do the starving Asiatics if we turn America into another piece of Asia and starve along with them?”
+   He looked at me unwinkingly.
+   “What good has it done to keep apart?”
+   I opened my mouth, and shut it again. Last time it had been Japan, an island chain a little smaller than California. In the next one, half the world would have been against us.
+   “The problem is not easy, it is very difficult. But to solve it by helping is possible. To solve it by doing nothing is not possible.”
+   “Harbors,” I said. “Shipping. Soil conservation. Communications. Flood control.”
+   “You do not believe these things can be done if there are no nations?”
+   “No. We haven’t got time enough to pick up all the pieces. It’s a hell of a lot easier to knock things apart than to put them together again.”
+   “Your people have done things more difficult than this. You do not believe now, but you will see it done.”
+   After a moment I said,“We’re supposed to become a member of your galactic union now. Now that you’ve pulled our teeth. Who’s going to build the ships?
+   “Those who build them now.”
+   I said,“Governments build them now.”
+   “No. Men build ships. Men invent ships and design ships. Government builds nothing but more government.”
+   I put my fists in my pockets and walked over to the window. Outside, a man went hurrying by in the rain, one hand at his hat-brim, the other at his chest. He didn’t look around as he passed; his coffee-brown face was intent and impersonal. I watched him until he turned the corner, out of sight.
+   He had never heard of me, but his life would be changed by what I had done. His descendants would know my name; they would be bored by it in school, or their mothers would frighten them with it after dark ... .
+   Aza-Kra said,“To talk of these things is useless. If I would lie, I would not tell you that I lie. And if I would lie about these things, I would lie well; you would not find the truth by questions. You must wait. Soon you will know.”
+   I looked at him.“When your friends come.”
+   “Yes,” he said.
+   And the feathery tips of his neck-spines delicately trembled.
+
+   They came on the last day of August—fifty great rotiform ships drifting down out of space. No radar spotted them; no planes or interceptor rockets went up to meet them. They followed the terminator around, landing at dawn: thirty in the Americas, twenty in Europe and Asia, five in Africa, one each in England, Scandinavia, Australia, New Zealand, New Guinea, the Philippines, Japan.
+   Each one was six hundred feet across, but they rested lightly on the ground. Where they landed on a sloping land, slender curved supporting members came out of the doughnut-shaped rim, as dainty as insect’s legs, and the fat lozenge of the hub lowered itself on the five fat spokes until it touched the earth.
+   Their doors opened.
+   In twenty-four days I had watched the nations of the Earth melt into shapelessness like sculptures molded of silicone putty. Armies, navies, air forces, police forces lost their cohesion first. In the beginning there were individual desertions, atoms escaping one at a time from the mass; later, when the pay failed to arrive, when there were no orders or else orders that could not be executed, men and women simply went home, orderly, without haste, in thousands.
+   Every useful item of equipment that could be carried or driven or flown went with them. Tractors, trucks, jeeps, bulldozers gladdened the hearts of farmers from Keokuk to Kweiyang. Bombers, small boats, even destroyers and battleships were in service as commercial transports. Quartermasters’ stores were carried away piecemeal or in ton lots. Guns and ammunition rusted undisturbed.
+   Stock markets crashed. Banks failed. Treasuries failed. National governments broke down into states, provinces, cantons. In the United States, the President resigned his office on the 18th and left the White House, whose every window had been broken and whose lawn was newly landscaped with eggshells and orange rind. The Vice-President resigned the next day, leaving the Presidency, in theory, to the Speaker of the House; but the Speaker was at home on his Arkansas farm; Congress had adjourned on the 17th.
+   Everywhere it was the same. The new Governments of Asia and Eastern Europe, of Spain and Portugal and Argentina and Iran, died stillborn.
+   The Moon colonies had been evacuated; work had stopped on the Mars rocket. The men on duty in the orbital stations, after an anxious week, had reached an agreement for mutual disarmament and had come down to Earth.
+   Seven industries out of ten had closed down. The dollar was worth half a penny, the pound sterling a little more; the ruble, the Reichsmark, the franc, the sen, the yen, the rupee were waste paper.
+   The great cities were nine-tenths deserted, gutted by fires, the homes of looters, rats and roaches.
+   Even the local governments, the states, the cantons, the counties, the very townships, were too fragile to stand. All the arbitrary lines on the map had lost their meaning.
+   You could not say any more,“Japan will—” or “India is moving toward—” It was startling to realize that; to have to think of a sprawling, amorphous, unfathomable mass of infinitely varied human beings instead'of a single inclusive symbol. It made you wonder if the symbol had ever had any connection with reality atall: whether there had ever been such a thing as a nation.
+   Toward the end of the month, I thought I saw a flicker of hope. The problem of famine was being attacked vigorously and efficiently by the Red Cross, the Salvation Army, and thousands of local volunteer groups: they commandeered fleets of trucks, emptied warehouses with a calm disregard of legality, and distributed the food where it was most needed. It was not enough—too much food had been destroyed and wasted by looters, too much had spoiled through neglect, and too much had been destroyed in the field by wandering, half-starved bands of homeless—but it was a beginning; it was something.
+   Other groups were fighting the problem of these wolfpacks, with equally encouraging results. Farmers were forming themselves into mutual-defense groups,“communities of force.” Two men could take any property from one man of equal strength without violence, without the penalty of pain; but not from two men, or three men.
+   One district warned the next when a wolf-pack was on the way, and how many to expect. When the pack converged on a field or a storehouse, men in equal or greater numbers were there to stand in the way. If the district could absorb say, ten workers, that many of the pack were offered the option of staying; the rest had to move on. Gradually, the packs thinned.
+   In the same way, factories were able to protect themselves from theft. By an extension of the idea, even the money problem began to seem soluble. The old currency was all but worthless, and an individual’s promise to pay in kind was no better as a medium of exchange; but promissory notes obligating whole communities could and did begin to circulate. They made an unwieldly currency, their range was limited, and they depreciated rapidly. But it was something; it was a beginning.
+   Then the wheel-ships came.
+   In every case but one, they were cautious. They landed in conspicious positions, near a city or a village, and in the dawn light, before any man had come near them, oddly-shaped things came out and hurriedly unloaded boxes and bales, hundreds, thousands, a staggering array. They set up sun-reflecting beacons; then the ships rose again and disappeared, and when the first men came hesitantly out to investigate, they found nothing but the beacon, the acre of carefully-stacked boxes, and the signs, in the language of the country, that said:
+
+   THIS FOOD IS SENT BY THE PEOPLES OF OTHER WORLDS TO HELP YOU IN YOUR NEED. ALL MEN ARE BROTHERS.
+
+   And a brave man would lift the top of a box; inside he would see other boxes, and in them oblong pale shapes wrapped in something transparent that was not cellophane. He would unwrap one, feel it, smell it, show it around, and finally taste it; and then his eyebrows would go up.
+   The color and the texture were unfamiliar, but the taste was unmistakable! Tortillas and beans! (Or taro; or rice with bean-sprouts; or stuffed grape leaves; or herb omelette!)
+   The exception was the ship that landed outside Capetown, in an open field at the foot of Table Mountain.
+   Aza-Kra woke me at dawn.“They are here.”
+   I mumbled at him and tried to turn over. He shook my shoulder again, buzzing excitedly to himself.“Please, they are here. We must hurry.”
+   I lurched out of bed and stood swaying.“Your friends?” I said.
+   “Yes, yes.” He was struggling into the black dress, pushing the peaked hat backward onto his head."Hurry.”
+   I splashed cold water on my face, and got into my clothes. I pulled out the top dresser drawer and looked at the two loaded automatics. I couldn’t decide. I couldn’t figure out any way they would do me any good, but I didn’t want to leave them behind. I stood there until my legs went numb before I could make up my mind to take them anyhow, and the hell with it.
+   There were no taxis, of course. We walked three blocks along the deserted streets until we saw a battered sedan nose into view in the intersection ahead, moving cautiously around the heaps of litter.
+   “Hold your breath!”
+   The car moved on out of sight. We found it around the comer, up on the sidewalk with the front fender jammed against a railing. There were two men and a woman in it, Europeans.
+   “Which way?”
+   “Left. To the mountain.”
+   When we got to the outskirts and the buildings began to thin out, I saw it up ahead, a huge silvery-metal shelf jutting out impossibly from the slope. I began to tremble.They’ll cut me up and put me in a jar, I thought.Now is the time to stop, if I’m going to.
+   But I kept going. Where the road veered away from the field and went curving on up the mountain the other way, I stopped and we got out. I saw dark shapes and movements under that huge gleaming bulk. We stepped over a broken fence and started across the dry, uneven clods in the half-light.
+   Light sprang out: a soft, pearl-gray shimmer that didn’t dazzle the eye although it was aimed straight toward us, marking the way. I heard a shrill wordless buzzing, and above that an explosion of chirping, and under them both a confusion of other sounds, humming, droning, clattering. I saw a half-dozen nightmare shapes bounding forward.
+   Two of them were like Aza-Kra; two more were squat things with huge humped shells on top, like tortoise-shells the size of a card table, with six long stump-ended legs underneath, and a tangle of eyes, tentacles, and small wriggly things peeping out in front; one, the tallest, had a long sharp-spined column of a body rising from a thick base and four startlingly human legs, and surmounted by four long whiplike tentacles and a smooth oval head; the sixth looked at first glance like an unholy cross between a grasshopper and a newt. He came in twenty-foot bounds.
+   They crowded around Aza-Kra, humming, chirping, droning, buzzing, clattering. Their hands and tentacles went over him, caressingly; the newt-grasshopper thing hoisted him onto its back.
+   They paid no attention to me, and I stayed where I was, with my hands tight and sweating on the grips of my guns. Then I heard Aza-Kra speak, and the tallest one turned back to me.
+   It reeked: something like brine, something like wet fur, something rank and indescribable. It had two narrow red eyes in that smooth knob of a head. It put one of its tentacles on my shoulder, and I didn’t see a mouth open anywhere, but a droning voice said, “Thank you for caring for him. Come now. We go to ship.”
+   I pulled away instinctively, quivering, and my hands came out of my pockets. I heard a flat, echoingcrack and a yell, and I saw a red wetness spring out across the smooth skull; I saw the thing topple and lie in the dirt, twitching,
+   I thought for an instant that I had done it, the shot, the yell and all. Then I heard another yell, behind me: I whirled around and heard a car grind into gear and saw it bouncing away down the road into town, lights off, a black moving shape on the dimness. I saw it veer wildly ahd slew into the fences at the first turn; I heard its tires popping as it went through and the muffled crash as it turned over.
+   Dead, I thought. But the next time I saw two figures come erect beyond the overturned car and stagger toward the road. They disappeared around the turn, running.
+   I looked back at the others, bewildered. They weren’t even looking that way; they were gathered around the body, lifting it, carrying it toward the ship.
+   The feeling—the black depression that had been getting stronger every day for three weeks—tightened down on me as if somebody had turned a screw. I gritted my teeth against it, and stood there wishing I were dead.
+   They were almost to that open hatch in the oval hub that hung under the rim when Aza-Kra detached himself from the group and walked slowly back to me. After a moment one of the others—a hump-shelled one—trundled along after him and waited a yard or two away.
+   “It is not your fault,” said Aza-Kra. “We could have prevented it, but we were careless. We were so glad to meet that we did not take precautions. It is not your fault. Come to the ship.”
+   The hump-shelled thing came up and squeaked something, and Aza-Kra sat on its back. The tentacles waved at me. It wheeled and started toward the hatchway.“Come,” said Aza-Kra.
+   I followed them, too miserable to care what happened. We went down a corridor full of the sourceless pearl-gray light until a doorway suddenly appeared, somehow, and we went through that into a room where two tripeds were waiting.
+   Aza-Kra climbed onto a stool, and one of the tripeds began pressing two small instruments against various parts of his body; the other squirted something from a flexible canister into his mouth.
+   And as I stood there watching, between one breath and the next, the depression went away.
+   I felt like a man whose toothache has just stopped; I probed at my mind, gingerly, expecting to find that the feeling was still there, only hiding. But it wasn’t. It was gone so completely that I couldn’t even remember exactly what it had been like. I felt calm and relaxed—and safe.
+
+   I looked at Aza-Kra. He was breathing easily; his eyes looked clearer than they had a moment before, and it seemed to me that his skin was glossier. The feathery neck-spines hung in relaxed, graceful curves.
+   ... It was all true, then. It had to be. If they had been conquerors, the automatic death of the man who had killed one of their number, just now, wouldn’t have been enough. An occupying army can never be satisfied with an eye for an eye. There must be revenge.
+   But they hadn’t done anything; they hadn’t even used the gas. They’d seen that the others in the car were running away, that the danger was over, and that ended it. The only emotions they had shown, as far as I could tell, were concern and regret—
+   Except that, I remembered now, I had seen two of the tripeds clearly when I turned back to look at them gathering around the body: Aza-Kra and another one. And their neckspines had been stiff....
+   Suddenly I knew the answer.
+   Aza-Kra came from a world where violence and cruelty didn’t exist. To him, the Earth was a jungle—and I was one of its carnivores.
+   I knew, now, why I had felt the way I had for the last three weeks, and why the feeling had stopped a few minutes ago. My hostility toward him had been partly responsible for his fear, and so I had picked up an echo of it. Undirected fear is, by definition, anxiety, depression, uneasiness—the psychologists’ Angst. It had stopped because Aza-Kra no longer had to depend on me; he was with his own people again; he was safe.
+   I knew the reason for my nightmares.
+   I knew why, time and again when I had expected Aza-Kra to be reading my mind, I had found that he wasn’t. He did it only when he had to; it was too painful.
+   And one thing more:
+   I knew that when the true history of this time came to be written, I needn’t worry about my place in it. My name would be there, all right, but nobody would remember it once he had shut the book.
+   Nobody would use my name as an insulting epithet, and nobody would carve it on the bases of any statutes, either.
+   I wasn’t the hero of the story.
+   It was Aza-Kra who had come down alone to a planet so deadly that no-one else would risk his life on it until he had softened it up. It was Aza-Kra who had lived for nearly a month with a suspicious, irrational, combative, uncivilized flesh-eater. It was Aza-Kra who had used me, every step of of the way—used my provincial loyalties and my self-interest and my prejudices.
+   He had done all that, weary, tortured, half-starved... and he’d been scared to death the whole time.
+
+   We made two stops up the coast and then moved into Algeria and the Sudan: landing, unloading, taking off again, following the dawn line. The other ships, Aza-Kra explained, would keep on circling the planet until enough food had been distributed to prevent any starvation until the next harvests. This one was going only as far as the middle of the North American continent—to drop me off. Then it was going to take Aza-Kra home.
+   I watched what happened after we left each place in a vision device they had. In some places there was more hesitation than in others, but in the end they always took the food: in jeep-loads, by pack train, in baskets balanced on their heads.
+   Some of the repeaters worried me. I said,“How do you know it’ll get distributed to everybody who needs it?”
+   I might have known the answer:“They will distribute it. No man can let his neighbor starve while he has plenty.”
+   The famine relief was all they had come for, this time. Later, when we had got through the crisis, they would come back; and by that time, remembering the food, people would be more inclined to take them on their merits instead of shuddering because they had too many eyes or fingers. They would help us when we needed it, they would show us the way up the ladder, but we would have to do the work ourselves.
+   He asked me not to publish the story of Chillicothe and the month we had spent together.“Later, when it will hurt no one, you can explain. Now there is no need to make anyone ashamed; not even the officials of your government. It was not their fault; they did not make the planet as it was.”
+   So there went even that two-bit chance at immortality.
+   It was still dawn when we landed on the bluff across the river from my home; sky and land and water were all the same depthless cool gray, except for the hairline of scarlet in the east. Dew was heavy on the grass, and the air had a smell that made me think of wood smoke and dry leaves.
+   He came out of the ship with me to say good-by.
+   “Will you be back?” I asked him.
+   He buzzed wordlessly in a way I had begun to recognize; I think it was his version of a laugh.“I think not for a very long time. I have already neglected my work too much.”
+   “This isn’t your work—opening up new planets?”
+   “No. It is not so common a thing, that a race becomes ready for space travel. It has not happened anywhere in the galaxy for twenty thousand of your years. I believe, and I hope, that it will not happen again for twenty thousand more. No, I am ordinarily a maker of—you have not the word, it is like porcelain, but a different material. Perhaps some day you will see a piece that I have made. It is stamped with my name.”
+   He held out his hand and I took it. It was an awkward grip; his hand felt unpleasantly dry and smooth to me, and I suppose mine was clammy to him. We both let go as soon as we decently could.
+   Without turning, he walked away from me up the ramp. I said,“Aza-Kra!”
+   “Yes?”
+   “Just one more question. The galaxy’s a big place. What happens if you miss just one bloodthirsty race that’s ready to boil out across the stars—or if nobody has the guts to go and do to them what you did to us?”
+   “Now you begin to understand,” he said. “That is the question the people of Mars asked us about you ... twenty thousand years ago.”
+
+   The story ends there, properly, but there’s one more thing I want to say.
+   When Aza-Kra’s ship lifted and disappeared, and I walked down to the bottom of the bluff and across the bridge into the city, I knew I was going back to a life that would be a lot different from the one I had known.
+   For one thing, theHerald-Star was all but done for when I came home: wrecked presses, half the staff gone, supplies running out. I worked hard for a little over a year trying to revive it, out of sentiment, but I knew there were more important things to be done than publishing a newspaper.
+   Like everybody else, I got used to the changes in the world and in the people around me: to the peaceful, unworried feel of places that had been electric with tension; to the kids—the wonderful, incredible kids; to the new kind of excitement, the excitement that isn’t like the night before execution, but like the night before Christmas.
+   But I hadn’t realized how much I had changed, myself, until something that happened a week ago.
+   I’d lost touch with Eli Freeman after the paper folded; I knew he had gone into pest control, but I didn’t know where he was or what he was doing until he turned up one day on the wheat-and-dairy farm I help run, south of the Platte in what used to be Nebraska. He’s the advance man for a fleetof spray planes working out of Omaha, aborting rabbits.
+   He stayed on for three days, lining up a few of the stiffnecked farmers in this area that don’t believe in hormones or airplanes either; in his free time he helped with the harvest, and I saw a lot of him.
+   On his last night we talked late, working up from the old times to the new times and back again until there was nothing more to say. Finally, when we had both been quiet for a long time, he said something to me that is the only accolade I am likely to get, and oddly enough, the only one I want.
+   “You know, Bob, if it wasn’t for that unique face of yours, it would be hard to believe you’re the same guy I used to work for.”
+   I said,“Hell, was I that bad?”
+   “Don’t get shirty. You were okay. You didn’t bleed the help or kick old ladies, but there just wasn’t as muchto you as there is now. I don’t know,” he said. “You’re—more human.”
+   More human.
+
+   Yes. We all are.
+
+
+Взято из Флибусты, http://flibusta.net/b/655822

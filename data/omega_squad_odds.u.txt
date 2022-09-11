@@ -1,0 +1,271 @@
+ ODDS
+Note: This story takes place 65 to 67 days after the events of the novel Star Wars Republic Commando: Triple Zero.
+Everyone knows that Intel's about as reliable as a Weequay quay ball. But that doesn't mean it doesn't have its uses. Sometimes it's the lies and myths that tell you everything you need to know.
+place and time: separatist droid factory. olanet. siskeen system – 460 standard days after the battle of geonosis.
+Atin liked a big, satisfying explosion as much as the next man. But there were better ways of putting droids out of action than turning them into shrapnel. He just didn't agree with the technical details this time.
+“Ordo told me you were argumentative,” said Prudii.
+Atin bristled. But coming from Ordo, it might have been a compliment. “I just want to get it right.”
+Atin edged along the gantry above the foundry floor, feeling along the rust-crusted metal railing for a sound section that would take the weight of a rappelling line with a fully-kitted Republic commando on the end. The only illumination was the red-hot glow from the durasteel sheets feeding into the rollers; droids didn't need light to see. The night-vision filter in his visor had kicked in the moment he and Prudii entered the factory.
+It was a high-value target. The factory was said to be one of the largest outside Geonosis. Again, intel seemed to have lost something in the translation.
+Atin found what felt like a solid section of railing and checked the metal's integrity with his gauntlet sensor. Flakes of corroded metal fell to the gantry floor, and he brushed them carefully into a gap to hide signs of entry.
+“Five per cent extra carvanium does the job.” Prudii – Null ARC trooper N-5 – pulled out his belt toolkit. “Trust me. I've done a lot of these.”
+“I know.”
+“And? Did it work? It worked.”
+“Okay, I'm not a metallurgist.”
+Prudii peered over the rail as he checked his rappelling line. “Neither am i, but I knew a man who was.”
+Atin didn't ask about his use of the past tense. He was both an assassin and a saboteur, and at the top of his game in both fields. Until Atin got to know him as well he knew his Null brothers, Ordo and Mereel, he would err on the side of caution. Nulls were as mad as a box of Hapan chags. There were only six of them in the army, but it felt like a lot more.
+Omega Squad was back at barracks again for a few days. Atin missed the rest of his team, but he'd volunteered for this mission to learn a technique. And learn he would.
+I can do this. Argumentative? I just like things to be right.
+Prudii dropped down the line, his kama spreading in the air as he descended in complete silence – no mean feat for an 85-kilo man in full armour. Atin took a breath and paused before dropping down after him. If a droid detected them, the mission was over. They'd have to blow the factory – again. And then the Seps would switch production elsewhere – again. If they just churned out millions of substandard tinnies, crippled at the molecular level by a little tweak in the automation, it would save a lot of hunting.
+“Nothing personal,” Atin muttered, wondering what went on in their self-aware metal heads. “It's you or me, vode.”
+“What?” Prudii's voice filled Atin's helmet.
+“Just trying not to be… organicist.”
+“Don't give me all that droids-have-rights osik.”
+“Wouldn't dream of it,” said Atin.
+He landed next to the Null lieutenant, and they skirted the assembly line. On the factory floor, 20 metres below ground level, the rhythm of fully automated production continued uninterrupted. Only worker-droids were around during the night shift. Durasteel sheets rumbled between the rollers, were caught by giant claws, and moved to the next assembly line for cutting. At the end of the conveyor belt, a clamshell press shaped the torso cases of
+battle droids around a form before dragging them through cooling vats with a hiss of steam. The whole place smelled of soot and burning.
+A maintenance droid –just a box on wheels with a dozen multifunctional arms – trundled past Atin and Prudii, as blind to the electromagnetic profile of their armour as all his kind were. Atin still held his breath as it passed. But no sound escaped from his sealed helmet. He could yell his head off at Prudii and nobody else would hear a thing. The deafening noise of the assembly line would have drowned out all sound anyway.
+“There it is.” Prudii pointed to what looked like a run of oversize lockers on a far wall. Their hinges were as corroded as the gantry. “I hate rust. Don't they do any housework around here?”
+Atin eased the cover open carefully. No, the Seps didn't inspect the automated settings very often, as long as the stateboard reported that everything was running okay. Inside, racks of data wafers fed template information to the different production lines, dictating wire gauges, alloy proportions, component ratings and the thousands of other parameters that went go into making a battle droid. Atin and Prudii had just opened up the brain of the entire factory. It was time for a little surgery.
+“How many times have you done this?” asked Atin.
+Prudii sucked his teeth audibly and rocked his head, counting. “Lots,” he said at last.
+“And they haven't noticed yet?”
+“No. I'd say not.” Prudii clipped bypass wires to the bays above and below the slot to isolate it. “Just so I don't trigger the safety cut-out.” He inspected a substitute data wafer – apparently identical in every way to the Separatist ones – and inserted it into the slot. “This'll make sure the foundry adds too much carvanium to the durasteel, and that the quality control sampling reads it as normal levels. See?” He pointed to the readout on the panel. A cluster of figures read 0003. “Machines believe what you tell 'em. Just like people.”
+“You sure that's enough?”
+“Any higher and it'll be too brittle to pass through the rollers. Then they'll spot the problem too soon.”
+“Okay…”
+Prudii took a breath. He was remarkably patient for a Null. “Look, when these chakaare reach the battlefield, the overpressure from a basic ion shell will crack their cases like Naboo crystal.” He removed the bypass clips and attached them to bays flanking a vertical slot further up the panel. More spiked wafers replaced genuine chips. “And just in case they get lucky and spot that little quality-control problem, this one will reduce the wire gauge just enough so that when it takes a heavy current, it'll short. I like to introduce a different batch of problems for each factory, in case they spot a pattern. How much more of this do I have to debate with you?”
+“Just checking, sir.”
+“Drop the 'sir.' I hate it.”
+It was a precise calculation: just enough to render entire production runs of droids so vulnerable on the battlefield that they were almost useless, but not enough to flag the problem when the units were checked before being shipped from the factory – checked by service droids using the same falsified data.
+Prudii had to be doing something right. The kill ratio had climbed from 20-to-one to 50-to-one in a matter of a few months. The tinnies still hadn't overrun the Republic, despite the claims that they could. While Prudii worked, factory droids skimmed past him, oblivious. He stepped out of 'щ their way and let them pass.
+“Is it true you've tracked down General Grievous?” asked Atin. '"Cos I know that two of you were tasked to hunt him…”
+“Not me. Ask Jaing. Or Kom'rk. Their job, not mine.”
+Atin hadn't met them yet. “If they've found him, the war's as good as over.”
+“You reckon? Well, it doesn't look like it's over yet.”
+Atin took the hint and didn't ask about Grievous again. He kept watch, DC-17 rifle ready, anxious not to use it for once. It was odd to be invisible. He wondered why the Grand Army didn't use stealth coating on all trooper armour, seeing as most of their land engagements were against droids.
+There was a lot that didn't add up in this war.
+“There,” said Prudii, closing the panel gently. He stood back to inspect it. “We were never here.”
+They climbed back up to the gantry on their lines and slipped out the way they'd come. It was pitch black outside. They had an hour to get to the extraction point and transmit their coordinates to the heavily , disguised freighter waiting for them. On Olanet, that meant crossing '. kilometres of marshaling yards serving the nerf-meat industry. Atin ;' % could hear the animals lowing, but he'd still never seen a live nerf.
+“This place stinks.” Prudii settled behind a repulsor truck in a yard full of hundreds of others and squatted in its shadow. The harmless but nauseating stench of manure and animals penetrated his helmet's filters. “Five-seven, are you receiving?”
+“With you in 10, sir. Stand by.”
+Prudii made no comment about the 'sir.' He took the data wafers out of his belt and attached a probe to them, one at a time. He struck Atin as a kindred spirit, a man who wouldn't let any inanimate objects get the better of him, but he was still hard work.
+“Shab,” Prudii muttered. He held but a wafer. “What do you make of this?”
+Atin slotted it into his own wafer reader and relayed the extracted data to his HUD. The readout was just strings of numbers, the kind of data he'd need to analyze carefully. “What am I looking at? I normally blow this stuff up. I've never stopped to read it.”
+“Look for the code that starts zero-zero-five-alpha, 10 from the top row.”
+“Got it.”
+“That's the running total of units off the line since the wafer was inserted to start the production run. And the date.”
+Atin scanned from left to right, counting the line of numbers and inserting imaginary commas. “996,125. In a year.”
+“Correct.”
+“Not exactly smoking.” Atin checked that he wasn't missing a row of numbers. “No, just six figures.”
+“Every factory we hit is producing numbers like that. Judging by the raw material freight we monitor, there're still a lot more factories out there, but I think we're talking about a few hundred million droids.”
+“That's reassuring. Thanks. I'll sleep well tonight.”
+“And so you should, ner vod.” Prudii popped the seal on his collar, lifted off his helmet and wiped the palm of his gauntlet across his forehead; it came away shiny with sweat in the faint light leaking from the HUD. Somehow he looked older than Mereel and Ordo. “They say they're making quadrillions of droids.” He paused. “A quadrillion has 15 zeroes. A thousand million millions, not a few hundred. Are we missing something here?”
+Atin took no offence at the explanation. Anything more than three million was bad news in his book; that was how many clone troops were deployed or being raised on Kamino. “'They' say? Who're 'they'?”
+“Now that's a good question.”
+“Anyway, it only takes one to kill you.”
+“But where are they all? I've bimbled around 47 planets this last year.” Prudii made it sound like sightseeing. Atin had a sudden vision of him admiring the visitor attractions of Sep planets and then fragmenting them. The grip of the Verpine rifle slung across his back was well-worn. Atin had no real idea who Prudii hunted, and he was happier that way. “Seen a lot, counted a lot. But not quadrillions. They just don't seem to be able to produce anywhere near those numbers.”
+“But that's why we're fighting, isn't it?” Atin tried not to worry about the HoloNet news and took the political debate as something that didn't matter, because one droid or a septillion, he and his brothers were the ones who would still be in the front line. “Because the Seps are going to overrun us with droid armies if we don't stop them. So why not just reassure the public that the threat isn't that big?”
+Prudii looked at him for a moment. Atin got the feeling that he felt sorry for him in some way, and he wasn't sure why. “Because it's only the likes of us that are finding this out every time we crack a Sep facility.”
+“You report it?”
+“Of course I report it. Every time. To General Zey. Mace Windu knows. They all know.”
+“So why is the holonews news saying quadrillions? Where did the figure come from?”
+“I heard it first from Republic Intelligence.”
+“Well, then…” Intel was notoriously variable in quality. “They make it up as they go along.”
+“Even they're not that stupid.”
+Prudii replaced his helmet and held his hand out to Atin for the wafer. He didn't say much after that.
+Millions or quadrillions. So what? Atin, a man who enjoyed numbers, looked at the 1.2 million clone troopers deployed at that moment, added the two million men still being raised and trained, and didn't even need to place a decimal point to work out that he didn't like the odds.
+But he never did. And it never stopped him from defying them.
+“Want me to relay this data to HQ?” he asked.
+“No,” said Prudii. “Not until Kal'buir sees it. Never until he sees it.”
+A good Mandalorian son always obeyed his father. The Null ARCs were no different: they looked to Sergeant Kal Skirata – Kal'buir, Papa Kal – for their orders, not to the Republic. A Mando father put his sons first, after all, and they trusted him.
+Skirata would always outrank everyone – captain, general-and even Supreme Chancellor.
+place and time: tipoca city. kamino – 461 days after the battle of geonosis.
+Ko Sai was a devious piece of work.
+Mereel – ARC trooper N-7 – had always thought of Kaminoans as cold, arrogant, xenophobic, and even suitable for barbecuing, but he'd never seen them as scheming – not until he began hunting their missing chief scientist, anyway. She hadn't died in the Battle of Kamino, as everyone thought. She'd defected.
+Why? What motivates her? Wealth? Not politics, that's for sure.
+He knew she was still alive, because she was on the run from her Separatist paymasters, now. In the cantinas of Tatooine, he'd heard rumours of a bounty. And when you had only your rare skill in cloning to trade, in a galaxy where non-military cloning was now banned, your attempts to raise credits were hard to hide from those who knew where to look.
+The world of Khomm and Arkania had really suffered from that ban. Mereel knew exactly where to look.
+He stood to attention in the ranks of troopers in theTipoca training facility, a good, obedient clone as far as the Kaminoans were concerned. A perfect product. But their identification systems weren't quite as foolproof as they'd told the Republic. They certainly hadn't spotted his fake ID transponder code. The little chip cycled through randomly generated IDs and, without his distinctive kama and blue-trimmed armour, he could disappear right in front of the kaminiise. Not even the patrolling KE-8 pilots looking for defective clones could spot him.
+You think you're infallible, don't you, aiwha-bait?
+One of the Kaminoan technicians walked along the row of troopers and paused in front of him, blinking, gray-skinned, its long fragile neck tempting to a man trained to kill. Mereel, frozen at attention, fantasized: blaster, vibroblade or garrote? These vile things had wanted to exterminate him as a kid, and he would never forget that. He and his five brothers had been a cloning experiment the Kaminoans considered a failure: but Kal Skirata had saved them.
+There was time for revenge later. Kal'buir had taught him patience.
+Patience is a luxury. I'm ageing twice as fast as an ordinary man.
+He needed to pass through Tipoca City and grab some data without being noticed. The Kaminoan moved on. Mereel savoured the knowledge that he knew more about chief scientist Ko Sai's whereabouts than the Kaminoans did, and they'd searched for her very, very hard.
+You're going to give us back our lives, gihaal, me and all my brothers. Mereel included the Republic commandos, the poor cannon fodder meat-cans around him, and even the Alpha ARCs, who'd been ready to kill clone kids to stop the Seps from using them. An vode. They're all my brothers. Even the Alphas.
+As the troopers fell out, he slipped in at the rear of a line of men to cover his progress toward the administration core of the building. One glanced at him, the slightest head movement betraying what was happening under his helmet. The man was probably well aware Mereel was a stranger from the minute telltale differences in gait or bearing, but he said nothing. No clone could possibly be a security risk.
+I'm just borrowing some information, ner vod. I'm not even going to sabotage this cesspit of a city. Take no notice of me.
+As the line passed a corridor leading off at 90 degrees, Mereel wheeled left and walked calmly down to the end of the passage. The heads-up display in his helmet scrolled floor plans and data before his eyes. He looked both at it and through it to focus on the systems terminal set in the wall. Since the Separatist attack on Tipoca just over a standard year ago, security had been tightened, but that was just for Seps and their droids. Amateurs and tinnies. Nobody could keep out a determined Null ARC.
+“Mer'ika,” said the voice in his helmet. It was quiet and concerned: Skirata rarely raised his voice to them. “Don't push your luck. I want you back in one piece.”
+“I hear you, Kal'buir.” Mereel slipped the docking pin of his forearm plate into one of the terminal's ports. A couple of troopers looked his way from the end of the passage, but he remained unhurried. I'm just calibrating my suit. “We might not get another chance to come back here. I'm grabbing everything I can.”
+Along with the legitimate outgoing code that requested data from the Tipoca mainframe, a second hidden layer hitched a ride to access the root of the entire system undetected. Mereel now had Republic Treasury encryption and de-erasure keys, courtesy of an obliging Treasury agent called Besany Wennen, and they were the most advanced available. Now he could read not only Treasury data, but also find encrypted files between Tipoca and the Republic that had been hidden from his previous probes. He might also be able to recover the data that Ko Sai had stolen and deleted.
+He wanted her critical research on controlling the ageing process i in humans. It might work both ways, they said. That meant it was worth a fortune. She would try to sell it.
+The tree of files appeared in his HUD, a field of flickering amber and blue symbols like a garish fabric. What looked like a plain white wall to humans on Kamino was actually a riot of colour beyond their visual range. Only in the Kaminoans' digital systems did Mereel ever get a glimpse of the way their heptachromatic vision saw the world.
+Lots of blue and orange and purple. Tacky. Tasteless.
+If he copied just the files he knew he needed, it would take seconds.
+You might never get a chance to come back again.
+The mainframe held 10 petabytes of data. It would take minutes.
+Boots clattered past him. Mereel concentrated on looking like a regular trooper maintaining his armour's systems, but it was hard to stretch a 30-second procedure. He could hear his breath rasping in his helmet. So could Skirata and his brother Ordo, waiting in orbit to extract him.
+“You okay, son?”
+“Fine, Kal'buir.”
+“No heroics,” said Ordo's voice. “Get out now.”
+Mereel looked at his HUD icon: still amber, still downloading. He was pushing it, all right. But he'd pushed his luck a lot more for the Republic, and a bunch of strangers and jetiise didn't mean half as much to him as the welfare of his brothers. The amber icon flashed. More boots clattered past the end of the passage.
+Come on… Come on…
+It was taking too long.
+His peripheral vision, enhanced by his helmet's systems, saw the Kaminoan pause and turn to walk towards him. Fierfek. That's all we need.
+It was a crested male. It stood in front of him, feigning concern. He knew it only sawhim as a commodity.
+“You have been downloading longer than average, trooper.”
+“Just checking, sir.” Mereel heard a faint click on his audio feed: Skirata was edgy. “Slow data response times on my HUD.”
+“Then please proceed to Procurement and have them run diagnostics.”
+“Yes, sir!” Don't bank on it, aiwha-bait. The icon in his HUD changed to green. “Right away, sir!”
+Mereel withdrew the docking pin and walked back down the passage in the general direction of Procurement. The moment the Kaminoan was out of sight, he dropped back into the ocean of whitearmoured bodies and worked his way down the wide corridors and walkways to the maze of service passages that led to lesser-known landing platforms.
+Mereel knew every metre of the complex. Skirata had encouraged the Nulls to run wild as kids, much to the disgust of the Kaminoans. He looked into the cloud-locked sky and rain hammered his visor like shrapnel.
+“Ready, Kal'buir,” he said. “Get me out of this dar'yaim.”
+place and time: republic special-ops freighter tiv z766/2. cato neimoidia portal. hydian – 461 standard days after the battle of geonosis.
+“This wasn't in the op order,” said Atin. “We were supposed to sabotage the factory and return to base.”
+Prudii had ordered the traffic interdiction vessel to Neimoidian space. The pilot didn't seem worried. TIV pilots never did.
+“I know,” said Prudii. “But this is all about presentation.”
+“Even this TIV can't take on an armoured transport.”
+“You sound scared, ner vod. Look at me. No helmet. Would I take a risk without my suit sealed?”
+Atin considered showing Prudii where he could dock his character assessment the hard way. “But it's not unreasonable to ask why you're presenting a target to the Seps just to get a few thousand droids that are probably from a spiked batch anyway.” He paused for a breath. “Lieutenant.”
+“No need to stand on ceremony with me, vod'ika.” Prudii shrugged. “We're all brothers. Even those unimaginative Alpha planks, Force bless 'em. Why am I doing this? Emphasis, ner vod. Emphasis.”
+A small, bright spot grew larger in the view plate and resolved into a yellow and gray transport with horizontal spars picked out in scarlet. Prudii let it draw a thousand metres behind the TIV.
+“Ready torpedoes,” he said.
+The pilot tapped the console. “Torps ready.”
+“Steady…”
+The transport was accelerating slowly towards the jump point.
+“On my mark…”
+He was calculating blast range. Atin could see it.
+“Take take take.”
+“Torps away.”
+A spread of six proton torpedoes streaked from the concealed tubes in the ship's underslung drive. The TIV shuddered. Atin reminded himself that his Katarn armour and bodysuit was space-tight for 20 minutes, and then realised help would be a lot more than 20 minutes away if anything went wrong. It always was – why did they bother? But Prudii didn't have his helmet on. Either he was confident or he was mad, and being a Null meant he was probably both.
+The first and second warheads punched one-two into the transport's starboard flank in a blaze of gold light. Atin didn't see the rest strike because the TIV accelerated from standstill to way too fast in a matter of seconds, heading for the jump point. It was definitely emphatic.
+Stars stretched and streaked before them as the TIV went to hyperspace and left the stricken transport far behind. Prudii wasn't even waiting to confirm a kill. He smiled as the acceleration levelled out and the TIV settled steady again. The pilot yawned. Atin said nothing.
+“You're going to tell me what an or'dinii I am for pulling that stunt, aren't you, ner vod?” asked Prudii.
+“Pointless bravado.” If he took offence, Atin was ready to swing at him. “Reckless, even.”
+“But it's what the GAR would do if it came across a droid transport and didn't know a lot of tinnies were already as good as useless, isn't it?” Prudii sounded as if he regarded the Grand Army as something separate and external. “I didn't bust my shebs around half the galaxy this past year so the Seps could work out that their tinnies were already sabotaged. So it's worth the risk to make it all look real. If we don't take a pop at them whenever we get the chance, they'll wonder why.”
+Atin dealt in the measurable and the solid, things he could deconstruct to find out how they worked, and things that he could build. He was trained in camouflage and feint attacks. But the world that the Nulls moved in, the arena of black ops, was a nebulous haze of bluff and counter-bluff. Just when he thought he had the hang of it, they'd do something that was obvious in hindsight but that hadn't occurred to him at the time.
+“You think they're that smart?”
+“I never underestimate the enemy,” said Prudii. “Especially when I'm not sure who the enemy is.” He tapped the pilot's shoulder. “Drall RV point, my good man, and make it snappy.”
+“You Null boys are my favourite fares,” said the pilot, and yawned again. “Never a dull moment.”
+place and time: republic special-ops shuttle. uncoded. en route from kamino to drall RV point corellian space – 461 standard days after the battle of geonosis.
+Mereel swung through the hatch into the crew bay, and Skirata gave him a playful tap on the ear with the flat of his hand.
+“Don't do that again,” said Skirata. “If those gray freaks had caught you, they'd have reconditioned you.”
+“They might have tried.” Mereel caught Ordo narrowing his eyes in disapproval: Kal'buir was not to be distressed, ever. “Anyway, this could well be worth it.”
+Safe from detection even by the Republic, they sat in the crew cabin of the unmarked shuttle and pored over the data from Mereel's haul while they waited for Atin and Prudii to rendezvous. They watched the files play out on Ordo's datapad like the latest holovids while the Treasury software from oh-so-helpful Agent Wennen flagged the most heavily encrypted files and those that had been subject to secure erasure.
+Mereel was almost joking when he keyed in the search parameter “Palpatine.” It was always worth seeing if there was data about key politicians in any files he sliced, just in case, but he didn't expect to find anything.
+But he got it.
+“Osik,” he cursed.
+“Problem?” Ordo nudged him.
+“Maybe.” Mereel stared at a triple-encrypted file that yielded to the Treasury software. But it wasn't a message or a data file; it was a copy of a holotransmission.
+He hit the key. It was a frozen holo of Lama Su. Fierfek, it was the Kaminoan Prime Minister, and he appeared to be talking to Chancellor Palpatine.
+Skirata swallowed audibly. “Now this is where life gets a bit dangerous.”
+But they watched, transfixed, as the shimmering blue image of Lama Su sprang to life from the datapad emitter.
+“If you require more clones beyond the current order, then you must authorize us to begin further production immediately. An initial payment of one billion credits….”
+There was a crackling pause: Palpatine's response wasn't recorded, but it was clear he had interrupted. Lama Su's head bobbed in annoyance.
+“We must make it clear that the current Kamino contracts terminate in two years. Apart from the special facilities you ask us to set up on Coruscant, Chancellor, you will have no further clone production beyond the current three million unless you commission more now…”
+There was nothing more. It appeared to be all that Lama Su had filed, probably as some kind of personal insurance. If the date was correct, the conversation had taken place some months before.
+“Shab,” Skirata hissed. “What are they playing at?”
+Ordo slowly raised his hand to his mouth. Mereel, who thought he'd seen it all, revised his grasp of political subterfuge on the spot.
+“So is the Republic going bust and not paying its bills?” asked Ordo. “Or are we seeing something else?”
+“Cloning facilities on Coruscant? General Zey never mentioned that.”
+“Maybe he doesn't know. There's a lot Zey doesn't know, after all… lots about us, for a start.”
+“How's the Chancellor going to pull that off?”
+Skirata interrupted. “See what else you can find.” He'd started chewing ruik root again and Mereel gauged his anxiety by the speed of his jaw. He was going like a machine now. “I don't like this at all.”
+“If this is all the army we've got for the foreseeable future,” said Ordo, “then we'll be overrun in two years.”
+“Unless Prudii's patent droid remover saves the day,” said Mereel, stomach churning.
+Why didn't I pick this up earlier?
+All Nulls were adept spies, used to knowing more about the Republic's inner workings than the Senate itself. Mereel could even find out the smallest and most private details if he needed to, maybe even how many times Palpatine used the 'freshers each day. He'd thought that no information escaped him. So being surprised by totally unexpected information left him uneasy and ashamed.
+“How did I miss this, Kal'buir?” he said, feeling he had let him down.
+“You didn't, son,” said Skirata. “You found it.”
+place and time: RV point. drall space. corellia sector – 462 standard days after the battle of geonosis.
+Prudii obviously hadn't seen Skirata in a long time. Atin watched, fascinated, as he turned instantly from glib cynic to adoring son, hugging Skirata with a clash of armour plates. He stood back, and Skirata patted his cheek, an indulgent grin spreading across his face.
+“I have some interesting data for you, Kal'buir.” The two ships hung linked together by a docking tube, a long way from Republic scrutiny as well as the Separatists. They gathered in the crew bay of the smaller TIV. It was a tight fit. “We're still not finding droid numbers like Intel claimed. We have to reassess the nature of the Sep threat.”
+Atin thought Prudii just meant numbers. It was now obvious that the droid numbers were flawed to say the least. Atin would have been happy to just write that off as Republic Intelligence being di'kute – nobody with any sense expected intel to be accurate anyway – but it seemed to bother all three Nulls a great deal. Ordo and Mereel, their helmets stacked side by side on the deck like two decapitated heads, wore matching frowns of concern.
+“Come on, this is supposed to be good news,” said Atin.
+Ordo shrugged. “Depends where the original estimate came from.”
+“But what if it turns out to be right?”
+Mereel looked mildly exasperated. “If they had even one quadrillion droids, or a tenth of that, we'd know all about it – because they'd use them, and they'd invade Coruscant.” He glanced at Skirata, as though waiting for permission to go on. Skirata shook his head. “Anyway, a factory processing more droids than that needs a lotofdurasteeland parts, and we'd notice the traffic. We're not seeing quadrillion-ton shipments of ore, metal or components.”
+“Then it's just Sep propaganda. Everyone talks up their troop strengths.”
+Atin simply couldn't see why it mattered. They had a better handle on the Sep droid numbers now, and a good strategy, for the time being, for making sure that the millions didn't count for anything like that number on the battlefield. He settled back into an alcove in the port bulkhead and inserted his test probes into the wafer's terminals. He just wanted to see the data for himself, or as much as he understood of it.
+“We're fighting small fires all the time, all over the place,” said Skirata. “Zey might think these numbers are good news, but it's like saying we're drowning in three metres of water instead of a hundred.”
+Atin hadn't been raised by Skirata like the rest of Omega Squad, but he knew the man well enough now to read his reactions. He was completely transparent with clones; he didn't seem to be able to deceive them, or even want to. “There's something you're not telling me, Sarge.”
+Skirata put his comlink on standby. “Yes, son, there is.”
+“So it is Grievous, then? Because if it is…”
+“It's messy politics.” Skirata – a contract killer, an accomplished thief, a man who diverted Republic resources whenever he felt like it – would never lie to his boys. He promised them that. “If you know about it, it might endangeryou.”
+Atin wondered what might be more dangerous than being a Republic commando. It wasn't exactly a steady desk job. But he trusted Skirata completely, even if his curiosity was devouring him. “Okay, Sarge. Orders?”
+“Get back to HQ with the TIV pilot and do a bit of skills transfer. Teach the rest of the lads how to make nice crumbly droids.”
+Ordo cut in. “And thank Besany Wennen for me, will you?”
+Atin worked out that Prudii wasn't going back with him. “You're telling me to get lost, aren't you?”
+“For your own good,” said Skirata.
+It had to be Grievous. Fora moment Atin wondered if they didn't think he was good enough to go after the Separatist general with them, and then he started worrying for Skirata. Even with a bunch of Nulls, the old di'kut would be insane to try to tackle him. And Atin had no intention of walking away if that was on the agenda.
+“Straight question, Sarge.”
+“Don't put me on the spot, At'ika.”
+“Are you going after Grievous? 'Cos if you are, I'm not leaving.”
+“No, we're not going after Grievous.”
+Atin scrutinized his face. “Okay, Sarge. Be careful, anyway. Whatever it is.”
+He climbed back through the hatch to rejoin the TIV pilot. Most of the time, he really didn't need or even want to know what the Nulls got up to. Or Skirata, for that matter. He just didn't want to lose any more brothers.
+And even if he worked out what was going on, it wouldn't change his job one bit.
+place and time: rv point. drall space – 462 standard days after the battle of geonosis.
+“Okay, what's your assessment?” Skirata prepped the secure link to General Zey back at headquarters. “What are we going to tell him?”
+Ordo shrugged. “Nothing about the holorecording – yet.”
+“We'd be failing in our duty if we didn't advise him to change tactics, though,” said Mereel. “Again.”
+“You know it's not his decision.”
+“But it's still our duty.”
+Skirata frowned and opened the secure link. The Jedi general seemed to have been caught on the hop – the holoimage showed him in his undershirt, hair disheveled.
+“Another confirmation of droid production numbers, General,” said Skirata. “Same as before. Worst scenario, maybe a few hundred million right now.”
+“That's better than we thought. I needed some good news.
+Successfully neutralized?”
+“My lads are completely reliable.”
+“I know.”
+“We think… look, it's pretty clear from what we're seeing that we're facing small-scale conflicts in waves. If we concentrated all our forces on completely overwhelming them a sector at a time, instead of scattering our troops across a thousand fronts, we could break the Seps a lot faster.”
+Zey chewed his lip. “I hear what you say.”
+“A big push. Consolidate our forces and hit 'em hard, then move on when they're crushed and hit the next sector. This piecemeal approach is just damping down fires temporarily.”
+Mereel waited for Zey's reaction. The Jedi looked tired. It was hard to find anyone in the Grand Army who didn't look in need of a week's sleep.
+Zey dropped his voice to a near-whisper. “I agree, militarily. General Windu reminds the Chancellor of this proposal whenever he can. The answer's always the same. Palpatine thinks it'll be seen as excessive force and might alienate the neutral worlds.”
+Mereel had no patience with politics. “Tell him we're feeling pretty alienated right now, too.”
+“I understand your frustration, Lieutenant.”
+“What does he say about the droid numbers, then?”
+Zey shrugged. “He believes that underplaying the threat might be foolhardy.”
+“Always easier to get the voters to foot the bill for a war if they think the enemy's about to invade, eh? Is that why Republic Intel came up with the quadrillions figure?”
+“You're a cynical man, Sergeant.”
+“Yeah. I was a mere for too long.”
+“I never said you were wrong.”
+“Okay, General,” said Skirata. He managed to sound irritated. Zey knew the game by now; the two of them conducted a coded conversation, both knowing what the other really felt. Mereel admired their pragmatism. “We've not found the hub of the Seps' droid production. I assume you'll want us to carry on looking.”
+Zey sounded older these days. “The Chancellor is most insistent.”
+“Understood, General.”
+Skirata closed the link and stared through Mereel for a moment. Then he focused on him again. “Palpatine doesn't want to talk about the real numbers. Clone production on Kamino looks like it might stop dead in a couple of years. I say the objective of this war isn't the one we're being told it is.”
+“You sound like you expect politicians to tell the truth, Kal'buir.”
+“Nah, I'm not that senile yet.” Skirata gestured to Ordo for his datapad, fingers beckoning. “We're bringing the plan forward a little, lads. I'm marking a date on my calendar just under two years from now, and making sure we're ready to take care of our own by then. You understand me?”
+“Understood,” said Mereel. Skirata had what he called an exit strategy: his plan for the end of the war, not just for himself, but for the Nulls… and maybe any clone who found himself out of a job. “Okay, everybody looks for Ko Sai now.”
+“What about Grievous?”
+Ordo handed the datapad to Skirata. “Last time Kom'rk got a fix on him it was leaked information. Someone wants us to find him. Until we work out who and why, we keep a little distance.”
+“Works for me,” said Mereel.
+Wars often didn't make sense. He'd read plenty of history, and he'd absorbed Kal'buir's lessons; politicians often made decisions that flew in the face of professional military advice. Whatever the Republic was up to, a long-running war of skirmishes suited Palpatine's purpose.
+But it didn't suit Mereel. And it didn't do the mounting numbers of clone casualties any good either. He felt no guilt whatsoever about using the taxpayers' credit to get the best outcome for himself and his brothers, both those in the field now and those to come.
+Three million against… how many? Hundreds of millions. They were bad odds, but they weren't impossible, not with the Nulls and a few thousand commandos around. But working out odds meant being clear who the enemy was, and the more Mereel learned, the less certain he became.
+“Cheer up,” said Prudii, “Average kill rates are going up all the time. I reckon we can shoot for at least 200-to-one.” He took a hand-size slab of metal out of his pack and held it up with a grin. Then he smacked it down hard on the edge of the console. It crazed and broke into pieces. “Those tinnies just can't take the strain like we can.”
+No, those weren't impossible odds. Bad, maybe; but not impossible. Mereel sat back in the co-pilot's seat, took out his datapad, and began combing through the hidden data of Kamino's clonemaster. Ko Sai had the whole galaxy in which to hide, but she was hiding from men she had personally engineered to be the very best.
+The odds weren't in her favour.
+Glossary
+carvanium – metal used in alloys
+vode – (Mando'a) brothers
+osik – (Mando'a) equivalent of “poodoo”
+chakaare – (Mando'a) term of abuse (lit. thief, petty criminal, “grave-robber”)
+ner vod – (Mando'a) my brother
+kaminiise – (Mando'a) Kaminoans
+aiwha-bait – insulting Mandalorian term for Kaminoans
+an vode – (Mando'a) “brothers all.”
+jetiise – (Mando'a) Jedi (plural) also means Republic
+fierfek – Huttese curse
+vod'ika – (Mando'a) affectionate diminutive form of “brother”
+Mer'ika – (Mando'a) affectionate diminutive form ofMereel
+shebs – (Mando'a) backside
+di'kute – (Mando'a) idiots, morons
+merc – short for mercenary
+chags – small, unpredicable, highly excitable Hapan amphibians
+heptochromatic – able to see in six colours including ultraviolet
+petabyte – a quadrillion bytes of data
+dar'yaim – (Mando'a) a place you want to forget, a hell
+TIV – Traffic Interdiction Vessel (disguised vessel used for boardings by GAR special forces)
+or'dinii – (Mando'a) “complete lunatic”

@@ -1,0 +1,389 @@
+
+   Jeffery Deaver
+   A Perfect Plan
+   Sunday, October 2
+   “We got ourselves some intel that you oughta know about.”
+   The man sat in Lincoln Rhyme’s New York City Victorian parlor, his legs stretched out, revealing bright yellow socks. His couture was as eclectic as Rhyme remembered: today, a green suit and a plaid shirt. He wore a skinny necktie, and the background of the garment was a deep brown that matched his complexion perfectly. Theforeground of the tie was dotted with tiny, embroidered toucans, green and red.
+   Fred Dellray was not your typical FBI agent.
+   “Go on.” Rhyme turned his wheelchair to more fully face the man. Rhyme frequently hired on as a forensic consultant for PERT, the FBI’s physical evidence response team, but it was unusual to be contacted by the law enforcersbefore a crime had occurred.
+   “Wish it was more, but it’s little bitty, just a hint here, a hint there. And, soon as the snoopers got wind and tried to tune in for episode number two, it was gone. Skittering like a scared bird. Or floating off like a ghost.” Dellray clicked his tongue. “Let’cha pick your own figure ofspeech.”
+   Dellray’s manner of speaking was as odd as his clothing choices.
+   Rhyme had missed the agent— one of the Bureau’s top runners of confidential informants, and a great undercover op himself. He’d transferred to DC to concentrate on identifying white supremacist threats by supervising his CIs. Now he was back in New York, assigned to the Southern District.
+   “Fred.” Rhyme was as impatient as ever.
+   “Now, our BFFs in the UK—”
+   “What’s that? A security agency? Never heard of it.”
+   Dellray blinked.“Right, right, you’re not a pop culture kinda guy. ‘Best friends forever.’ What kids say about themselves.”
+   “Fred,” Rhyme tried again and put some effort into his sigh.
+   Dellray continued,“Our best friends at the Brit sneaky spy outfit — GCHQ — just happened to hear a conversation. It was accidental and, missing that li’l thing called a warrant, they couldn’t, as a technicality, keep listening. But before they disconnected, there it was, thirty seconds on tape. Sitting there like some uninvited houseguest. They called MI5 and a friend o’ mine over there shot it my way.”
+   “Could we focus here a bit, Fred?”
+   “I’m almost there. So, the gist: Person X — my name for him — is somewhere in England. Has an Irish accent. He was having a conversation with Person Y here in New York, who doesnot have an accent. X is hiring this Y to eliminate Person Z. We all together on that?”
+   “Imminently together, Fred. Your synopsis, I’m referring to. You are still a little light on the details.”
+   “Sadly, sadly true. I’m gazing into a veritable void. But I should tell you we have got ourselves one particular little fact. About which you’ll be highly interested.”
+   “Which is?”
+   “Person Z? The target? Is you.”
+
+   “Who is it, you think?” Lon Sellitto asked. “Person X. The guy behind it?”
+   The bulky man, detective first grade, in a wrinkled brown suit, was standing in the parlor, arms crossed. Also present was Rhyme’s wife and professional partner, Detective Amelia Sachs, tall, her red hair lassoed into a ponytail. She was in jeans and a black blazer, specially cut to make the Glock 17 on her right hip — an efficient but easy-to-spot weapon — less obvious.
+   Dellray had returned to the Federal Building. He was working through back channels to get more information out of the organization that had accidentally overheard the phone conversation about the hit on Rhyme: the Government Communications Headquarters, the British equivalent of the National Security Agency.
+   So far, nothing. And even if one of the many security agencies in the UK wanted to take up the case, it appeared that X had tipped to the intrusion. The frequencies he’d been using had gone silent. He undoubtedly had picked a new means to contact his killer in New York, otherwise known as Person Y.
+   Rhyme now said to Sellitto and Sachs,“Lot of people want me dead. The question is: Is it somebody getting even, or somebody who wants me out of the way because they’re planning a move in the future and don’t want me involved in the investigation?”
+   Sachs’s ponytail swayed as she shook her head. “That’s a lot of forethought — your second option, I mean. Doesn’t seem likely. Why target you now when there’s no guarantee you’d be the one running the case?”
+   “Yeah, I agree,” Sellitto said. “Somebody’s pissed you put them away and wants to get even.”
+   Rhyme sighed.“Ah, revenge is so tiresome. Such a waste of time...” He frowned. “England. You know what that puts me in mind of?”
+   “The expat case,” Sachs said.
+   Rhyme had assisted in the investigation into the poisoning death of a Russian oligarch and ex-patriot in London a few years back. The criminalist had made enemies among a number of British nationals, other Russian oligarchs and the Russian security agencies, all of whom had agents in the UK.
+   Sachs placed a call to Dellray and told him about the case. When she disconnected, she said,“He’ll bring it up with MI5 and 6.” She gave a brief smile. “That man has connections everywhere.”
+   Looking around the town house parlor and front hall, Sellitto said,“We gotta beef up security here. I’ll get some bodies from Personal Protection Div.”
+   Rhyme sighed once more.“By ‘div,’ I assume you mean ‘division.’ So far, the only victim in this case seems to be the English language.”
+   The detective continued, unfazed.“They’ll put in more cameras, some other gadgets. Oh, and you gotta stay inside until we find out exactly what’s going on.”
+   Rhyme, a quadriplegic physically and an introvert psychologically, rarely left his town house on Central Park West, where he was perfectly comfortable in near isolation. But once a week he traveled a few blocks to a college where he taught graduate level students in the art of forensic science and a seminar called the Philosophy of Criminal Apprehension. He enjoyed the classes immensely, especially the latter, where he would verbally joust with the more outspoken and intelligent students.
+   “I’m not missing my classes,” he told Sellitto.
+   The detective cast a glance at the elaborate chair, which featured a large center wheel on each side of the device and smaller ones in the front and rear.“Don’t be crazy. You’re a sitting duck.”
+   One of the reasons Rhyme remained friends with his former partner after all these years was that he didn’t go gentle on the topic of the disability. The criminalist grew furious when people treated him like a china doll.
+   “I can take the van to class.”
+   Thom Reston, Rhyme’s aide, piloted him about town on the rare occasions when he needed or wanted to be out in a Mercedes Sprinter, tricked out to handle the wheelchair.
+   Sachs said,“It’s a bad idea, Rhyme. Five minutes to get into the van, five minutes to get out. You’d be totally exposed. And all the buildings on CPW and around the school? Two, three dozen perfect sniper nests.”
+   The Upper West Side of Manhattan bristled with high-rises and hotels. A shooter could get into, or on top of, any of them without a soul paying attention.
+   As Rhyme hesitated, Sellitto said,“Fred and I’ll call in some markers — CIs with international connections. See what’s what. We find something, we can rethink it. But for now, take the week off, Professor.”
+   “Christ,” Rhyme muttered under his breath. Then he thought: Person Y. Who are you? How’re you coming at me? And when?
+   As a man whose purpose in life was to solve questions, he did not do at all well when confronted with inquiries he couldn’t answer.
+   Monday, October 3
+   Valentin Renard pulled the white CLS-Class Mercedes into the parking garage on 9th Street in Greenwich Village, mindful of the side of his hundred-thousand-dollar vehicle; the entrance was quite narrow. The building had been constructed in the’70s, when small cars were the rage — that oil shortage thing.
+   The garage was in the basement of an apartment building and it featured an attendant, so that when he left he could pay cash. Many of the garage and parking facilities in New York accepted only debit and credit cards. Not a sign of the high-tech times, a measure to avoid stickups at gunpoint.
+   He climbed from the car. The thirty-three-year-old was blond and trim and appeared trimmer yet by the sleek, dark gray Ferragamo suit he wore. The narrow black tie, contrasting with the off-white high-thread-count shirt, added to his linear image. He removed a duffel bag from the trunk, slung it over his shoulder and beeped the car to sleep. He climbed the ramp to the street, past the security camera that was there for show only; he knew the model. This was another reason he’d selected this garage.
+   He began walking east.
+   When he was in Alphabet City— where the north-south avenues began with letters — he noted the conditions deteriorated as the letters progressed. Finally he came to a two-story building, 522 East St. Marks. It was red brick and dark with soot and whatever other particulates settled on buildings in Manhattan.
+   He climbed to the front and, using a knuckle, not fingertip, rang a buzzer. A large man, hairy everywhere, opened the door. He wore a white T-shirt over baggy— and gamy — gray slacks. The scent of cigarette smoke orbited.
+   “I’m Davis,” Renard said. “I called about that basement room.”
+   “Well,” the man offered hesitantly in an accented voice, “you were going to call back with the credit card.” The soft pronunciation of theg told Renard the man was Ukrainian, not Russian.
+   “It’s still available?”
+   “Yeah.” He pulled out his iPhone and fished in his pocket, pulling out a credit card reader.
+   “I’ll pay cash.”
+   “We don’t take cash. It’s not, you know, part of system, how it works.”
+   The man was in a network like Airbnb.
+   “You have it listed for five hundred for the week.”
+   “Yeah.”
+   Renard reached into his inner jacket pocket and extracted a letter-size envelope. He opened it. The man looked at the twenty hundred-dollar bills, which had been handled in such a way by Renard that there were no fingerprints on them.
+   “Here. And I don’t want any paperwork.”
+   The man continued to stare. He then lifted his head and looked his potential tenant over carefully.
+   A handsome man with a thick coif of hair in a politician’s trim cut, Renard offered a smile. “Nothing to be suspicious of. I’m a journalist writing a story about the dangers of credit cards and debit cards. I’m going to live the entire week in New York paying cash only.”
+   “Yeah? Like for newspaper?”
+   “It’s a podcast. Do you want to be interviewed for it?”
+   “No” was the fast response. The owner of the building took the bills and handed over a key. “I show you the place.”
+   “Not necessary.”
+   When the man returned to his living quarters, Renard stepped down the stairs, pulled on clear latex gloves then unlocked first the wrought-iron outer door and then the inner wooden one.
+   The rooms— with separate bathroom and kitchenette — were as he expected: they smelled of mold and damp concrete, and the walls displayed slapdash paint jobs (in ugly salmon). There was an uncomfortable bed, a small kitchen featuring battered, stained and chipped appliances. Limp towels, Target house brand soap and shampoo. A TV that had to be one of the smallest flat screens on the market.
+   Renard doffed his jacket and slacks, hanging them in the closet. He grimaced at the hangers: they were wire and they would leave horizontal creases in the trousers. He stripped off his dress shirt, revealing taut muscles; he worked out daily, using free weights and a pull-up bar in the doorway of his bedroom closet. He then opened the duffel bag and set out some of the contents: personal items, clothing, papers, a computer, several burner phones.
+   He dressed in jeans, an undershirt and a black sweatshirt. He exchanged his twelve-hundred-dollar brown leather dress Kitons for running shoes.
+   Taking a notebook from the bag, he sat at the desk and turned on a wobbly light, which cast a pale circle in front of him. He opened the book, on the first page of which was taped a map of the Upper West Side of Manhattan.
+   Circled, in the center, was one particular address, on Central Park West.
+   The residence of Lincoln Rhyme.
+
+   “Nada, nothing, nup.”
+   Fred Dellray was once again in Rhyme’s town house. “They tried but, fact is, ran smack into a dead end.”
+   “Our best forever friends.”
+   “Best friends forever,” Dellray corrected.
+   Rhyme grunted.
+   “Nothin’ on any Russians peeking out from that case of yours, the expat. Friend I got in MI5 was wondrin’ you ever run a case here that might’ve wandered into Brit organized crime or politics? With the brogue, they were thinking, you know, the Troubles. Unionists versus nationalists.”
+   Rhyme thought back over his long, long tally of cases. He supposed there might’ve been one or two that had a connection to the British underworld. But it would be tangential at best. As for the Irish-English issue, he knew with certainty he’d run no investigations touching on that conflict. He told Dellray this.
+   “And all my snitches and CIs, anything with a lick of connection to the UK, not a single word. I know Lon was corralling some of the departments’ folks. But...”
+   His arrested sentence and shrug were meant to convey that NYPD had far fewer international connections than the FBI did.
+   Thom Reston had been enlisted to help too. He now reported to Dellray,“I’ve been through about four hundred emails Lincoln received — Amelia too, some — and there’s plenty of threats. But I couldn’t find anything credible or specific. And none of them had any connection to the UK.”
+   Lon Sellitto stepped into the parlor. He had been supervising the installation of extra security cameras covering the front and the back doors of the town house— as well as some complicated contraptions in the front hall: sensors that were the size and shape of file cabinets with analyzing chambers in the center. They were an X-ray unit and an explosives detector. The technicians, who’d been vetted, explained to Dellray, Rhyme, Thom and Sellitto how they worked. The controls were simple.
+   “All deliveries to the town house,” Sellitto was saying to Rhyme, “and all the evidence Amelia brings back from the scenes? It all goes through them. And I’ve told the precinct, no parking in front of your building. Worried about car bombs. Any vehicles there, other than Amelia’s, they call the Six House.”
+   That precinct was the site of the NYPD Bomb Squad.
+   He nodded to Thom and Rhyme.“When’ll Amelia be back?”
+   “Shouldn’t be long. An hour?”
+   She had gone to Spanish Harlem on the Upper East Side of Manhattan to run a crime scene.
+   “K. I’ll text her to check out her car for explosives, if it’s been out of sight.”
+   Dellray said,“You know, Lincoln, I was having a thought. Remembering this slugfest I got myself into the other day.”
+   Sellitto frowned.“A fight?”
+   “Oh, you betcha. Nasty. Was all about Fyodor Shcherbatskoy.”
+   Rhyme, who was perhaps more used to Dellray-speak than his former partner, smiled.“I think Fred is talking metaphorically. No fisticuffs were involved.”
+   Dellray nodded.“Exactly. Was a debate is what I’m talking about.”
+   “Shcherbatskoy’s this scholar in modern Buddhist philosophy. His thing is presentism, you know.”
+   The bedraggled detective scoffed,“Of course I don’t.”
+   Fred Dellray was not only a brilliant undercover agent but was a talented amateur philosopher as well. Rhyme had never known one could pursue philosophy as a hobby like golf or stamp collecting until he met Dellray.
+   “Lemme explain. Presentism’s point’s that everything in the past is unreal, everything in the future is unreal. Shcherbatskoy said, ‘Ultimately, real is only the present moment.’ Which I, ’course, reject most soundly.”
+   Sellitto muttered,“This going anywhere, Fred?”
+   “Betcha. Now, I myself hew to eternalism. The pastdoes exist. So, for that matter, does the future, but that’s a whole different kettle of fishies. And let’s not muddy up the already-muddy waters with relativity. I’m bringing this up for one very important reason, Lincoln. Presentism and eternalism’re both theories in the philosophy oftime. We all together on that?”
+   “Ah, got it, Fred. You’re thinking that Person X might be the Watchmaker.”
+   Rhyme objected to the word“nemesis” — the idea of a single villain somehow paired with you like a destructive doppelganger was melodramatic in the extreme — yet he had to admit that if he let down his rationalist’s guard just a bit, he could accept that the word applied to Charles Vespasian Hale.
+   A.k.a., the Watchmaker.
+   A for-hire criminal, Hale constructed his criminal plots— for terrorism or assassination or larceny or sabotage — with the complexity and skill of constructing clocks and watches, which was his passion. The last time they had joined in combat, Rhyme foiled a horrific crime he tried to commit. Afterward the Watchmaker had sent an ominous message.
+   The next time we meet— and we will meet again, I promise you — will be the last. Farewell, for now, Lincoln. I’ll leave you with this sentiment, which I hope you will ponder on sleepless nights: Quidam hostibus potest neglecta; aliis hostibus mori debent.Yours, Charles Vespasian Hale
+   The Latin translated into:Some enemies can be ignored; other enemies must die.
+   Rhyme now told Sellitto and Dellray,“He was the first one I thought of. But I think Person X is something else.”
+   Sellitto said,“He wants you dead.”
+   “Of course he does. But he wouldn’t hire the job out — to Person Y. He’d come in person. No, this smells of something else. But until Fred finds more, orwe do, it’s pointless to speculate. Maybe it’s all just one big mistake. There’s nobody out there at all.”
+
+   The man sat in the back of the pub, dressed in a workout kit, dark green, without any team insignia. Here, just outside of Manchester, England, you could get into trouble with a boisterous fan if you were wearing United or City, and he the opposite. Or— even worse — if you were in Chelsea or Arsenal colors. Better to avoid any hint of loyalty.
+   He was nursing a pint of bitter, as he perused the internet. The pub had good Wi-Fi but he was using his own router— and was, of course, using proxies. Glancing at his watch, he noted that the time in New York would be midday. He extracted his burner phone and placed a call to another one.
+   The man answered.“Yes?”
+   “It’s O’Connor.” The Irish brogue was thick. “McAdams?”
+   “That’s right,” came the low voice, American English.
+   The names were, of course, codes.
+   “Ach, I confirmed it. Yeah, they made us.”
+   A sigh from the left side of the Atlantic.
+   The“they” were the estimable spies in the Doughnut, the apt name of the circular building housing the Government Communications Headquarters in Benhall, in the suburbs of Cheltenham. He had been assured that the communications protocol between the two men was secure but it apparently had not been.(The person who’d set it up was no longer of this world.) The new connection, he’d confirmed, was safe.
+   “They know everything?” the American co-conspirator asked.
+   A sip of bitter.“No, no. Just that somebody here is targeting somebody in New York and has recruited somebody there to assist. But they know who our target’s gonna be.”
+   A pause.“How much of a problem is it?”
+   “I’m thinking he’ll be more cautious is all, more suspicious. We’ll just have to be taking that into account, won’t we?” He looked around the pub to make sure once again no one could hear. The place smelled of a floral air freshener. Pubs — any time of day, in every corner of the British Isles — used to smell of cigarette smoke. He asked, “Now, I’m asking: are you good to continue?”
+   This was a test.
+   “Yes.” No hesitation.
+   The man had passed.“Ach, good. I’m pleased with ya.”
+   There was a screech of brakes, a horn, shouting. New York City traffic.“Everything’s on schedule. I’ll be at the target location soon. I’m getting everything set up.”
+   Target location... Sipping bitter, he pictured Lincoln Rhyme’s town house. And he wondered, as he had before, how the criminalist had managed to come by the expensive piece of property — and more curious, how he had managed to assemble such a formidable forensic lab.
+   Though, of course, he knew the answer: Rhyme was very, very good at what he did.
+   He said into the phone,“You’ll be getting the next installment tonight, if everything goes well.”
+   “It will.”
+   Spoken with confidence.
+   He rose from the pub booth, saying,“We’ve been on the line long enough. Call me when you have results.”
+   And he disconnected before he heard the reply.
+
+   Carrying a small paper grocery bag that contained a navel orange and a McIntosh apple, Valentin Renard strolled east along a quiet sidewalk on the Upper West Side. Over his shoulder was a bulky backpack and around his neck was a pair of Nikon binoculars. He oriented himself and walked into Central Park, resplendent this fine autumn day, filled with colorful leaves and rich green grass and the not unpleasant scent of vehicle exhaust laced with charcoal smoke from chestnut and pretzel vending carts.
+   Strolling south, he gazed up at trees, occasionally lifting his binoculars and jotting in a notebook as if documenting the presence of a particular bird. Throughout New York City, bird-watching was a popular sport. No one paid attention to the optically enhanced voyeurs.
+   When he arrived at a tangle of brush across from Lincoln Rhyme’s brownstone, he looked around him and noticed few people nearby. None were paying any attention to him. He lifted the binoculars and pointed them toward the front windows of the town house. He had assumed they were bulletproof and this was confirmed by the distinctive refraction of the thick glass.
+   Not that it mattered; the curtains were drawn. Rhyme knew he was the target of an assassination and was in security mode.
+   The roof was gabled and difficult to scale, given the angle; also, an intruder would be exposed to hundreds of pedestrians, drivers and park strollers. As for the back, Renard knew that Rhyme rarely if ever ventured there. And even if he did, there was no good sniper nest from which to shoot.
+   Renard noted cameras covering all the approaches to the front door. Nary a blind spot.
+   But he noted all of these things merely because his nature was to be observant. His plan regarding Lincoln Rhyme did not involve snipers or frontal assaults.
+   He placed the fruit— his lunch for later — into the backpack, from which he then removed a metal briefcase, eighteen by eighteen inches, and opened it. Inside was a small drone. He thought of the last one he had seen — he’d been on the beach in St. Nevis, in the company of a woman who was a stockbroker and quantitative analyst, as smart as she was beautiful. The resort drone was a moneymaking ploy by the company that operated the beach. It would take pictures of the tourists and then offer framed snapshots to take home as souvenirs. Renard had reached into a backpack, not unlike this one, extracted a powerful green laser and subtly targeted the device’s navigation system. The vehicle ditched at sea in quite the spectacular fashion.
+   Renard now pulled on clear latex gloves once again and extracted the device.
+   Again looking around and, making sure he was unobserved, he used a phone app to launch the craft into the air. It flew with silent elegance, smoothly under his practiced commands.
+   Flying a drone in Manhattan is illegal for nearly everyone. The city is mostly Class B airspace— because there are so many airports nearby — and that means you need FAA permission to fly. Also you must be certified under FAA regulations, Part 107, which Renard was not.
+   City statutes prohibit the craft too.
+   One could be charged with both civil and criminal counts, including reckless endangerment. But finding and arresting the operator was another matter, especially with a drone purchased for cash in a different city and launched in the absence of witnesses.
+   He reflected too that with an explosive charge inside, there would be nothing left— not even DNA — to trace back to a suspect.
+
+   Lincoln Rhyme did not fret.
+   He did not worry.
+   His existence was more precarious than that of most people— given his condition — and he had long ago accepted that his body might betray him. Then too he had indeed made many enemies and it was not unreasonable to posit that a certain percentage were angry, and probably crazy, enough to get even.
+   But you did what you could.
+   You followed sound medical advice, you established home security. And you concentrated on your job.
+   The doorbell sounded and Rhyme instructed the system to unlock. NYPD Detective Mel Cooper, Rhyme’s key lab man, stepped inside and greeted the criminalist. Sellitto too.
+   “My,” he said, eyeing the security devices.
+   Sellitto told him about the threat.
+   “Well, not surprising, I suppose. You’ve put some pretty bad people behind bars.”
+   The detective asked,“Hey, Mel, didn’t you have some competition or something?”
+   “Ah,” the slim, bespectacled man replied modestly, “we prevailed.”
+   Cooper and his stunning Scandinavian girlfriend contended as ballroom dancers throughout the tri-state area. They were, apparently, quite renowned.
+   Rhyme had probably heard about the contest but he never had time for, or interest in, small talk and tended not to listen when it was proffered.
+   “Thom’s out shopping,” Sellitto said. “But he made coffee.” Pointing to a pot.
+   “I’m good.”
+   Sellitto was looking through the floor-to-ceiling glass wall that separated the public portion of the parlor from the sterile lab. There were a half-dozen items of evidence Amelia Sachs had collected at a crime scene yesterday.“You know, we oughta scan all of that.” He was nodding. “We don’t know how long this guy’s been after you. He could’ve hid a bomb in some evidence.”
+   To Rhyme that seemed far-fetched. He hadn’t blown up yet. But he supposed it couldn’t hurt.
+   Cooper dressed in booties, hat and gloves, then donned a clean white lab coat.
+   He turned to Rhyme.“I’m not a doctor, but I play one on TV.”
+   Rhyme stared, wondering why Sellitto was laughing.
+   Cooper stepped into the sterile portion of the room and collected the evidence. With Sellitto guiding him through the instructions, he ran the items through the sensors in the hallway.
+   “All clear,” Sellitto announced.
+   Cooper headed back toward the lab, asking,“Where’s Amelia?”
+   “Spanish Harlem,” Sellitto said. “Some drug deal went down, and it might have Hector Velasquez’s prints all over it. I’m speaking figuratively about the prints — but I damn well hope it’s literal.”
+   Velasquez was one of the most ruthless organized criminals in the city. And one of the most elusive. It had been a priority of the NYPD’s OC Task Force to nail the mobster but they’d made no headway — until now. It seemed a drug deal had gone bad, and clues found at the scene, they hoped, might implicate the gangbanger in chief.
+   Sellitto’s phone hummed and he took a call. He listened and then held the unit away from his face. “It’s Andy Gilligan, gold shield I work with, Major Cases. He’s running a B and E, downtown. He’s asking if you’ll take it on.”
+   “Breaking and entering? Was there any battery, homicide?”
+   “No.”
+   Lincoln Rhyme had little patience for cases that did not challenge him. And simple larceny rarely rose to the occasion.“Then why me?”
+   “Because of where he hit. The DSE.”
+   “Which is?”
+   “The Department of Structures and Engineering. He got into the main repository. Downloaded the details of every existing and proposed construction project in the city. The mayor and the chief’re convinced it’s for some terror attack. You know, they have the layout for any building they want to hit.”
+   “Have they already run the scene?”
+   “Yeah. Evidence collection team out of Queens. And they got some interesting things. Looks like he missed an alarm. It went off and he had to book on out fast. Left behind a tool kit or something.”
+   “Tell him I’ll take a look.”
+   Fifteen minutes later the detective arrived. Gilligan, a slim, balding man, shook Sellitto’s hand then, as instructed, ran the two evidence bags through the security systems. Sellitto looked the readouts over and said, “All clear.”
+   Gilligan seemed reverential in Rhyme’s presence. “Honor to meet you, sir. I’ve followed your work for years.”
+   The criminalist greeted the awe as he usually did— that is, by ignoring it. He was looking at a half-dozen plastic evidence bags Gilligan carried in a carton. Inside were tools, a knife, several pieces of paper containing printed and handwritten numbers and words that Rhyme could not make out.
+   “Thanks for doing this, Captain Rhyme. The mayor’s beside himself. You can imagine. Every building in the city’s vulnerable.”
+   Sellitto asked,“Any threats from known risk elements?”
+   “No.”
+   “We’ll run it today,” Rhyme told him.
+   Gilligan handed off the evidence to Mel Cooper who set the bags on another workstation in the sterile portion of the lab.
+   The detective thanked the men again.“See you back at the office, Lon. We’re taking Mannie out after work. Birthday.”
+   “Think I’ll have to pass,” Sellitto muttered. “Got this thing we need to handle here.”
+   “Okay. Take it easy.”
+   A few minutes after Gilligan was gone, the door opened and Thom arrived from a trip to the grocery store. He started past the men in the parlor but Sellitto eyed his two grocery totes, frowned and said,“Uh-uh.”
+   “How’s that?” the aide asked.
+   Rhyme chuckled.“He thinks somebody might’ve snuck a hand grenade in with the avocados.”
+   Once the groceries passed the security check, Thom continued toward the kitchen, saying,“Don’t see them very much in the city.”
+   “See what?” Sellitto asked absently. On a large whiteboard, devoted to the DSE break-in, he was itemizing the evidence Andy Gilligan had delivered.
+   “Drones.”
+   “Because,” Mel Cooper called, “they’re illegal in Manhattan. A lot of other parts of the city too. I have one, but I go out to Long Island to fly it.”
+   “Well,” came the voice from the kitchen, “there’s one outside now.”
+   Rhyme shot a glance to Sellitto, who muttered,“Shit. Where?”
+   Thom appeared, his face troubled. He nodded.“Over the town house south of us.”
+   “What’s it look like?”
+   “Silver frame, four motors. Small, about a foot square. Foot and a half maybe.”
+   Sellitto’s phone was in his hand. He placed a call to NYPD Dispatch, gave his name and badge number and reported a possible 243 at Rhyme’s address.
+   It meant, in police codes, a threat involving a dangerous weapon.
+   “All the doors and windows locked?”
+   Thom assured,“They are.”
+   Rhyme said,“First floor windows’re bulletproof. But there’re a half-dozen in the back that aren’t.”
+   “Mel, you armed?”
+   “I am.”
+   Sellitto ordered,“Get out here and hang with Lincoln.”
+   Cooper did, stepping from the lab, pulling off the protective gear and checking his pistol, which he probably hadn’t fired in a year or two.
+   Sellitto was out the door, just as two RMPs— marked squad cars — screeched up in front of the house.
+   Rhyme said to Cooper,“Put the security cameras on the big screen.”
+   A few computer commands later, the men were gazing at six different angles of the front and back of the residence. Outside, Sellitto and the officers were looking up and pointing. The detective pulled out his phone and made a call.
+   Rhyme’s phone hummed and he instructed it to answer on speaker.
+   “Lon, what does the drone look like?”
+   “Might have a payload in the center, but that could also just be the camera and battery. I don’t know. Okay, it’s moved. It’s hovering over your place... Hold on... It’s going toward the chimney. Yeah, it’s right above it. IED, I’m guessing.”
+   Thom said,“It’s not going to get very far. The chimney’s sealed up, about a foot from the top. The concrete goes all the way to the cellar.”
+   “Hold on. It’s like he’s just seen that he can’t drop anything into it... Yeah, it’s turning and banking. It’s leaving, heading into the park.” He turned and gazed into the greenery. “Whoever’s running it’s got to be here somewhere.” His voice grew distant as he turned to the uniforms. “Get into the park, see if you can find it and the operator. This’s part of a hit on Lincoln Rhyme.”
+   “Jesus,” was one response.
+   “You stay with me,” Sellitto told the largest of the officers. “Case the drone’s, you know, a diversion. We’re gonna check the perimeter.”
+   “Sure thing, Detective.”
+   He disconnected and, eyes on the high-def monitor, Rhyme watched three of the uniformed officers head into the park, while Sellitto and the other patrolman made the rounds of the town house, front and back. They returned to Central Park West and Sellitto left the uniform stationed by the front door and entered, double locking the door behind him.
+   He shrugged.“Coincidence?”
+   “No,” Rhyme announced.
+   Cooper said,“I agree. Anybody who owns drones knows the rules. A hobbyist wouldn’t fly in Manhattan. Serious offense.”
+   Sellitto took another call and had a brief conversation. It concluded with:“Yeah, okay. Get a dive team — and tell ’em it could be explosive.” He disconnected.
+   “Ended up in the pond?” Rhyme asked.
+   “Yeah. Looked like it ran out of battery. Just slowed up and dropped. They couldn’t find anybody with a controller.”
+   “The controller,” Cooper said, “is a cell phone. It’s all you need — not like a big box with an antenna.”
+   Drone, Rhyme reflected. Interesting choice. Before he could speculate further on the craft, he looked to Sellitto, whose phone was humming yet again. He answered,“Sellitto... No shit?... He get a description?... Okay. Thanks.”
+   After disconnecting, he turned to the others.
+   “That was a gold shield named Carruthers. Works Fraud. They got a report somebody was going through the trash outside your building earlier today. Dressed too good to be a homeless guy. He opened up some bags and took out some slips of paper. Call ended up on his desk because, you know, dumpster diving? Looking through trash for credit card numbers, social security, stuff like that. When he heard about your situation, he thought he better call.”
+   Rhyme said slowly,“Okay. Let’s say the diver was Person Y — the hit man hired by Person X. What would he be after? He wants me dead. He doesn’t want to steal my identity.”
+   His eyes turned to Thom. He whispered,“Receipts! He could find out where you shop for groceries and what you buy.”
+   The aide whispered,“Evans Market. Where I just was.”
+   Sellitto asked,“Did you use a cart when you shopped?”
+   “Yes.”
+   Rhyme said,“And at some point you must’ve left it unattended.”
+   “Never for more than a minute or so, but I did, yes.”
+   Rhyme said,“The drone was a distraction. We concentrate on that and he slips something into my food. Injection. What did you buy?”
+   “Apples, lemons, tomatoes, asparagus, steaks, chicken. Jars of pasta sauce, cheese. Wine.”
+   Rhyme said,“He’d target fresh fruits or vegetables. Meat you might freeze. We’d have to eat the produce now. Eliminate the lemons — I wouldn’t ingest enough toxin to cause much harm. Asparagus? No. Too thin to hold much poison. Apples would be too dense. Tomatoes’d be perfect. Mel, full protectivegear and go get them. I want every centimeter of the skin examined. The compound scope. Four power.”
+   Cooper did as instructed and was soon rotating the large red sphere slowly under the microscope’s lens.
+   In the non-sterile portion of the parlor, Rhyme, Sellitto and Thom were staring at the high-definition monitor.
+   Suddenly, Cooper stopped the orbit.“There, upper left.”
+   “That’s it, right.” Rhyme was nodding.
+   They were looking at a pinprick in the skin.
+   “Put it in a protective container, seal it.”
+   The tech did so.
+   “Go over the others too.”
+   Ten minutes of further examination revealed that it was only the one tomato that had been tainted.
+   “Clever son of a bitch,” Sellitto muttered. “Had us focused on the drone and he slipped poison in right under our noses.”
+   Rhyme first heard then, on the monitor, saw Sachs’s red Ford Torino pull up in front of the house. She climbed from the sleek car, decades-old, and went to the trunk, from which she collected a box of evidence.
+   She carried the carton to the front door, which Thom opened for her.
+   “Looks impressive,” she said, eyeing the security scanners. “Are they doing any good?”
+   Rhyme laughed.“Actually, no. Didn’t stop the attempted poisoning or the aerial bomb attack.”
+   “I’m sorry?” She was frowning.
+   Rhyme explained about the drone and the injected tomato.
+   “Not your average criminal mind.”
+   Sellitto nodded to the sensors.“We’ll have to run everything through.”
+   “You think Velasquez’s involved? One of his crew is Person Y?”
+   “Ninety-nine percent no,” Sellitto said. “And our boy’s had his shot. He missed and I’ll bet he’s headed out of town. But” — a nod at the scanners — “let’s just stay on the safe side until we know for sure.”
+   After donning gloves, Sellitto opened each evidence bag and ran them through the machines.
+   Rhyme asked Sachs what had happened in Spanish Harlem.
+   “A blue-and-white was responding to a possible drug deal. The uniforms roll up and spot this guy looking suspicious, walking away from Velasquez’s club. He’s carrying a paper grocery bag. He sees the blue-and-white, panics. Tosses the bag and ditches his burner. He took off. Still haven’t found him.”
+   Sellitto said,“We’re lucky, we’ll get Velasquez’s prints or DNA on the happy powder bag.”
+   Rhyme asked,“What was the substance?”
+   “Haven’t tested it yet. Coke or smack. About a half key.”
+   There was enough white powder in the baggie to put its owner away for thirty years. Rhyme wondered if it could be traced to Velasquez. He would do everything he could to find out.
+   “It was hidden under some towels and newspapers.”
+   This was disappointing. Cloth was not the most helpful of substances in forensic analysis— you couldn’t lift prints from most types, and certainly not from terry cloth. But there was always the chance that trace substances were embedded in the fibers that might link the drugs to Velasquez. Perhaps they could get fingerprints off the paper bag and maybe even a DNA hit. Maybe the baggie would reveal something helpful but perps tended to be very careful when handling product.
+   Sellitto announced that the evidence wasn’t a danger, and Sachs replaced everything in the evidence bags.
+   She started toward the sterile portion of the lab, outside of which Mel Cooper, no longer playing the role of bodyguard, was once again dressing in protective gear. She was halfway to the glass door when a phone dinged with an incoming text alert.
+   It was the mobile that the drug runner had ditched outside of Velasquez’s social club.
+   Sellitto extracted the unit from the evidence bag.
+   He read,“Says: ‘I’m at Del’s, Atlantic Ave. Where are you?’ ” He gave a laugh. “Must be a buddy of the runner. He doesn’t know what happened at Velasquez’s. We gotta work this. Keep him in play.”
+   Sachs said,“Tell him...” She thought for a moment. “Say, ‘Meet me at the Irving Grill. Twenty-Second Street. We can celebrate.’ ”
+   “Good,” Sellitto said and slowly typed in the message. When he finished he looked up. “We’ll get a team there. Nothing to collar him for... yet. Maybe he’s got a weapon or some product. If it’s in plain view, we got probable cause.”
+   The detective, Sachs and Rhyme stared at the screen, which revealed only the three pulsing dots, telling them that the other party was typing.
+   It was then that the phone itself rang with an incoming call from an unknown number.
+   “I pick up?” Sellitto asked the others. Then he frowned. “Wait. What the hell?”
+   Rhyme too had heard what sounded like a soft pop from the phone. He was watching a faint white cloud puff from the side of the unit, which stopped ringing.
+   “The hell...?” Sellitto looked down at the screen, “Another text... Jesus.”
+   Rhyme was close enough to read the message himself.
+   The powder’s botulinum toxin, Mr. Rhyme. In sixty seconds, everyone in the room will be either dead or in a coma from which they won’t recover. Goodbye.
+
+   In his dive of a safe house, Valentin Renard broke in half the phone he’d used to send Lincoln Rhyme the text about the poison. The pieces went into a bag for later disposal.
+   He changed back into clothes he felt more comfortable wearing than the common garments he’d worn when carrying out his plan. The Ferragamo, the Chanel belt, the Kiton shoes. He made no apologies for liking the nicer things in life. He put one hundred percent of himself into everything he did and that had made him a great deal of money over his relatively few years. It was appropriatethat he spend his resources in ways that maximized contentment.
+   This was his philosophy of life.
+   He left the house, heading west. He noted a funky vegetarian restaurant he would dine in tonight. A glance at the menu told him that he could eat in this restaurant every night for a week and the bill would still be less than that for a recent dinner at L’Etoile, on the Upper East Side. No judgment, just an observation.
+   He collected his Mercedes and pulled into the street.
+   A half hour later he found a parking place and climbed from the sleek vehicle. He walked a half block to the residence he sought and climbed the stairs, where he rang the bell, looking up at the security camera just above and to the right of the door. He made sure those inside got a good look at his face.
+   The door lock clicked.
+   He stepped into the front entryway. There he paused and offered a nod— and a smile — to Lincoln Rhyme, who wheeled forward and heartily shook his hand.
+
+   Of all the students in Lincoln Rhyme’s Philosophy of Criminal Apprehension seminar at the college nearby, Valentin Renard was the most brilliant, with honors degrees in economics, psychology, law and history.
+   He was also the most eclectic.
+   Young Valentin had studied abroad and traveled extensively; his mother worked for the State Department and his father was a senior Interpol official then prosecutor for the International Court of Justice in the Hague.
+   After receiving several degrees, he’d settled into a career on Wall Street, where his investment strategies had made him a multimillionaire — enough money to live on for the rest of his life. He now dabbled in charitable foundations — among them, literacy and arranging lectures on art, economics and history for young people. He was quite the accomplished violinist and performed occasionally. His sport was fencing.
+   What truly fascinated the man, though, was crime.
+   Rhyme had learned this one night after class when they’d shared a single malt illicitly smuggled into the classroom by the student. Renard had wanted to interview the criminalist about some of his more memorable cases.
+   It seemed that the young man had no interest in working professionally in law enforcement. No, his passion was somewhat different: he collected crimes, though only those committed by the cleverest and most dangerous perpetrators. Over the years, he had assembled nearly nine hundred binders, filled with notes, transcripts, maps, charts and photographs. Each was devoted to a particularly notable crime, both domestic and foreign. He kept these in a massive library in his apartment, not far from Rhyme’s on the Upper West Side.
+   Each file was digitized as well and Renard made that version available to any law enforcement officer who requested to view it.
+   When Rhyme heard that someone had put out a hit on him, his first thought was: preparedness.
+   Person Y. Who are you? How’re you coming at me? And when?
+   Whom better to call than Valentin Renard? What better solution than to ask him to imagine himself a brilliant assassin and devise the perfect plan for Rhyme’s murder? Just after Fred Dellray had delivered the news from England, Rhyme had contacted the student and he’d agreed, immediately intrigued at the assignment.
+   Now, sitting in Rhyme’s parlor with the others, Renard unbuttoned the jacket of his luxurious Italian suit. Beneath he wore an off-white shirt, monogrammed with royal blue stitching,VMR. He sipped coffee as Rhyme explained to Cooper and Sellitto what he’d done.
+   “And you didn’t goddamn tell us?” Sellitto blustered, looking at Rhyme.
+   “Only Amelia,” Rhyme said.
+   Renard set the cup down.“That was my idea. I thought it was best that everyone react the way they normally would to a threat — we let the chess match play out as it naturally would.”
+   Rhyme shrugged.“Anyway, Lon, I didn’t knowmyself what he was going to do. Once Valentin agreed, that was our last contact.”
+   Sachs said to Renard,“Tell us how you put the plan together.”
+   The man, handsome as a model, cocked his head.“First of all, I decided I needed to get into a killer’s mindset. I became an assassin. I did everything he would do. Paid cash, used my knuckles or wore gloves to avoid prints. Avoided security cameras.
+   “As for the plan itself, I thought back on some of the smarter assassinations in my collection. A likely model occurred to me. The murder of a Russian general in Warsaw in the nineteen seventies. It involved an initial attempt on the man’s life followed by a second one. Both were stopped by thegeneral’s security team. That put them into a mode that I call ‘off-edge.’ By that I mean it wasn’t as though they thought there was no threat at all, but psychologically they grew less cautious.”
+   “So the second attempt was a diversion too.”
+   “That’s right.”
+   Sachs asked,“How did the assassin really get him?”
+   “A bomb in a bottle of wine brought to the general’s home by a friend — who didn’t know about the IED.
+   “My first quote ‘attempt’ was the drone. You’d think ‘bomb.’ But you’d also be thinking it was possibly a diversion. Am I right?”
+   “You are,” said Rhyme.
+   “So then there’d be the second attempt — the poison in the vegetables.”
+   Rhyme shook his head angrily.“But that was just a diversion too.”
+   Renard said,“You should’ve dismantled the phone. An X-ray alone wouldn’t show the packet of poison.”
+   “Damn, that call we got,” Sellitto muttered. “You were Carruthers, the detective out of Fraud.”
+   “That’s right. His name was on the NYPD website.”
+   “The hell you get my number?”
+   “I called Major Cases, said I was a detective in Fraud and I needed to talk to you about a case. They patched me through.”
+   Sellitto grimaced.“Security lapse there...” He frowned. “Then you waited until Thom went shopping and followed him to the store.”
+   Renard further explained,“This is Manhattan. Because most people walk to grocery stores they can’t carry that much, so they shop frequently. Usually every day. I didn’t think it’d be long before your assistant went out to pick up dinner. That started the plan in motion.”
+   Thom looked him over, nodding.“And, yes, Idid see you— near my cart.”
+   “I was buying some fruit. When you looked away, I hit the tomato with an insulin syringe. Tap water. It was easy to do. I practiced last night.”
+   “And that?” Rhyme was looking at the bag that held the contraband Sachs had collected outside Hector Velasquez’s social club.
+   “I did some internet research into prominent gangsters. I liked the idea of using Velasquez. The authorities had been after him for a long time but weren’t having any luck. I decided that if there was a chance he’d be implicated in a crime the evidence would be sent to you. You were nearby and you are, after all, the best forensic scientist in the city.”
+   Rhyme offered a grunt, drawing a smile from Sachs.
+   “I filled a baggie with powdered sugar and hid it under some towels in the grocery bag. I took a train up to Spanish Harlem and then called nine one one and reported a drug deal going down. I waited until two squad cars turned onto First Avenue then made it seem like I was walking away from Velasquez’s club. I pretended to panic. I tossed the bag and my phone and ran. By the time the cops got there, I was gone.”
+   He stretched back, long legs out. His shoes were a rich brown; they’d been polished to the point of near reflection.
+   “As for the burner?” He looked toward phone that had spurted the faux toxin. “I modified the vibrator so that when it activated, it cut through a little packet of sugar again. Botulinum is the only airborne poison that would be fatal in such a small quantity.”
+   “Goddamn smart,” Sellitto whispered. He frowned yet again and said to Rhyme, “If you didn’t know what his plan was, weren’t you worried that it reallywas an attack and the poison was real?”
+   “We agreed that when he made the move he’d tell me, or text me, the word ‘goodbye,’ which a real assassin’d never do.”
+   Renard clicked his tongue.“Unprofessional.” He then gazed at the parlor’s ceiling. “Now, I analyzed my plan afterward and decided if I were a real killer, I’d do several things differently. I would have used a real explosive charge in the drone and blown it up over the pond. To convince you that it really was the murder weapon and not a diversion. And I would have found a cutout — a third party — to pay for the safe house. As it is now, the owner of the place got a look at my face. Oh, and when I was finished, I would have burned the building down, destroyed all the evidence. And, of course, killed the owner.”
+   Rhyme offered an amused:“Good thing you’re working for us.”
+   Mel Cooper said,“The drone... itwas illegal, you know.”
+   “Ah, but I thought I’d have to take the chance.”
+   Sellitto shrugged.“It’ll be fine. If anybody complains, I’ll handle it.”
+   The student smoothed his fine slacks and said,“Of course, you understand it’s impossible to guess the details of the real killer’s plan. But I found the vulnerability he’ll exploit.”
+   Rhyme nodded.“The one thing I can’t live without: evidence.”
+   “Your Achilles’ heel,” Sellitto said.
+   Renard rose and buttoned his suit jacket. It really was a fine garment, the gray cloth supple and rich.“I’ll see you in class, Professor.”
+   Rhyme thanked him once more and the curious man left.
+   As she pitched out the fake evidence she’d collected in Spanish Harlem, Amelia Sachs said, “We may know the how, but we still don’t know the who.”
+   Rhyme said,“Time will tell.” He then turned his attention to the evidence from the DSE break-in that Andy Gilligan had brought him. And asked Mel Cooper to return to the lab and start the analysis. It was time to get back to work.
+
+   “O’Connor?” came the voice from his phone.
+   Sitting in his flat in Manchester, England, well past midnight, the man responded,“Aye, it’s me. What’s the status?”
+   “Worked out perfectly. They bought into everything.”
+   “That’s music to my ears, isn’t it? And the data?”
+   “I’ve got more than we even dreamed of. It’s encrypted and uploaded to the cloud site.”
+   The relief was palpable and soon solidified into joy.“I’ll be wiring ya the next portion of your fee in the morning.”
+   “Thanks, O’Connor. Appreciate it. And next steps?”
+   “You’ll be hearing from me.” He disconnected the call, slipped on latex gloves and removed the SIM card from the phone. He broke it into several pieces, which he wrapped in foil, to be tossed into a street rubbish bin in the morning. The gloves, which he now pulled off, would be disposed of in acid, as the inside surface contained his fingerprints and DNA.
+   Pouring a glass of wine, an old Barolo from Piemonte, he pulled his chair to the window, through which he had a pleasant view of a picturesque canal, a Caffé Nero and the massive, brilliantly lit BBC complex. It bustled still; the news never sleeps.
+   He was glad he could drop the phony Irish brogue and working-class vernacular. The man masquerading as Sean O’Connor was in fact American, born and bred, and it took some effort to maintain a credible performance — necessary because of the minuscule chance that GCHQ or MI5 or the FBI was, in fact, pursuing him.
+   But he truly doubted that was the case and he now allowed himself to bask in his success.
+   The plan was unfolding just as he’d orchestrated it — the plan that had two goals. The first was to cause considerable mischief in the city of New York (an assignment for which he was being well paid).
+   The second was to destroy Lincoln Rhyme. This part of the mission was purely personal.
+   He thought of the account of the Department of Structures and Engineering break-in spun to the criminalist by Andy Gilligan— the NYPD detective who’d been on his payroll for several years (it was he who had been going by the code name McAdams).
+   Everything’s on schedule. I’ll be at the target location later...
+   And Gilligan had done as promised: brought Rhyme into the DSE case and delivered the tool kit, which had intentionally been left by the detective after he himself broke into the department’s server facility and stole terabytes of engineering diagrams and blueprints.
+   He was, of course, eager to move forward but he understood that it would be a while before he could return to New York. As a man who was obsessed with the inscrutable topic of time, Charles Vespasian Hale, the Watchmaker, knew that designs as important as his could not be hurried.
+   If it took nine months to create a life, why shouldn’t ending one be approached with equal patience?
+   He lifted the wine glass toward the west, in Lincoln Rhyme’s direction. “To our next encounter,” he whispered.
+
+Взято из Флибусты, http://flibusta.net/b/677619
